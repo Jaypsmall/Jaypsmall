@@ -11,38 +11,52 @@
 </div>
 
 ---
-<table border="0" align="center" style="border: none; border-collapse: collapse; width: 100%;">
-  <tr>
-    <!-- 🎛️ CAJÓN IZQUIERDO: Todo alineado a la IZQUIERDA -->
-    <td valign="top" align="left" style="border: none; padding: 10px; width: 48%;">
-      <h3>😈 Dark Tools  -  Root, Pentesting</h3>
-      <a href="https://github.com/Jaypsmall/HexRootScan">
-        <img src="https://github.com/user-attachments/assets/b53c507a-5ab2-4f26-bccb-43164478d4ac" width="120" alt="HexRootScan">
-      </a>
-      <a href="https://github.com/Jaypsmall/DemoniDraw">
-        <img src="https://github.com/user-attachments/assets/c70cfa80-8d27-4e7d-8e99-ba4f6094a419" width="120" alt="DemoniDraw">
-      </a>
-      <a href="https://github.com/Jaypsmall/Demonitalk">
-        <img src="https://github.com/user-attachments/assets/040d4e54-2f9b-46b7-8a49-5de4db06cd0b" width="120" alt="DemoniTalk">
-      </a>
-      <a href="https://github.com/Jaypsmall/CpuTemp">
-        <img src="https://github.com/user-attachments/assets/8a6582bd-6111-4444-9513-9e47a0dfdddf" width="120" alt="CpuTemp">
-      </a>
-    </td>  
-    <!-- 🌟 SEPARADOR CENTRAL -->
-    <td width="2" style="background-color: #333; border: none; padding: 0;">
-    </td>
-    <!-- 📱 CAJÓN DERECHO: Todo alineado a la DERECHA -->
-    <td valign="top" align="right" style="border: none; padding: 10px; width: 48%;">
-      <h3>📱 General Apps  -  Utilities, UI & Science</h3>
-      <a href="https://github.com/Jaypsmall/HexColor">
-        <img src="https://github.com/user-attachments/assets/617f816a-8061-42ca-86f4-3738c2a93542" width="100" alt="HexColor">
-     </a>
-    </td>   
-  </tr>
-</table>
+<table align="center" width="100%">
+<tr>
 
----
+<td valign="top" width="50%">
+<div align="center">
+
+## 😈 Dark Tools
+**Root • Pentesting • Android**
+
+<a href="https://github.com/Jaypsmall/HexRootScan">
+<img src="https://github.com/user-attachments/assets/b53c507a-5ab2-4f26-bccb-43164478d4ac" width="110" alt="HexRootScan">
+</a>
+
+<a href="https://github.com/Jaypsmall/CpuTemp">
+<img src="https://github.com/user-attachments/assets/8a6582bd-6111-4444-9513-9e47a0dfdddf" width="110" alt="CpuTemp">
+</a>
+
+<a href="https://github.com/Jaypsmall/DemoniDraw">
+<img src="https://github.com/user-attachments/assets/c70cfa80-8d27-4e7d-8e99-ba4f6094a419" width="110" alt="DemoniDraw">
+</a>
+
+<a href="https://github.com/Jaypsmall/Demonitalk">
+<img src="https://github.com/user-attachments/assets/040d4e54-2f9b-46b7-8a49-5de4db06cd0b" width="110" alt="DemoniTalk">
+</a>
+
+<a href="https://github.com/Jaypsmall/ProVoiceChanger">
+<img src="https://github.com/user-attachments/assets/4d2da6f2-44ee-4a9a-96e6-e8953d5650c0" width="110" alt="ProVoiceChanger">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+<div align="center">
+
+## 📱 General Apps
+**Utilities • UI • Science**
+
+<a href="https://github.com/Jaypsmall/HexColor">
+<img src="https://github.com/user-attachments/assets/617f816a-8061-42ca-86f4-3738c2a93542" width="110" alt="HexColor">
+</a>
+
+</div>
+</td>
+
+</tr>
+</table>
 
 ## 👨‍💻 About Me
 
