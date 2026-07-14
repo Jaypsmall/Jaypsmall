@@ -60,6 +60,8 @@
 </tr>
 </table>
 
+---
+
 ## 👨‍💻 About Me
 
 I'm a **Cybersecurity & Android Developer** passionate about building innovative solutions for system optimization, automation, and penetration testing. My work focuses on creating robust, user-centric tools that push the boundaries of what's possible on Android and Linux platforms.
@@ -149,17 +151,6 @@ I'm driven by the belief that **great security tools should be accessible, intui
 - ⚡ **Performance** - Optimized for real-world use
 - 📚 **Open Source** - Contributing to the community whenever possible
 - 🚀 **Innovation** - Pushing Android and Linux capabilities forward
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/Jaypsmall?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Jaypsmall?style=social)
-
-</div>
 
 ---
 
