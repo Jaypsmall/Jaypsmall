@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Android • Cybersecurity • Root Development
+# Android   Cybersecurity   Root Development
 
 **🎯 Root Automation | Pentest Tools | System Optimization**
 
@@ -25,7 +25,7 @@
 
 | 📱 Apps | ⚙️ Languages | 🔓 Focus | 💻 Platforms |
 |:-------:|:------------:|:--------:|:------------:|
-| **8+** | Kotlin  Java  Python  Bash | Android Root  Pentesting  Automation | Android  Linux |
+| **8+** | Kotlin   Java   Python   Bash | Android  Root   Pentesting  Automation | Android  Linux |
 
 </div>
 
@@ -39,7 +39,7 @@
 
 ## 😈 Dark Tools
 
-**Root • Pentesting • Android**
+**Root   Pentesting   Android**
 
 <a href="https://github.com/Jaypsmall/HexRootScan">
 <img src="https://github.com/user-attachments/assets/b53c507a-5ab2-4f26-bccb-43164478d4ac" width="110">
@@ -69,7 +69,7 @@
 
 ## 📱 General Apps
 
-**Utilities • Accessibility • Science**
+**Utilities   Accessibility   Science**
 
 <a href="https://github.com/Jaypsmall/HexColor">
 <img src="https://github.com/user-attachments/assets/617f816a-8061-42ca-86f4-3738c2a93542" width="110">
