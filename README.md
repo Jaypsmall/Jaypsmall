@@ -1,5 +1,5 @@
 
-# 🔓 Jaypsmall - Cybersecurity & Android Developer
+# 🔓 Jaypsmall | Cybersecurity & Android Developer
 
 <div align="center">
 
@@ -97,12 +97,9 @@ I enjoy building tools that interact directly with Android internals, including 
 
 My projects are designed with a strong emphasis on:
 
-- Android Root
-- Magisk & KernelSU
-- Open Source
-- Security Research
-- Performance
-- Accessibility
+- Android Root     -- Magisk & KernelSU
+- Open Source      -- Security Research
+- Performance      -- Accessibility
 
 ---
 
@@ -123,9 +120,7 @@ Advanced CPU governor controller for rooted Android devices.
 **Stack**
 
 `Kotlin`
-
 Repository
-
 https://github.com/Jaypsmall/CpuTemp
 
 ---
@@ -144,9 +139,7 @@ Includes
 - Network Scanner
 
 `Kotlin`
-
 Repository
-
 https://github.com/Jaypsmall/HexRootScan
 
 ---
@@ -161,9 +154,7 @@ Voice Automation Engine.
 - Accessibility Automation
 
 `Kotlin`
-
 Repository
-
 https://github.com/Jaypsmall/DemoniTalk
 
 ---
@@ -178,9 +169,7 @@ Gesture Recognition Automation.
 - Macros
 
 `Kotlin`
-
 Repository
-
 https://github.com/Jaypsmall/DemoniDraw
 
 ---
@@ -195,9 +184,7 @@ Real-time Voice Effects.
 - DSP Processing
 
 `Java`
-
 Repository
-
 https://github.com/Jaypsmall/ProVoiceChanger
 
 ---
@@ -274,3 +261,5 @@ https://github.com/Jaypsmall/ProVoiceChanger
 Made with ❤️ for the Android & Cybersecurity community.
 
 </div>
+
+---
