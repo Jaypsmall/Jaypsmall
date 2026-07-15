@@ -3,8 +3,6 @@
 
 <div align="center">
 
-# Android   Cybersecurity   Root Development
-
 **🎯 Root Automation | Pentest Tools | System Optimization**
 
 *Building custom security solutions for Android & Linux*
@@ -264,9 +262,7 @@ https://github.com/Jaypsmall/ProVoiceChanger
 [![GitHub](https://img.shields.io/badge/GitHub-Jaypsmall-black?logo=github)](https://github.com/Jaypsmall)
 
 [![Email](https://img.shields.io/badge/Email-pekipekistani22@gmail.com-red?logo=gmail)](pekipekistani22@gmail.com)
-
 </div>
-
 ---
 
 <div align="center">
