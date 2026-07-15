@@ -260,13 +260,9 @@ https://github.com/Jaypsmall/ProVoiceChanger
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaypsmall&show_icons=true&theme=tokyonight">
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaypsmall&theme=tokyonight">
 
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaypsmall&layout=compact&theme=tokyonight">
 
 </div>
 
@@ -274,13 +270,13 @@ https://github.com/Jaypsmall/ProVoiceChanger
 
 # 🤝 Contact
 
-📧 Email
+<div align="center">
 
-pekipekistani22@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-Jaypsmall-black?logo=github)](https://github.com/Jaypsmall)
 
-💻 GitHub
+[![Email](https://img.shields.io/badge/Email-pekipekistani22@gmail.com-red?logo=gmail)](pekipekistani22@gmail.com)
 
-https://github.com/Jaypsmall
+</div>
 
 ---
 
