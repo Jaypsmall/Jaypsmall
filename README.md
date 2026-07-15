@@ -1,14 +1,3 @@
-# 🔓 Jaypsmall
-
-<div align="center">
-
-## Android Root • Cybersecurity • Open Source
-
-Building advanced Android tools for Security, Automation & Performance.
-
-<img src="https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&color=red"/>
-
-</div>
 
 # 🔓 Jaypsmall - Cybersecurity & Android Developer
 
