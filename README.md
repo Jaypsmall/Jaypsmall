@@ -58,6 +58,10 @@
 <img src="https://github.com/user-attachments/assets/b6579032-5a23-409a-aed7-2a759328652c" width="110" alt="DaltonicAssist">
 </a>
 
+<a href="https://github.com/Jaypsmall/3Dscience">
+<img src="https://github.com/user-attachments/assets/fca20e14-31b4-4bbc-8aaf-afe91c75ded8" width="110" alt="3Dscience">
+</a>
+
 </div>
 </td>
 
