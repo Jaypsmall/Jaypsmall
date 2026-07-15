@@ -264,7 +264,7 @@ https://github.com/Jaypsmall/ProVoiceChanger
 
 📧 Email
 
-https://mailto:pekipekistani22@gmail.com
+pekipekistani22@gmail.com
 
 💻 GitHub
 
