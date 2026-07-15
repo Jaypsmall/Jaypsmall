@@ -1,3 +1,6 @@
+<div align="center">
+<img src="./assets/header.gif" width="100%">
+</div>
 
 # 🔓 Jaypsmall | Cybersecurity & Android Developer
 
