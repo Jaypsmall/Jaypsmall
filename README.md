@@ -25,7 +25,7 @@
 
 | 📱 Apps | ⚙️ Languages | 🔓 Focus | 💻 Platforms |
 |:-------:|:------------:|:--------:|:------------:|
-| **8+** | Kotlin • Java • Python • Bash | Android Root • Pentesting • Automation | Android • Linux |
+| **8+** | Kotlin  Java  Python  Bash | Android Root  Pentesting  Automation | Android  Linux |
 
 </div>
 
