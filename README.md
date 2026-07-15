@@ -54,6 +54,10 @@
 <img src="https://github.com/user-attachments/assets/617f816a-8061-42ca-86f4-3738c2a93542" width="110" alt="HexColor">
 </a>
 
+<a href="https://github.com/Jaypsmall/DaltonicAssist">
+<img src="https://github.com/user-attachments/assets/b6579032-5a23-409a-aed7-2a759328652c" width="110" alt="DaltonicAssist">
+</a>
+
 </div>
 </td>
 
