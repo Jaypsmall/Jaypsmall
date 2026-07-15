@@ -249,8 +249,6 @@ https://github.com/Jaypsmall/ProVoiceChanger
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaypsmall&theme=tokyonight">
 
-<br><br>
-
 </div>
 
 ---
@@ -262,7 +260,9 @@ https://github.com/Jaypsmall/ProVoiceChanger
 [![GitHub](https://img.shields.io/badge/GitHub-Jaypsmall-black?logo=github)](https://github.com/Jaypsmall)
 
 [![Email](https://img.shields.io/badge/Email-pekipekistani22@gmail.com-red?logo=gmail)](pekipekistani22@gmail.com)
+
 </div>
+
 ---
 
 <div align="center">
