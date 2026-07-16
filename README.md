@@ -1,6 +1,3 @@
-<div align="center">
-<img src="./assets/header.gif" width="100%">
-</div>
 
 # 🔓 Jaypsmall | Cybersecurity & Android Developer
 
@@ -82,6 +79,10 @@
 
 <a href="https://github.com/Jaypsmall/3Dscience">
 <img src="https://github.com/user-attachments/assets/fca20e14-31b4-4bbc-8aaf-afe91c75ded8" width="110">
+</a>
+
+<a href="https://github.com/Jaypsmall/Sniper">
+<img src="https://github.com/user-attachments/assets/bfe8644f-18ea-4ce8-bf88-963dd81e725b" width="110">
 </a>
 
 </div>
