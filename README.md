@@ -39,16 +39,20 @@
 
 **Root   Pentesting   Android**
 
+<a href="https://github.com/Jaypsmall/CpuTemp">
+<img src="https://github.com/user-attachments/assets/0559cde0-a316-4ca8-9e1d-dc21361c35a0" width="110">
+</a>
+
 <a href="https://github.com/Jaypsmall/HexRootScan">
 <img src="https://github.com/user-attachments/assets/298de7cb-f62e-4682-9840-a28f52a57e72" width="110">
 </a>
 
-<a href="https://github.com/Jaypsmall/CpuTemp">
-<img src="https://github.com/user-attachments/assets/2f3ad6fa-bffd-4f9a-a9e1-e43b5db0f59b" width="110">
-</a>
-
 <a href="https://github.com/Jaypsmall/DemoniDraw">
 <img src="https://github.com/user-attachments/assets/5ab076c0-405e-420f-b640-cae1e7ad15f9" width="110">
+</a>
+
+<a href="https://github.com/Jaypsmall/Dimetu">
+<img src="https://github.com/user-attachments/assets/5329b501-17e6-4b9c-a972-3f668832ca7d" width="110">
 </a>
 
 <a href="https://github.com/Jaypsmall/DemoniTalk">
