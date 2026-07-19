@@ -111,9 +111,9 @@ I enjoy building tools that interact directly with Android internals, including 
 
 My projects are designed with a strong emphasis on:
 
-- Android Root     -- Magisk & KernelSU
-- Open Source      -- Security Research
-- Performance      -- Accessibility
+- 🔓 Android Root     -- Magisk & KernelSU
+- 🌐 Open Source      -- Security Research
+- 🚀 Performance      -- Accessibility
 
 ---
 
@@ -125,11 +125,11 @@ Advanced CPU governor controller for rooted Android devices.
 
 **Features**
 
-- Boost / Normal / Cool Profiles
-- Thermal Overlay
-- Governor Switching
-- Root Support
-- Magisk & KernelSU
+- ⚡ Boost / Normal / Cool Profiles
+- 📱 Thermal Overlay
+- 🎛️ Governor Switching
+- 🔓 Root Support
+- 🛠️ Magisk & KernelSU
 
 **Stack**
 
@@ -145,12 +145,12 @@ Android Pentesting Toolkit.
 
 Includes
 
-- Nmap
-- Whois
-- DNS
-- Nikto
-- Shodan
-- Network Scanner
+- 🌐 Nmap
+- 🔎 Whois
+- 🌍 DNS
+- 🛡️ Nikto
+- 🕵️ Shodan
+- 🖥️ Network Scanner
 
 `Kotlin`
 Repository
@@ -162,10 +162,10 @@ https://github.com/Jaypsmall/HexRootScan
 
 Voice Automation Engine.
 
-- Voice Commands
-- Macro Execution
-- Floating Overlay
-- Accessibility Automation
+- 🗣️ Voice Commands
+- 🤖 Macro Execution
+- 🖼️ Floating Overlay
+- ♿ Accessibility Automation
 
 `Kotlin`
 Repository
@@ -177,10 +177,10 @@ https://github.com/Jaypsmall/DemoniTalk
 
 Gesture Recognition Automation.
 
-- Draw Gestures
-- Launch Apps
-- Execute Scripts
-- Macros
+- ✍️ Draw Gestures
+- 🚀 Launch Apps
+- 💻 Execute Scripts
+- 🤖 Macros
 
 `Kotlin`
 Repository
@@ -192,10 +192,10 @@ https://github.com/Jaypsmall/DemoniDraw
 
 Real-time Voice Effects.
 
-- Pitch
-- Distortion
-- Chunk
-- DSP Processing
+- 📈 Pitch
+- 🌊 Distortion
+- 🎛️ Chunk
+- ⚙️ DSP Processing
 
 `Java`
 Repository
