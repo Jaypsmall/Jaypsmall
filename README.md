@@ -229,16 +229,16 @@ https://github.com/Jaypsmall/ProVoiceChanger
 
 ## 💡 Core Expertise
 
-- Android Root Development
-- Performance Optimization
-- CPU Governor Control
-- Automation Engines
-- Penetration Testing
-- Voice Processing
-- Accessibility
-- Kotlin Development
-- Linux
-- Open Source
+- 🤖 Android Root Development
+- 🚀 Performance Optimization
+- ⚙️ CPU Governor Control
+- 🧠 Automation Engines
+- 🛡️ Penetration Testing
+- 🎙️ Voice Processing
+- 🚹 Accessibility
+- 💜 Kotlin Development
+- 🐧 Linux
+- 🌐 Open Source
 
 ---
 
