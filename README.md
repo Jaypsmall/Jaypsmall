@@ -1,7 +1,9 @@
 
-# 🔓 Jaypsmall | Cybersecurity & Android Developer
+# 🔓 Jaypsmall
 
 <div align="center">
+  
+## Cybersecurity & Android Developer
 
 **🎯 Root Automation | Pentest Tools | System Optimization**
 
@@ -208,8 +210,6 @@ https://github.com/Jaypsmall/ProVoiceChanger
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
----
 
 ## Platforms
 
