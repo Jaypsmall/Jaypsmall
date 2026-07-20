@@ -227,6 +227,30 @@ https://github.com/Jaypsmall/ProVoiceChanger
 
 ---
 
+# ⚙️ Research Projects
+
+# 🔬 La Pekillada
+
+**Asymmetric Flow & Geometric Absorption Algorithm**
+
+Experimental mathematical simulation model focused on dynamic flow distribution across three simultaneous variables.
+
+**Features**
+
+- 📊 Mathematical simulation
+- 🔬 Statistical analysis
+- 🔄 Dynamic variable adjustment
+- 📈 Monte Carlo testing
+- 🧮 Geometric progression study
+
+**Stack**
+
+`Python`
+Repository:
+https://github.com/Jaypsmall/matrix-flux-algorithm
+
+---
+
 ## 💡 Core Expertise
 
 - 🤖 Android Root Development
