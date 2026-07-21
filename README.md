@@ -229,25 +229,38 @@ https://github.com/Jaypsmall/ProVoiceChanger
 
 # ⚙️ Research Projects
 
-# 🔬 La Pekillada
+# 🔬 Theory of Asymmetric Flow
+
+**Asymmetric Flow & Geometric Absorption Framework**
+
+Experimental mathematical framework focused on studying dynamic redistribution processes in multi-variable systems through computational simulation.
+
+The project explores how interacting variables evolve through asymmetric transitions, geometric progression, and state redistribution.
+
+## Reference Implementation
+
+### La Pekillada
 
 **Asymmetric Flow & Geometric Absorption Algorithm**
 
-Experimental mathematical simulation model focused on dynamic flow distribution across three simultaneous variables.
+First computational implementation developed to experimentally study the principles of the Theory of Asymmetric Flow.
 
 **Features**
 
-- 📊 Mathematical simulation
+- 📊 Mathematical state simulation
 - 🔬 Statistical analysis
-- 🔄 Dynamic variable adjustment
-- 📈 Monte Carlo testing
-- 🧮 Geometric progression study
+- 🔄 Dynamic variable redistribution
+- 📈 Geometric progression modelling
+- 🎲 Monte Carlo experimentation
+- 🧮 Computational analysis
 
 **Stack**
 
-`Python`
+`Python` `Mathematical Modeling` `Simulation`
+
 Repository:
-https://github.com/Jaypsmall/matrix-flux-algorithm
+
+https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ---
 
