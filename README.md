@@ -119,7 +119,7 @@ My projects are designed with a strong emphasis on:
 
 # 🚀 Featured Projects
 
-## 🌡 CpuTemp
+## 🌡 CpuTemp App
 
 Advanced CPU governor controller for rooted Android devices.
 
@@ -139,7 +139,7 @@ https://github.com/Jaypsmall/CpuTemp
 
 ---
 
-## 🔓 HexRootScan
+## 🔓 HexRootScan App
 
 Android Pentesting Toolkit.
 
@@ -158,7 +158,7 @@ https://github.com/Jaypsmall/HexRootScan
 
 ---
 
-## 😈 DemoniTalk
+## 😈 DemoniTalk App
 
 Voice Automation Engine.
 
@@ -173,7 +173,7 @@ https://github.com/Jaypsmall/DemoniTalk
 
 ---
 
-## 🎨 DemoniDraw
+## 🎨 DemoniDraw App
 
 Gesture Recognition Automation.
 
@@ -188,7 +188,7 @@ https://github.com/Jaypsmall/DemoniDraw
 
 ---
 
-## 🎙 ProVoiceChanger
+## 🎙 ProVoiceChanger App
 
 Real-time Voice Effects.
 
