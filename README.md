@@ -53,6 +53,10 @@
 <img src="https://github.com/user-attachments/assets/298de7cb-f62e-4682-9840-a28f52a57e72" width="110">
 </a>
 
+<a href="https://github.com/Jaypsmall/HexRootFuzz">
+<img src="https://github.com/user-attachments/assets/ab656fae-ab5c-4b01-8e45-84ec60b8fefa" width="110">
+</a>
+
 <a href="https://github.com/Jaypsmall/DemoniDraw">
 <img src="https://github.com/user-attachments/assets/5ab076c0-405e-420f-b640-cae1e7ad15f9" width="110">
 </a>
