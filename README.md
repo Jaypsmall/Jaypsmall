@@ -3,11 +3,9 @@
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
 </p>
 
-# 🔓 Jaypsmall
-
 <div align="center">
   
-## Cybersecurity & Android Developer
+# Cybersecurity & Android Developer
 
 **🎯 Root Automation | Pentest Tools | System Optimization**
 
