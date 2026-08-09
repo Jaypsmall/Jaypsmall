@@ -20,39 +20,86 @@
 
 # 🛠 Tech Stack
 
+<p align="center">
+  <!-- Azules -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jadx-1E88E5?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/TWRP-007ACC?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <br/>
+  <!-- Verdes -->
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/KernelSU-33691E?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/APKTool-2E7D32?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <br/>
+  <!-- Amarillos y Naranjas -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastboot-E65100?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Superuser-FF6F00?style=for-the-badge&logo=terminal&logoColor=white" />
+  <br/>
+  <!-- Rojos y Purpuras -->
+  <img src="https://img.shields.io/badge/Root_Access-D32F2F?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/BusyBox-D32F2F?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magisk-Root-red?style=for-the-badge&logo=magisk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frida-FF0055?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LSPosed-7B1FA2?style=for-the-badge&logo=android&logoColor=white" />
+  <br/>
+  <!-- Oscuros y Negros -->
+  <img src="https://img.shields.io/badge/Metasploit-11315B?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/ffuf-111111?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADB-000000?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Jadx](https://img.shields.io/badge/Jadx-1E88E5?style=for-the-badge&logo=java&logoColor=white)
+![F--Droid](https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
+![TWRP](https://img.shields.io/badge/TWRP-007ACC?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Magisk](https://img.shields.io/badge/Magisk-00ACEbalance?style=for-the-badge&logo=android&logoColor=white)
+![KernelSU](https://img.shields.io/badge/KernelSU-33691E?style=for-the-badge&logo=linux&logoColor=white)
+![APKTool](https://img.shields.io/badge/APKTool-2E7D32?style=for-the-badge&logo=android&logoColor=white)
+
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Fuff](https://img.shields.io/badge/ffuf-111111?style=for-the-badge&logo=terminal&logoColor=white)
-![Magisk](https://img.shields.io/badge/Magisk-00ACEbalance?style=for-the-badge&logo=android&logoColor=white)
 ![Root](https://img.shields.io/badge/Root_Access-D32F2F?style=for-the-badge&logo=linux&logoColor=white)
 ![Kernel](https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![SU](https://img.shields.io/badge/Superuser-FF6F00?style=for-the-badge&logo=terminal&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-11315B?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Magisk](https://img.shields.io/badge/Magisk-Root-red?style=for-the-badge&logo=magisk&logoColor=white)
 ![ADB](https://img.shields.io/badge/ADB-000000?style=for-the-badge&logo=android&logoColor=white)
 ![LSPosed](https://img.shields.io/badge/LSPosed-7B1FA2?style=for-the-badge&logo=android&logoColor=white)
-![KernelSU](https://img.shields.io/badge/KernelSU-33691E?style=for-the-badge&logo=linux&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Fastboot](https://img.shields.io/badge/Fastboot-E65100?style=for-the-badge&logo=android&logoColor=white)
-![TWRP](https://img.shields.io/badge/TWRP-007ACC?style=for-the-badge&logo=android&logoColor=white)
 ![BusyBox](https://img.shields.io/badge/BusyBox-D32F2F?style=for-the-badge&logo=gnu&logoColor=white)
-![Jadx](https://img.shields.io/badge/Jadx-1E88E5?style=for-the-badge&logo=java&logoColor=white)
-![APKTool](https://img.shields.io/badge/APKTool-2E7D32?style=for-the-badge&logo=android&logoColor=white)
 ![Frida](https://img.shields.io/badge/Frida-FF0055?style=for-the-badge&logo=python&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![F--Droid](https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
