@@ -51,9 +51,9 @@
 ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kernel](https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=white)
-![Magisk](https://img.shields.io/badge/Magisk-Root-red?style=for-the-badge&logo=magisk&logoColor=white)
 ![ADB](https://img.shields.io/badge/ADB-000000?style=for-the-badge&logo=android&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Magisk](https://img.shields.io/badge/Magisk-Root-red?style=for-the-badge&logo=magisk&logoColor=white)
 
 ---
 
