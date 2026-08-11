@@ -121,6 +121,11 @@
 <img src="https://github.com/user-attachments/assets/850398c4-8f5c-468f-9def-4ae00152a953" width="110">
 </a>
 
+<a href="https://github.com/Jaypsmall/RuletaDemoniaca">
+<img src="https://github.com/user-attachments/assets/814ad10d-e30c-4f3f-90d5-dc586769d5e5" width="110">
+</a>
+
+
 </div>
 </td>
 
