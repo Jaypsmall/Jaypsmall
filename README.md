@@ -27,18 +27,20 @@
 ![Jadx](https://img.shields.io/badge/Jadx-1E88E5?style=for-the-badge&logo=java&logoColor=white)
 ![F--Droid](https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![TWRP](https://img.shields.io/badge/TWRP-007ACC?style=for-the-badge&logo=android&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![KernelSU](https://img.shields.io/badge/KernelSU-33691E?style=for-the-badge&logo=linux&logoColor=white)
+![APKTool](https://img.shields.io/badge/APKTool-2E7D32?style=for-the-badge&logo=android&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Magisk](https://img.shields.io/badge/Magisk-00ACEbalance?style=for-the-badge&logo=android&logoColor=white)
-![KernelSU](https://img.shields.io/badge/KernelSU-33691E?style=for-the-badge&logo=linux&logoColor=white)
-![APKTool](https://img.shields.io/badge/APKTool-2E7D32?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript\&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SU](https://img.shields.io/badge/Superuser-FF6F00?style=for-the-badge&logo=terminal&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Fastboot](https://img.shields.io/badge/Fastboot-E65100?style=for-the-badge&logo=android&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![BusyBox](https://img.shields.io/badge/BusyBox-D32F2F?style=for-the-badge&logo=gnu&logoColor=white)
 ![Root](https://img.shields.io/badge/Root_Access-D32F2F?style=for-the-badge&logo=linux&logoColor=white)
@@ -53,7 +55,10 @@
 ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=white)
 ![ADB](https://img.shields.io/badge/ADB-000000?style=for-the-badge&logo=android&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ![Magisk](https://img.shields.io/badge/Magisk-Root-red?style=for-the-badge&logo=magisk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-En%20Desarrollo-orange?style=for-the-badge)
+
 
 ---
 
