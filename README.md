@@ -291,13 +291,14 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ---
 
-# 🧪 SYSTEM DIAGNOSTICS & METRICS
+# 🧪 System & Metric
 
 <div align="center">
 
 <!-- Tarjetas de Estadísticas Principales -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=tokyonight&show_icons=true" alt="GitHub Stats" width="45%" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=tokyonight&layout=compact" alt="Top Languages" width="45%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=tokyonight&show_icons=true" alt="GitHub Stats" width="100%" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=tokyonight&layout=compact" alt="Top Languages" width="100%" />
 
 <br/><br/>
 
@@ -310,10 +311,6 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 </p>
 </div>
 
----
-
-# 🤝 Contact
-
 <div align="center">
 
 ### 📡 CONNECT & SYSTEM INFO
@@ -322,8 +319,6 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=green)](https://github.com/Jaypsmall)
 [![Email](https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=green)](mailto:pekipekistani22@gmail.com)
-
-<br/>
 
 ### ⭐ Open Source Android Developer
 
