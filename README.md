@@ -251,7 +251,7 @@ The project explores how interacting variables evolve through asymmetric transit
 
 ## Reference Implementation
 
-### La Pekillada
+### 📊 La Pekillada
 
 **Asymmetric Flow & Geometric Absorption Algorithm**
 
@@ -296,7 +296,7 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 <div align="center">
 
 <!-- Tarjetas de Estadísticas Principales -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=tokyonight&show_icons=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=tokyonight&show_icons=true" alt="GitHub Stats" width="45%" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=tokyonight&layout=compact" alt="Top Languages" width="45%" />
 
 <br/><br/>
@@ -304,9 +304,10 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 ### 👾 PAC-MAN // CONTRIBUTION_GRID
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-</p>
 
+<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
+
+</p>
 </div>
 
 ---
@@ -317,7 +318,8 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ### 📡 CONNECT & SYSTEM INFO
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&color=00ff05&style=for-the-badge&label=PROFILE_VIEWS)](https://github.com/Jaypsmall)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&color=green&style=for-the-badge&label=PROFILE_VIEWS)](https://github.com/Jaypsmall)
+
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=green)](https://github.com/Jaypsmall)
 [![Email](https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=green)](mailto:pekipekistani22@gmail.com)
 
@@ -325,7 +327,7 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ### ⭐ Open Source Android Developer
 
-*"Building Android tools that push the limits of the platform."*
+**"Building Android tools that push the limits of the platform."**
 
 Made with 💚 for the Android & Cybersecurity community.
 
