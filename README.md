@@ -291,9 +291,17 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ---
 
-# 🧪 Contribution
+# 🧪 SYSTEM DIAGNOSTICS & METRICS
 
 <div align="center">
+
+<!-- Tarjetas de Estadísticas Principales -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=tokyonight&show_icons=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=tokyonight&layout=compact" alt="Top Languages" width="45%" />
+
+<br/><br/>
+
+### 👾 PAC-MAN // CONTRIBUTION_GRID
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
@@ -303,49 +311,25 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ---
 
-# 📈 GitHub Stats
-
-
-<div align="center">
-  
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaypsmall&theme=tokyonight">
-
-</div>
-
-  
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&color=red" alt="Profile Views"/>
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-pekipekistani22%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:pekipekistani22@gmail.com)
-
-</div>
-
-
----
-
 # 🤝 Contact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jaypsmall-black?logo=github)](https://github.com/Jaypsmall)
+### 📡 CONNECT & SYSTEM INFO
 
-[![Email](https://img.shields.io/badge/Email-pekipekistani22@gmail.com-red?logo=gmail)](pekipekistani22@gmail.com)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&color=00ff05&style=for-the-badge&label=PROFILE_VIEWS)](https://github.com/Jaypsmall)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=green)](https://github.com/Jaypsmall)
+[![Email](https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=green)](mailto:pekipekistani22@gmail.com)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ### ⭐ Open Source Android Developer
 
 *"Building Android tools that push the limits of the platform."*
 
-Made with ❤️ for the Android & Cybersecurity community.
+Made with 💚 for the Android & Cybersecurity community.
 
 </div>
 
 ---
+
