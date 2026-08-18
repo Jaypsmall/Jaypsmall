@@ -291,13 +291,28 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ---
 
+# 🧪 System Diagnostics & Metric
+
+<div align="center">
+
+<!-- Animación de Contribuciones -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/github-contribution-grid-snake.svg" alt="Pac-Man Animation" />
+</p>
+
+</div>
+
+---
+
 # 📈 GitHub Stats
+
 
 <div align="center">
   
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaypsmall&theme=tokyonight">
 
 </div>
+
   
 <div align="center">
 
