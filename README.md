@@ -296,9 +296,9 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 <div align="center">
 
 <!-- Tarjetas de Estadísticas Principales -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=tokyonight&show_icons=true" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=tokyonight&show_icons=true" alt="GitHub Stats" width="45%" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=tokyonight&layout=compact" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=tokyonight&layout=compact" alt="Top Languages" width="45%" />
 
 ### 👾 CONTRIBUTION_GRID
 
