@@ -295,9 +295,9 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 <div align="center">
 
-<!-- Pac-Man Real -->
+<!-- Pac-Man Contribution Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph.svg" alt="Pac-Man Animation" />
+  <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
 
 </div>
