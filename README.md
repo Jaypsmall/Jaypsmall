@@ -291,11 +291,10 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ---
 
-# 🧪 System Diagnostics & Metric
+# 🧪 Contribution
 
 <div align="center">
 
-<!-- Pac-Man Contribution Graph -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
