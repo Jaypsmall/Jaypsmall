@@ -300,22 +300,11 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=tokyonight&layout=compact" alt="Top Languages" width="100%" />
 
-<br/><br/>
-
-### 👾 PAC-MAN // CONTRIBUTION_GRID
-
-<p align="center">
+### 👾 CONTRIBUTION_GRID
 
 <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 
-</p>
-</div>
-
-<div align="center">
-
 ### 📡 CONNECT & SYSTEM INFO
-
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&color=green&style=for-the-badge&label=PROFILE_VIEWS)](https://github.com/Jaypsmall)
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=green)](https://github.com/Jaypsmall)
 [![Email](https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=green)](mailto:pekipekistani22@gmail.com)
