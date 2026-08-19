@@ -306,9 +306,9 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ### 📡 CONNECT & SYSTEM INFO
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&color=68AC09&labelColor=181717)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=green)](https://github.com/Jaypsmall)
 [![Email](https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=green)](mailto:pekipekistani22@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS-181717&color=68AC09&labelColor=181717)
 
 ### ⭐ Open Source Android Developer
 
