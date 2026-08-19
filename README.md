@@ -306,6 +306,7 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ### 📡 CONNECT & SYSTEM INFO
 
+[![Visitas](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FJaypsmall%2FJaypsmall.json%3Fcolor%3D00FF66&style=for-the-badge&label=VISITAS&labelColor=121212&color=00FF66)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=green)](https://github.com/Jaypsmall)
 [![Email](https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=green)](mailto:pekipekistani22@gmail.com)
 
