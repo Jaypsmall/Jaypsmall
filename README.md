@@ -1,19 +1,16 @@
+
 <p align="center">
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
 </p>
 
 <div align="center">
   
-# Cybersecurity & Android Developer
+# Cybersecurity & Android Developer          ![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&color=68AC09&labelColor=181717)
 
 **🎯 Root Automation | Pentest Tools | System Optimization**
 
-*Building custom security solutions for Android & Linux*
-
+*Building custom security solutions for Android & Linux* 
 <br>
-
-[![Email](https://img.shields.io/badge/Email-pekipekistani22%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:pekipekistani22@gmail.com)
-
 </div>
 
 ---
@@ -56,9 +53,8 @@
 ![ADB](https://img.shields.io/badge/ADB-000000?style=for-the-badge&logo=android&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Magisk](https://img.shields.io/badge/Magisk-Root-red?style=for-the-badge&logo=magisk&logoColor=white)
-![Status](https://img.shields.io/badge/Status-En%20Desarrollo-orange?style=for-the-badge)
-
+![Magisk](https://img.shields.io/badge/Magisk-Root-red?style=for-the-badge&logo=magisk&logoColor=181717)
+![Status](https://img.shields.io/badge/Status-En%20Desarrollo-orange?style=for-the-badge&logoColor=181717)
 
 ---
 
@@ -309,6 +305,9 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=green)](https://github.com/Jaypsmall)
 [![Email](https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=green)](mailto:pekipekistani22@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&color=68AC09&labelColor=181717)
+
+[![Email](https://img.shields.io/badge/Email-pekipekistani22%40gmail.com-181717?style=flat&logo=gmail&logoColor=68AC09)](mailto:pekipekistani22@gmail.com)
+
 
 ### ⭐ Open Source Android Developer
 
