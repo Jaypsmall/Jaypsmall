@@ -306,12 +306,11 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ### 📡 CONNECT & SYSTEM INFO
 
+[![Email](https://img.shields.io/badge/Email-pekipekistani22%40gmail.com-181717?style=flat&logo=gmail&logoColor=68AC09)](mailto:pekipekistani22@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=green)](https://github.com/Jaypsmall)
 [![Email](https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=green)](mailto:pekipekistani22@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&color=68AC09&labelColor=181717)
-
-[![Email](https://img.shields.io/badge/Email-pekipekistani22%40gmail.com-181717?style=flat&logo=gmail&logoColor=68AC09)](mailto:pekipekistani22@gmail.com)
-
 
 ### ⭐ Open Source Android Developer
 
