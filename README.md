@@ -5,7 +5,7 @@
 
 <div align="center">
   
-# Cybersecurity & Android Developer          ![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&color=68AC09&labelColor=181717)
+# Cybersecurity & Android Developer        ![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&colorBadge=yellow&labelColor=black)
 
 **🎯 Root Automation | Pentest Tools | System Optimization**
 
