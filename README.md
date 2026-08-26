@@ -54,8 +54,8 @@
 ![ADB](https://img.shields.io/badge/ADB-000000?style=for-the-badge&logo=android&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Magisk](https://img.shields.io/badge/Magisk-Root-red?style=for-the-badge&logo=magisk&logoColor=181717)
-![Status](https://img.shields.io/badge/Status-En%20Desarrollo-orange?style=for-the-badge&logoColor=181717)
+![Magisk](https://img.shields.io/badge/Magisk-Root-yellow?style=for-the-badge&logo=magisk&logoColor=black)
+![Status](https://img.shields.io/badge/Status-En%20Desarrollo-yellow?style=for-the-badge&logoColor=black)
 
 ---
 
