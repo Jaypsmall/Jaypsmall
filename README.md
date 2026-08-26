@@ -154,90 +154,119 @@ My projects are designed with a strong emphasis on:
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Project Lab
 
-## 🌡 CpuTemp App
+> A collection of Android, cybersecurity, automation and experimental projects.
 
-Advanced CPU governor controller for rooted Android devices.
+<table width="100%">
+<tr>
 
-**Features**
+<td width="50%" valign="top">
 
-- ⚡ Boost / Normal / Cool Profiles
-- 📱 Thermal Overlay
-- 🎛️ Governor Switching
-- 🔓 Root Support
-- 🛠️ Magisk & KernelSU
+### 🌡️ CpuTemp
+**Android · Root · Performance**
 
-**Stack**
+CPU governor control, thermal monitoring
+and performance profiles.
 
-`Kotlin`
-Repository
-https://github.com/Jaypsmall/CpuTemp
+`Kotlin` `Magisk` `KernelSU`
 
----
+<a href="https://github.com/Jaypsmall/CpuTemp">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-## 🔓 HexRootScan App
+</td>
 
-Android Pentesting Toolkit.
+<td width="50%" valign="top">
 
-Includes
+### 🔓 HexRootScan
+**Android · Pentesting · Network**
 
-- 🌐 Nmap
-- 🔎 Whois
-- 🌍 DNS
-- 🛡️ Nikto
-- 🕵️ Shodan
-- 🖥️ Network Scanner
+Mobile security toolkit with network
+and reconnaissance utilities.
 
-`Kotlin`
-Repository
-https://github.com/Jaypsmall/HexRootScan
+`Kotlin` `Nmap` `DNS` `Whois`
 
----
+<a href="https://github.com/Jaypsmall/HexRootScan">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-## 😈 DemoniTalk App
+</td>
 
-Voice Automation Engine.
+</tr>
 
-- 🗣️ Voice Commands
-- 🤖 Macro Execution
-- 🖼️ Floating Overlay
-- ♿ Accessibility Automation
+<tr>
 
-`Kotlin`
-Repository
-https://github.com/Jaypsmall/DemoniTalk
+<td width="50%" valign="top">
 
----
+### 😈 DemoniTalk
+**Android · Automation · Accessibility**
 
-## 🎨 DemoniDraw App
+Voice commands, macros and floating
+automation controls.
 
-Gesture Recognition Automation.
+`Kotlin` `Accessibility` `Overlay`
 
-- ✍️ Draw Gestures
-- 🚀 Launch Apps
-- 💻 Execute Scripts
-- 🤖 Macros
+<a href="https://github.com/Jaypsmall/DemoniTalk">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-`Kotlin`
-Repository
-https://github.com/Jaypsmall/DemoniDraw
+</td>
 
----
+<td width="50%" valign="top">
 
-## 🎙 ProVoiceChanger App
+### 🎨 DemoniDraw
+**Android · Gestures · Automation**
 
-Real-time Voice Effects.
+Gesture recognition and programmable
+automation.
 
-- 📈 Pitch
-- 🌊 Distortion
-- 🎛️ Chunk
-- ⚙️ DSP Processing
+`Kotlin` `Gestures` `Macros`
 
-`Java`
-Repository
-https://github.com/Jaypsmall/ProVoiceChanger
+<a href="https://github.com/Jaypsmall/DemoniDraw">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎙️ ProVoiceChanger
+**Android · Audio · DSP**
+
+Real-time voice processing with pitch,
+distortion and chunk effects.
+
+`Java` `DSP` `Audio`
+
+<a href="https://github.com/Jaypsmall/ProVoiceChanger">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 HexColor
+**Android · Camera · Color Science**
+
+Real-time color detection and visual
+analysis using the camera.
+
+`Kotlin` `Camera` `Color`
+
+<a href="https://github.com/Jaypsmall/HexColor">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 ---
 
 # ⚙️ Research Projects
