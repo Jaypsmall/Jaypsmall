@@ -142,15 +142,17 @@
 
 # 👨‍💻 About Me
 
-I'm an **Android Developer** focused on **Root development**, **Cybersecurity**, **Automation**, and **Performance Optimization**.
+I'm an **Android Developer** focused on:
 
-I enjoy building tools that interact directly with Android internals, including CPU governors, thermal monitoring, automation engines, voice processing, gesture recognition, and penetration testing utilities.
+- 🔓 **Root & Android Internals**
+- 🛡️ **Cybersecurity & Pentesting**
+- 🤖 **Automation & Accessibility**
+- ⚙️ **System Performance & Optimization**
+- 🧪 **Experimental Software & Research**
 
-My projects are designed with a strong emphasis on:
+I build tools that interact directly with Android and Linux systems, exploring everything from CPU governors and thermal control to automation, audio processing, security research and experimental algorithms.
 
-- 🔓 Android Root     -- Magisk & KernelSU
-- 🌐 Open Source      -- Security Research
-- 🚀 Performance      -- Accessibility
+> **Build → Test → Break → Understand → Improve**
 
 ---
 
