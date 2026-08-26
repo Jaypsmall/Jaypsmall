@@ -267,6 +267,51 @@ analysis using the camera.
 
 </tr>
 </table>
+
+---
+
+# 🧪 More Experiments
+
+<details>
+<summary><b>🔐 Cybersecurity</b></summary>
+
+- HexRootScan
+- HexRootFuzz
+- Sniper
+- DemoniWifi
+- CyberLab GUI
+
+</details>
+
+<details>
+<summary><b>📱 Android</b></summary>
+
+- CpuTemp
+- HexColor
+- DaltonicAssist
+- 3Dscience
+- ProVoiceChanger
+
+</details>
+
+<details>
+<summary><b>🤖 Automation</b></summary>
+
+- DemoniTalk
+- DemoniDraw
+- Dimetu
+
+</details>
+
+<details>
+<summary><b>🎲 Experimental</b></summary>
+
+- RuletaDemoniaca
+- Theory of Asymmetric Flow
+- Other experiments
+
+</details>
+
 ---
 
 # ⚙️ Research Projects
