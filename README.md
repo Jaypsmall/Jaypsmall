@@ -70,7 +70,7 @@
 **Root   Pentesting   Android**
 
 <a href="https://github.com/Jaypsmall/CpuTemp">
-<img src="https://github.com/user-attachments/assets/0559cde0-a316-4ca8-9e1d-dc21361c35a0" width="110">
+<img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2" width="110">
 </a>
 
 <a href="https://github.com/Jaypsmall/HexRootScan">
@@ -82,7 +82,7 @@
 </a>
 
 <a href="https://github.com/Jaypsmall/DemoniDraw">
-<img src="https://github.com/user-attachments/assets/5ab076c0-405e-420f-b640-cae1e7ad15f9" width="110">
+<img src="https://github.com/user-attachments/assets/41ef0983-9416-403f-b959-df3985f657a2" width="110">
 </a>
 
 <a href="https://github.com/Jaypsmall/Dimetu">
@@ -94,7 +94,7 @@
 </a>
 
 <a href="https://github.com/Jaypsmall/DemoniWifi">
-<img src="https://github.com/user-attachments/assets/e2e8d1e4-20ff-485a-aed6-cfc5a8bf6b49" width="110">
+<img src="https://github.com/user-attachments/assets/1a94e993-335b-4936-9f9b-bb73ad110eeb" width="110">
 </a>
 
 <a href="https://github.com/Jaypsmall/ProVoiceChanger">
@@ -113,6 +113,10 @@
 
 <a href="https://github.com/Jaypsmall/HexColor">
 <img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462" width="110">
+</a>
+
+<a href="https://github.com/Jaypsmall/HexColor">
+<img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24" width="110">
 </a>
 
 <a href="https://github.com/Jaypsmall/DaltonicAssist">
