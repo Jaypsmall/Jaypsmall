@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
-</p>
-
 <div align="center">
   
 # Cybersecurity & Android Developer        ![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&colorBadge=yellow&labelColor=black)
@@ -15,12 +11,13 @@
 
 ---
 
-# ⚡ Tech Stack & Tools
+<p align="center">
+  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
+</p>
 
 <p align="center">
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/IMG_20260830_012512.png/" alt="Tech Stack & Tools" width="100%">
 </p>
-
 
 ---
 
