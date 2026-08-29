@@ -70,35 +70,35 @@
 **Root   Pentesting   Android**
 
 <a href="https://github.com/Jaypsmall/CpuTemp">
-<img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2" width="110">
+<img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/DemoniWifi">
-<img src="https://github.com/user-attachments/assets/1a94e993-335b-4936-9f9b-bb73ad110eeb" width="110">
+<img src="https://github.com/user-attachments/assets/1a94e993-335b-4936-9f9b-bb73ad110eeb" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/DemoniDraw">
-<img src="https://github.com/user-attachments/assets/41ef0983-9416-403f-b959-df3985f657a2" width="110">
+<img src="https://github.com/user-attachments/assets/41ef0983-9416-403f-b959-df3985f657a2" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/HexRootScan">
-<img src="https://github.com/user-attachments/assets/568500c5-b275-4a6f-b093-64393ac42241" width="110">
+<img src="https://github.com/user-attachments/assets/568500c5-b275-4a6f-b093-64393ac42241" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
-<img src="https://github.com/user-attachments/assets/c94de779-39c7-42eb-8fd1-ba91a167a966" width="110">
+<img src="https://github.com/user-attachments/assets/c94de779-39c7-42eb-8fd1-ba91a167a966" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/Dimetu">
-<img src="https://github.com/user-attachments/assets/5329b501-17e6-4b9c-a972-3f668832ca7d" width="110">
+<img src="https://github.com/user-attachments/assets/5e21897e-a29b-4009-a95e-535245b3765f" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/DemoniTalk">
-<img src="https://github.com/user-attachments/assets/07ccac91-4721-437f-9f5f-ae2df7afe724" width="110">
+<img src="https://github.com/user-attachments/assets/07ccac91-4721-437f-9f5f-ae2df7afe724" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/ProVoiceChanger">
-<img src="https://github.com/user-attachments/assets/4fdcd630-0584-4141-87ac-905a6a3e4d4f" width="110">
+<img src="https://github.com/user-attachments/assets/c61b7d28-b62e-4a05-9dc7-06ae67ff053a" width="100">
 </a>
 
 </div>
