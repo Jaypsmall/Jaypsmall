@@ -82,11 +82,11 @@
 </a>
 
 <a href="https://github.com/Jaypsmall/HexRootScan">
-<img src="https://github.com/user-attachments/assets/298de7cb-f62e-4682-9840-a28f52a57e72" width="110">
+<img src="https://github.com/user-attachments/assets/568500c5-b275-4a6f-b093-64393ac42241" width="110">
 </a>
 
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
-<img src="https://github.com/user-attachments/assets/ab656fae-ab5c-4b01-8e45-84ec60b8fefa" width="110">
+<img src="https://github.com/user-attachments/assets/c94de779-39c7-42eb-8fd1-ba91a167a966" width="110">
 </a>
 
 <a href="https://github.com/Jaypsmall/Dimetu">
