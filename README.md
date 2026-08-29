@@ -15,68 +15,270 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# ⚡ TECH STACK & TOOLS
 
-### 🐍 Development
+<table>
+<tr>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<td align="center">
 
-### 🤖 Android
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Penetration_Testing-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![APKTool](https://img.shields.io/badge/APKTool-2E7D32?style=for-the-badge&logo=android&logoColor=white)
-![Jadx](https://img.shields.io/badge/Jadx-1E88E5?style=for-the-badge&logo=java&logoColor=white)
-![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Fastboot](https://img.shields.io/badge/Fastboot-E65100?style=for-the-badge&logo=android&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+</td>
 
-### 🔓 Root & System
+<td align="center">
 
-![Magisk](https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=magisk&logoColor=white)
-![KernelSU](https://img.shields.io/badge/KernelSU-1E88E5?style=for-the-badge&logo=linux&logoColor=white)
-![LSPosed](https://img.shields.io/badge/LSPosed-7B1FA2?style=for-the-badge&logo=android&logoColor=white)
-![TWRP](https://img.shields.io/badge/TWRP-4A148C?style=for-the-badge&logo=android&logoColor=white)
-![BusyBox](https://img.shields.io/badge/BusyBox-D32F2F?style=for-the-badge&logo=linux&logoColor=white)
-![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Root Access](https://img.shields.io/badge/Root_Access-D32F2F?style=for-the-badge&logo=linux&logoColor=white)
-![Superuser](https://img.shields.io/badge/Superuser-FF6F00?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Network & Security
+</td>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-11315B?style=for-the-badge&logo=metasploit&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-111111?style=for-the-badge&logo=terminal&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<td align="center">
 
-### 🔬 Reverse Engineering
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-Python_UI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Frida](https://img.shields.io/badge/Frida-FF0055?style=for-the-badge&logo=python&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Jadx](https://img.shields.io/badge/Jadx-1E88E5?style=for-the-badge&logo=java&logoColor=white)
-![APKTool](https://img.shields.io/badge/APKTool-2E7D32?style=for-the-badge&logo=android&logoColor=white)
+</td>
 
-### 🐧 Platforms & Tools
+<td align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network_Analyzer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### 📊 Project Status
+</td>
 
-![Status](https://img.shields.io/badge/Status-En%20Desarrollo-F7DF1E?style=for-the-badge&logo=github&logoColor=black)
-![Magisk](https://img.shields.io/badge/Magisk-Root-00AF9C?style=for-the-badge&logo=magisk&logoColor=white)
+<td align="center">
+
+![Nmap](https://img.shields.io/badge/Nmap-Network_Scanner-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+![Jadx](https://img.shields.io/badge/Jadx-APK_Reverse_Engineering-1E88E5?style=for-the-badge&logo=java&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![F-Droid](https://img.shields.io/badge/F--Droid-FOSS_Repository-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![TWRP](https://img.shields.io/badge/TWRP-Custom_Recovery-4A148C?style=for-the-badge&logo=android&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![CSS3](https://img.shields.io/badge/CSS3-Stylesheet-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![KernelSU](https://img.shields.io/badge/KernelSU-Kernel_Root-33691E?style=for-the-badge&logo=linux&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+![APKTool](https://img.shields.io/badge/APKTool-APK_Decompiler-2E7D32?style=for-the-badge&logo=android&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Android](https://img.shields.io/badge/Android-Operating_System-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Bash](https://img.shields.io/badge/Bash-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Magisk](https://img.shields.io/badge/Magisk-Systemless_Root-00AF9C?style=for-the-badge&logo=magisk&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+![Linux](https://img.shields.io/badge/Linux-Operating_System-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</td>
+
+<td align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Web_Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</td>
+
+<td align="center">
+
+![Java](https://img.shields.io/badge/Java-OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![SU](https://img.shields.io/badge/SU-Superuser_Access-FF6F00?style=for-the-badge&logo=linux&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-Markup_Language-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Fastboot](https://img.shields.io/badge/Fastboot-Bootloader_Tool-E65100?style=for-the-badge&logo=android&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Hydra](https://img.shields.io/badge/Hydra-Security_Testing-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![BusyBox](https://img.shields.io/badge/BusyBox-Unix_Utilities-D32F2F?style=for-the-badge&logo=linux&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Root Access](https://img.shields.io/badge/Root_Access-Full_Privileges-D32F2F?style=for-the-badge&logo=linux&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+![Frida](https://img.shields.io/badge/Frida-Dynamic_Instrumentation-FF0055?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-Android_Development-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![LSPosed](https://img.shields.io/badge/LSPosed-Xposed_Framework-7B1FA2?style=for-the-badge&logo=android&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Metasploit](https://img.shields.io/badge/Metasploit-Security_Framework-11315B?style=for-the-badge&logo=metasploit&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![XML](https://img.shields.io/badge/XML-Extensible_Markup-000000?style=for-the-badge&logo=xml&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+![ffuf](https://img.shields.io/badge/ffuf-Web_Fuzzer-111111?style=for-the-badge&logo=terminal&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Ghidra](https://img.shields.io/badge/Ghidra-Reverse_Engineering-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Linux Kernel](https://img.shields.io/badge/Kernel-Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![Gobuster](https://img.shields.io/badge/Gobuster-Dir_%2F_File_Bruter-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</td>
+
+<td align="center">
+
+![ADB](https://img.shields.io/badge/ADB-Android_Debug_Bridge-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" colspan="5">
+
+![Termux](https://img.shields.io/badge/Termux-Android_Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+## 🔥 SYSTEM STATUS
+
+<p align="center">
+
+![Magisk Root](https://img.shields.io/badge/Magisk-Root-00AF9C?style=for-the-badge&logo=magisk&logoColor=white)
+&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/Status-En_Desarrollo-F7DF1E?style=for-the-badge&logo=github&logoColor=black)
+
+</p>
 
 ---
 
