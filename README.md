@@ -15,9 +15,66 @@
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/IMG_20260830_012512.png/" alt="Tech Stack & Tools" width="100%">
-</p>
+---
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40"/><br><b>Kali Linux</b><br><sub>PENETRATION TESTING</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><b>Python</b><br><sub>PROGRAMMING</sub></td>
+    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br><b>CustomTkinter</b><br><sub>PYTHON UI</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="40"/><br><b>Wireshark</b><br><sub>NETWORK ANALYZER</sub></td>
+    <td align="center" width="20%"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nmap.png" width="40"/><br><b>Nmap</b><br><sub>NETWORK SCANNER</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/icons/jadxlogo.png" width="40"/><br><b>Jadx</b><br><sub>APK REVERSE ENG.</sub></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/F-Droid_logo_%282015%29.svg" width="40"/><br><b>F-Droid</b><br><sub>FOSS REPOSITORY</sub></td>
+    <td align="center"><img src="https://twrp.me/assets/img/twrp.png" width="40"/><br><b>TWRP</b><br><sub>CUSTOM RECOVERY</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br><b>CSS3</b><br><sub>STYLESHEET</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/tiann/KernelSU/main/website/static/img/logo.png" width="40"/><br><b>KernelSU</b><br><sub>KERNEL ROOT</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/><br><b>APKTool</b><br><sub>APK DECOMPILER</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/><br><b>Android</b><br><sub>OPERATING SYSTEM</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/><br><b>Android Studio</b><br><sub>IDE</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br><b>Bash</b><br><sub>SHELL SCRIPTING</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/topjohnwu/Magisk/master/docs/images/logo.png" width="40"/><br><b>Magisk</b><br><sub>SYSTEMLESS ROOT</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br><b>Linux</b><br><sub>OPERATING SYSTEM</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br><b>JavaScript</b><br><sub>WEB LANGUAGE</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br><b>Java</b><br><sub>OPENJDK</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/fortawesome/Font-Awesome/master/svgs/solid/hashtag.svg" width="30"/><br><b>SU</b><br><sub>SUPERUSER ACCESS</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br><b>HTML5</b><br><sub>MARKUP LANGUAGE</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><b>Git</b><br><sub>VERSION CONTROL</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/><br><b>Fastboot</b><br><sub>BOOTLOADER TOOL</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/hydra.png" width="40"/><br><b>Hydra</b><br><sub>LOGIN CRACKER</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/fortawesome/Font-Awesome/master/svgs/solid/box.svg" width="30"/><br><b>BusyBox</b><br><sub>UNIX UTILITIES</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/fortawesome/Font-Awesome/master/svgs/solid/skull-crossbones.svg" width="30"/><br><b>Root Access</b><br><sub>FULL PRIVILEGES</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/frida/frida/main/logos/frida-logo.png" width="40"/><br><b>Frida</b><br><sub>DYNAMIC INSTRUMENT.</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/><br><b>Kotlin</b><br><sub>ANDROID DEV</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/LSPosed/LSPosed/master/icon.png" width="40"/><br><b>LSPosed</b><br><sub>XPOSED FRAMEWORK</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" width="40"/><br><b>Metasploit</b><br><sub>EXPLOIT FRAMEWORK</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/fortawesome/Font-Awesome/master/svgs/solid/code.svg" width="30"/><br><b>XML</b><br><sub>EXTENSIBLE MARKUP</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/fortawesome/Font-Awesome/master/svgs/solid/terminal.svg" width="30"/><br><b>ffuf</b><br><sub>WEB FUZZER</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/RuntimeAssets/Common/Support/ghidra.ico" width="40"/><br><b>Ghidra</b><br><sub>REVERSE ENGINEERING</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br><b>Kernel</b><br><sub>LINUX KERNEL</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/><br><b>Gobuster</b><br><sub>DIR / FILE BRUTER</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/><br><b>ADB</b><br><sub>ANDROID DEBUG BRIDGE</sub></td>
+  </tr>
+  <tr>
+    <td colspan="5" align="center"><img src="https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="40"/><br><b>Termux</b><br><sub>ANDROID TERMINAL</sub></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
