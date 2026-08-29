@@ -94,7 +94,7 @@
 </a>
 
 <a href="https://github.com/Jaypsmall/DemoniTalk">
-<img src="https://github.com/user-attachments/assets/a1f607b2-d6fa-4684-a099-ebccf2f53bcb" width="110">
+<img src="https://github.com/user-attachments/assets/07ccac91-4721-437f-9f5f-ae2df7afe724" width="110">
 </a>
 
 <a href="https://github.com/Jaypsmall/ProVoiceChanger">
