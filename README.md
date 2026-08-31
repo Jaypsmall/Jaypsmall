@@ -13,10 +13,7 @@
 
 <p align="center">
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/IMG_20260830_012512.png" alt="Mi Stack" width="100%">
+  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/stack3azul.png" alt="Mi Stack" width="100%">
 </p>
 
 ---
@@ -347,9 +344,9 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 <div align="center">
 
 <!-- Tarjetas de Estadísticas Principales -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=tokyonight&show_icons=true" alt="GitHub Stats" width="45%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=tokyonight&layout=compact" alt="GitHub Stats" width="49%" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=tokyonight&layout=compact" alt="Top Languages" width="45%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=tokyonight&layout=compact" alt="Top Languages" width="49%" />
 
 ### 👾 CONTRIBUTION_GRID
 
