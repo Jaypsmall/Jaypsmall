@@ -71,35 +71,35 @@
 **Utilities   Accessibility   Science**
 
 <a href="https://github.com/Jaypsmall/HexColor">
-<img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462" width="110">
+<img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/HexColor">
-<img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24" width="110">
+<img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/Jaypsmall">
-<img src="https://github.com/user-attachments/assets/4cc7e435-f27e-4a75-b926-af307f279453" width="110">
+<img src="https://github.com/user-attachments/assets/4cc7e435-f27e-4a75-b926-af307f279453" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/DaltonicAssist">
-<img src="https://github.com/user-attachments/assets/250cd394-dc8a-4822-a81d-de03199ba262" width="110">
+<img src="https://github.com/user-attachments/assets/250cd394-dc8a-4822-a81d-de03199ba262" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/3Dscience">
-<img src="https://github.com/user-attachments/assets/a69b71ca-a59e-4f2c-a6a2-0061d5730e13" width="110">
+<img src="https://github.com/user-attachments/assets/a69b71ca-a59e-4f2c-a6a2-0061d5730e13" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/Sniper">
-<img src="https://github.com/user-attachments/assets/850398c4-8f5c-468f-9def-4ae00152a953" width="110">
+<img src="https://github.com/user-attachments/assets/850398c4-8f5c-468f-9def-4ae00152a953" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/Resonantia">
-<img src="https://github.com/user-attachments/assets/713df46d-e48d-431e-b4d5-3bce9cbd1583" width="110">
+<img src="https://github.com/user-attachments/assets/713df46d-e48d-431e-b4d5-3bce9cbd1583" width="100">
 </a>
 
 <a href="https://github.com/Jaypsmall/RuletaDemoniaca">
-<img src="https://github.com/user-attachments/assets/814ad10d-e30c-4f3f-90d5-dc586769d5e5" width="110">
+<img src="https://github.com/user-attachments/assets/814ad10d-e30c-4f3f-90d5-dc586769d5e5" width="100">
 </a>
 
 
