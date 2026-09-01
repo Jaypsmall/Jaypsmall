@@ -343,7 +343,6 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 <div align="center">
 
-<!-- Tarjetas de Estadísticas Principales -->
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=tokyonight&layout=compact" alt="GitHub Stats" width="49%" />
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=tokyonight&layout=compact" alt="Top Languages" width="49%" />
@@ -352,13 +351,15 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=39FF14&stroke=0A2633&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false)](https://git.io/streak-stats)
+
 ### 📡 CONNECT & SYSTEM INFO
 
-[![Email](https://img.shields.io/badge/Email-pekipekistani22%40gmail.com-181717?style=flat&logo=gmail&logoColor=68AC09)](mailto:pekipekistani22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pekipekistani22%40gmail.com-181717?style=flat&logo=gmail&logoColor=39FF14)](mailto:pekipekistani22@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=green)](https://github.com/Jaypsmall)
-[![Email](https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=green)](mailto:pekipekistani22@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&color=50AA09&labelColor=181717)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Jaypsmall)
+[![Email](https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:pekipekistani22@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&color=39FF14&labelColor=181717)
 
 ### ⭐ Open Source Android Developer
 
