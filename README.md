@@ -349,18 +349,26 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ### 👾 CONTRIBUTION_GRID
 
-<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" width="805" />
+<table>
+<tr>
+<td style="background:#030B12; border:2px solid #0A2633; padding:12px;">
+
+<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg"
+     width="805"
+     alt="Pacman Contribution Graph">
+
+</td>
+</tr>
+</table>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=0A2633&stroke=0A2633&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false)](https://git.io/streak-stats)
 
-
 ### 📡 CONNECT & SYSTEM INFO
 
-[![Email](https://img.shields.io/badge/Email-pekipekistani22%40gmail.com-181717?style=flat&logo=gmail&logoColor=39FF14)](mailto:pekipekistani22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=030B12)](https://github.com/Jaypsmall)
+[![Email](https://img.shields.io/badge/EMAIL-030B12?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Jaypsmall)
-[![Email](https://img.shields.io/badge/EMAIL-181717?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:pekipekistani22@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&color=39FF14&labelColor=181717)
+![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&color=39FF14&labelColor=030B12)
 
 ### ⭐ Open Source Android Developer
 
