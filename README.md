@@ -343,9 +343,12 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false" width="400" height="180" />
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false" width="400" height="180" />
+ <p align="center" width="100%">
+   
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false" height="180" width="50%">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false" height="180" width="50%">
+  
+</p>
 
 ### 👾 CONTRIBUTION_GRID
 
@@ -354,7 +357,7 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 <td style="background:#030B12; border:1px solid #35C713; padding:1px;">
 
 <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg"
-     width="805"
+     width="100%"
      alt="Pacman Contribution Graph">
 
 </td>
