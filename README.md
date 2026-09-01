@@ -343,15 +343,16 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=tokyonight&layout=compact" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=0A2633&layout=compact&hide_border=false" width="400" height="180" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=tokyonight&layout=compact" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=0A2633&layout=compact&hide_border=false" width="400" height="180" />
 
 ### 👾 CONTRIBUTION_GRID
 
-<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
+<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" width="805" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=39FF14&stroke=0A2633&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=0A2633&stroke=0A2633&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false)](https://git.io/streak-stats)
+
 
 ### 📡 CONNECT & SYSTEM INFO
 
