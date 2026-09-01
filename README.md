@@ -343,15 +343,15 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=0A2633&layout=compact&hide_border=false" width="400" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false" width="400" height="180" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=0A2633&layout=compact&hide_border=false" width="400" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false" width="400" height="180" />
 
 ### 👾 CONTRIBUTION_GRID
 
 <table>
 <tr>
-<td style="background:#030B12; border:2px solid #0A2633; padding:12px;">
+<td style="background:#030B12; border:1px solid #35C713; padding:1px;">
 
 <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg"
      width="805"
@@ -361,14 +361,14 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=0A2633&stroke=0A2633&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=35C713&stroke=35C713&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false)](https://git.io/streak-stats)
 
 ### 📡 CONNECT & SYSTEM INFO
 
-[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=030B12)](https://github.com/Jaypsmall)
-[![Email](https://img.shields.io/badge/EMAIL-030B12?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=for-the-badge&logo=github&logoColor=35C713&labelColor=030B12)](https://github.com/Jaypsmall)
+[![Email](https://img.shields.io/badge/EMAIL-030B12?style=for-the-badge&logo=gmail&logoColor=35C713&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&color=39FF14&labelColor=030B12)
+![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=for-the-badge&label=PROFILE+VIEWS&color=35C713&labelColor=030B12)
 
 ### ⭐ Open Source Android Developer
 
