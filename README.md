@@ -252,11 +252,9 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&hide_border=false" width="100%" height="200" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false" width="100%" height="200" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=35C713&stroke=35C713&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false" width="100%" height="200" />
 </p>
