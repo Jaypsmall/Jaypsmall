@@ -342,18 +342,12 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 # 🧪 System & Metric
 
 <div align="center">
-  
-<td width="50%" valign="top">
-  
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false">
 
-<td width="50%" valign="top">
-  
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false">
-  
-</td>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false" width="100%">
 
-</table>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false" width="100%"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=35C713&stroke=35C713&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false)](https://git.io/streak-stats)
 
 ### 👾 CONTRIBUTION_GRID
 
@@ -368,8 +362,6 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 </td>
 </tr>
 </table>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=35C713&stroke=35C713&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false)](https://git.io/streak-stats)
 
 ### 📡 CONNECT & SYSTEM INFO
 
