@@ -342,8 +342,6 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 # 🧪 System & Metric
 
 <div align="center">
-
-<table width="100%">
   
 <td width="50%" valign="top">
   
