@@ -18,7 +18,7 @@
 
 ---
 
-<table align="center" width="100%">
+<table align="center" width="100%" border="2" bordercolor="#35C713" cellpadding="10" cellspacing="0">
 <tr>
 
 <td valign="top" width="50%">
@@ -101,7 +101,6 @@
 <a href="https://github.com/Jaypsmall/RuletaDemoniaca">
 <img src="https://github.com/user-attachments/assets/814ad10d-e30c-4f3f-90d5-dc586769d5e5" width="100">
 </a>
-
 
 </div>
 </td>
