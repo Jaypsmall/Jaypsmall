@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# 😈 Cybersecurity & Android Developer       
+# 📱 Android Developer & 😈 Cybersecurity    
 
 **🎯 Root Automation | Pentest Tools | System Optimization**
 
