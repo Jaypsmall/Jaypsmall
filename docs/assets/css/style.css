@@ -737,3 +737,20 @@ footer .footer-small {
         font-size: 25px;
     }
 }
+
+.red {
+    color: var(--red);
+}
+
+.yellow {
+    color: var(--yellow);
+}
+
+.white {
+    color: #ffffff;
+}
+
+.blue {
+    color: #00aeef;
+}
+
