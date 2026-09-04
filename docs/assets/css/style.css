@@ -2,9 +2,7 @@
    JAYLIZAPP // PROJECT HUB
    ========================================= */
 
-
 :root {
-
     --background: #05070a;
     --background-soft: #080c11;
 
@@ -18,10 +16,13 @@
 
     --border: rgba(0, 174, 239, 0.32);
 
-    --card: rgba(8, 13, 18, 0.88);
-
+    --card: rgba(8, 13, 18, 0.90);
 }
 
+
+/* =========================================
+   RESET
+   ========================================= */
 
 * {
     margin: 0;
@@ -36,14 +37,12 @@ html {
 
 
 body {
-
     background: var(--background);
-
     color: var(--text);
 
     font-family:
         Inter,
-        Segoe UI,
+        "Segoe UI",
         Arial,
         sans-serif;
 
@@ -54,11 +53,10 @@ body {
 
 
 /* =========================================
-   BACKGROUND
+   BACKGROUND GRID
    ========================================= */
 
 .background-grid {
-
     position: fixed;
 
     inset: 0;
@@ -69,12 +67,12 @@ body {
 
     background-image:
         linear-gradient(
-            rgba(0,174,239,0.07) 1px,
+            rgba(0, 174, 239, 0.07) 1px,
             transparent 1px
         ),
         linear-gradient(
             90deg,
-            rgba(0,174,239,0.07) 1px,
+            rgba(0, 174, 239, 0.07) 1px,
             transparent 1px
         );
 
@@ -96,7 +94,6 @@ body {
    ========================================= */
 
 .hero {
-
     max-width: 1200px;
 
     margin: auto;
@@ -110,7 +107,6 @@ body {
 
 
 .status-line {
-
     display: inline-flex;
 
     align-items: center;
@@ -128,7 +124,6 @@ body {
 
 
 .status-dot {
-
     width: 7px;
     height: 7px;
 
@@ -142,7 +137,6 @@ body {
 
 
 .hero h1 {
-
     font-size: clamp(42px, 8vw, 82px);
 
     font-weight: 900;
@@ -159,7 +153,6 @@ body {
 
 
 .hero-title {
-
     margin-top: 18px;
 
     color: var(--blue);
@@ -173,7 +166,6 @@ body {
 
 
 .hero-description {
-
     margin-top: 18px;
 
     color: var(--muted);
@@ -183,11 +175,10 @@ body {
 
 
 /* =========================================
-   MAIN
+   MAIN CONTAINER
    ========================================= */
 
 .container {
-
     width: min(1200px, calc(100% - 40px));
 
     margin: auto;
@@ -199,6 +190,7 @@ body {
    ========================================= */
 
 .project-section {
+    position: relative;
 
     margin-bottom: 80px;
 
@@ -209,16 +201,13 @@ body {
     background:
         linear-gradient(
             145deg,
-            rgba(0,174,239,0.035),
-            rgba(0,0,0,0)
+            rgba(0, 174, 239, 0.035),
+            rgba(0, 0, 0, 0)
         );
-
-    position: relative;
 }
 
 
 .project-section::before {
-
     content: "";
 
     position: absolute;
@@ -233,8 +222,11 @@ body {
 }
 
 
-.section-header {
+/* =========================================
+   SECTION HEADER
+   ========================================= */
 
+.section-header {
     display: flex;
 
     align-items: flex-start;
@@ -248,7 +240,6 @@ body {
 
 
 .section-index {
-
     color: var(--blue);
 
     font-size: 10px;
@@ -260,7 +251,6 @@ body {
 
 
 .section-header h2 {
-
     font-size: clamp(28px, 5vw, 42px);
 
     font-weight: 900;
@@ -270,7 +260,6 @@ body {
 
 
 .section-header h2 span {
-
     color: var(--blue);
 }
 
@@ -286,7 +275,6 @@ body {
 
 
 .section-header p {
-
     margin-top: 7px;
 
     color: var(--muted);
@@ -296,7 +284,6 @@ body {
 
 
 .section-tag {
-
     border: 1px solid var(--border);
 
     padding: 7px 11px;
@@ -312,29 +299,30 @@ body {
 
 
 /* =========================================
-   CARDS
+   PROJECT CARDS GRID
    ========================================= */
 
 .cards {
-
     display: grid;
 
     grid-template-columns:
         repeat(3, 1fr);
 
-    gap: 16px;
+    gap: 18px;
 }
 
 
 .cards-two {
-
     grid-template-columns:
         repeat(2, 1fr);
 }
 
 
-.project-card {
+/* =========================================
+   PROJECT CARD
+   ========================================= */
 
+.project-card {
     display: flex;
 
     flex-direction: column;
@@ -347,7 +335,9 @@ body {
 
     background: var(--card);
 
-    border: 1px solid rgba(255,255,255,0.08);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+
+    overflow: hidden;
 
     transition:
         transform 0.25s ease,
@@ -357,61 +347,59 @@ body {
 
 
 .project-card:hover {
-
-    transform: translateY(-5px);
+    transform: translateY(-6px);
 
     border-color: var(--blue);
 
     box-shadow:
-        0 12px 35px rgba(0,174,239,0.10);
+        0 15px 40px rgba(0, 174, 239, 0.12);
 }
 
 
 /* =========================================
-   IMAGE
+   CARD IMAGE AREA
    ========================================= */
 
 .image-wrapper {
-
     display: flex;
 
     align-items: center;
 
     justify-content: center;
 
-    height: 190px;
+    height: 230px;
 
-    padding: 20px;
+    padding: 18px;
 
     background:
         radial-gradient(
             circle,
-            rgba(0,174,239,0.08),
-            transparent 70%
+            rgba(0, 174, 239, 0.10),
+            transparent 72%
         );
 
-    border-bottom: 1px solid rgba(255,255,255,0.07);
+    border-bottom:
+        1px solid rgba(255, 255, 255, 0.07);
 }
 
 
 .image-wrapper img {
+    width: 170px;
 
-    width: 120px;
-
-    height: 120px;
+    height: 170px;
 
     object-fit: contain;
 
-    border-radius: 22px;
+    border-radius: 26px;
 
     transition:
-        transform 0.25s ease;
+        transform 0.25s ease,
+        filter 0.25s ease;
 }
 
 
 .project-card:hover
 .image-wrapper img {
-
     transform: scale(1.06);
 }
 
@@ -421,13 +409,11 @@ body {
    ========================================= */
 
 .card-content {
-
-    padding: 20px;
+    padding: 22px;
 }
 
 
 .card-number {
-
     color: var(--blue);
 
     font-size: 10px;
@@ -439,7 +425,6 @@ body {
 
 
 .card-content h3 {
-
     font-size: 17px;
 
     letter-spacing: 0.5px;
@@ -447,7 +432,6 @@ body {
 
 
 .card-content p {
-
     margin-top: 8px;
 
     color: var(--muted);
@@ -459,7 +443,6 @@ body {
 
 
 .open-link {
-
     display: inline-block;
 
     margin-top: 20px;
@@ -475,14 +458,13 @@ body {
 
 
 /* =========================================
-   HEXCOLOR FEATURE
+   HEXCOLOR FEATURED PROJECT
    ========================================= */
 
 .featured-project {
-
     display: grid;
 
-    grid-template-columns: 280px 1fr;
+    grid-template-columns: 300px 1fr;
 
     text-decoration: none;
 
@@ -490,25 +472,30 @@ body {
 
     background: var(--card);
 
-    border: 1px solid rgba(255,255,255,0.08);
+    border:
+        1px solid rgba(255, 255, 255, 0.08);
+
+    overflow: hidden;
 
     transition:
         transform 0.25s ease,
-        border-color 0.25s ease;
+        border-color 0.25s ease,
+        box-shadow 0.25s ease;
 }
 
 
 .featured-project:hover {
-
-    transform: translateY(-5px);
+    transform: translateY(-6px);
 
     border-color: var(--blue);
+
+    box-shadow:
+        0 15px 40px rgba(0, 174, 239, 0.12);
 }
 
 
 .featured-image {
-
-    min-height: 260px;
+    min-height: 300px;
 
     display: flex;
 
@@ -516,31 +503,38 @@ body {
 
     justify-content: center;
 
-    padding: 30px;
+    padding: 25px;
 
     background:
         radial-gradient(
             circle,
-            rgba(0,174,239,0.09),
-            transparent 70%
+            rgba(0, 174, 239, 0.10),
+            transparent 72%
         );
 }
 
 
 .featured-image img {
+    width: 200px;
 
-    width: 150px;
-
-    height: 150px;
+    height: 200px;
 
     object-fit: contain;
 
-    border-radius: 28px;
+    border-radius: 30px;
+
+    transition:
+        transform 0.25s ease;
+}
+
+
+.featured-project:hover
+.featured-image img {
+    transform: scale(1.06);
 }
 
 
 .featured-content {
-
     display: flex;
 
     flex-direction: column;
@@ -552,7 +546,6 @@ body {
 
 
 .featured-number {
-
     color: var(--blue);
 
     font-size: 10px;
@@ -564,20 +557,20 @@ body {
 
 
 .featured-content h3 {
-
-    font-size: 28px;
+    font-size: 30px;
 
     letter-spacing: 1px;
 }
 
 
 .featured-content p {
-
     color: var(--muted);
 
     margin-top: 10px;
 
     font-size: 13px;
+
+    line-height: 1.6;
 }
 
 
@@ -586,17 +579,17 @@ body {
    ========================================= */
 
 footer {
-
     width: min(1200px, calc(100% - 40px));
 
-    margin: 20px auto 50px;
+    margin:
+        20px auto
+        50px;
 
     text-align: center;
 }
 
 
 .footer-line {
-
     width: 100%;
 
     height: 1px;
@@ -616,7 +609,6 @@ footer {
 
 
 footer p {
-
     color: var(--muted);
 
     font-size: 10px;
@@ -626,7 +618,6 @@ footer p {
 
 
 footer p span {
-
     color: var(--blue);
 
     margin: 0 8px;
@@ -634,7 +625,6 @@ footer p span {
 
 
 footer .footer-small {
-
     margin-top: 10px;
 
     color: #4d5961;
@@ -646,85 +636,104 @@ footer .footer-small {
 
 
 /* =========================================
-   RESPONSIVE
+   TABLET
    ========================================= */
 
 @media (max-width: 850px) {
 
     .cards {
-
         grid-template-columns: 1fr;
-
     }
 
     .cards-two {
-
         grid-template-columns: 1fr;
-
     }
 
     .featured-project {
-
         grid-template-columns: 1fr;
-
     }
 
     .featured-image {
-
-        min-height: 220px;
-
+        min-height: 250px;
     }
-
 }
 
+
+/* =========================================
+   MOBILE
+   ========================================= */
 
 @media (max-width: 600px) {
 
     .hero {
-
         padding:
             70px 20px
             55px;
-
     }
+
 
     .container {
-
         width:
             calc(100% - 24px);
-
     }
 
-    .project-section {
 
+    .project-section {
         padding: 18px;
 
         margin-bottom: 45px;
-
     }
+
 
     .section-header {
-
         flex-direction: column;
-
     }
+
 
     .section-tag {
-
         display: none;
-
     }
+
 
     .image-wrapper {
+        height: 210px;
 
-        height: 170px;
-
+        padding: 15px;
     }
+
+
+    .image-wrapper img {
+        width: 155px;
+
+        height: 155px;
+    }
+
+
+    .card-content {
+        padding: 20px;
+    }
+
+
+    .featured-image {
+        min-height: 230px;
+
+        padding: 20px;
+    }
+
+
+    .featured-image img {
+        width: 175px;
+
+        height: 175px;
+    }
+
 
     .featured-content {
-
         padding: 25px;
-
     }
 
+
+    .featured-content h3 {
+        font-size: 25px;
+    }
 }
