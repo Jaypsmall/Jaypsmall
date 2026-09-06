@@ -125,7 +125,7 @@ I build tools that interact directly with Android and Linux systems, exploring e
 > A collection of Android, cybersecurity, automation and experimental projects.
 
 > [!NOTE]
-> | 🌡️ CpuTemp | 🔓 HexRootScan |
+> | **🌡️ CpuTemp** | **🔓 HexRootScan** |
 > | :--- | :--- |
 > | **Android · Root · Performance**<br>CPU governor control, thermal monitoring and performance profiles.<br><br>`Kotlin` `Magisk` `KernelSU`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/CpuTemp) | **Android · Pentesting · Network**<br>Mobile security toolkit with network and reconnaissance utilities.<br><br>`Kotlin` `Nmap` `DNS` `Whois`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/HexRootScan) |
 > | **😈 DemoniTalk** | **🎨 DemoniDraw** |
