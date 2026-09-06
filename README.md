@@ -1,6 +1,5 @@
-
 <div align="center">
-  
+
 # 📱 Android Developer & 😈 Cybersecurity    
 
 **🎯 Root Automation | Pentest Tools | System Optimization**
@@ -12,13 +11,13 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
-  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/stack3azul.png" alt="Mi Stack" width="100%">
+  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="99%">
+  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/stack3azul.png" alt="Mi Stack" width="99%">
 </p>
 
 ---
 
-<table align="center" width="100%" cellpadding="14" cellspacing="0"
+<table align="center" width="100%" solid="#00AEEF" cellpadding="14" cellspacing="0"
        style="border:2px solid #00AEEF; border-collapse:separate; border-radius:12px; overflow:hidden;">
 <tr>
 
