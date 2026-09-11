@@ -127,6 +127,8 @@ I build tools that interact directly with Android and Linux systems, exploring e
 > | **😈 DemoniTalk** |
 > | :--- |
 > | **Android · Automation · Accessibility**<br>Voice commands, macros and floating automation controls.<br><br>`Kotlin` `Accessibility` `Overlay`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/DemoniTalk) |
+
+> [!NOTE]
 > | **🎨 DemoniDraw** |
 > | :--- |
 > | **Android · Gestures · Automation**<br>Gesture recognition and programmable automation.<br><br>`Kotlin` `Gestures` `Macros`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/DemoniDraw) |
@@ -140,6 +142,8 @@ I build tools that interact directly with Android and Linux systems, exploring e
 > | **🔧 HexRootFuzz** |
 > | :--- |
 > | **Android · Pentesting · Fuzzing**<br>Security testing and fuzzing utilities for Android environments.<br><br>`Kotlin` `Security` `Fuzzing` `Root`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/HexRootFuzz) |
+
+> [!NOTE]
 > | **🔓 HexRootScan** |
 > | :--- |
 > | **Android · Pentesting · Network**<br>Network reconnaissance and mobile security toolkit.<br><br>`Kotlin` `Nmap` `DNS` `Whois`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/HexRootScan) |
