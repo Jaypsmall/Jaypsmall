@@ -121,6 +121,14 @@ I build tools that interact directly with Android and Linux systems, exploring e
 
 # 🚀 Project Lab
 
+
+<table align="center" width="100%" solid="#00AEEF" cellpadding="14" cellspacing="0"
+       style="border:2px solid #00AEEF; border-collapse:separate; border-radius:12px; overflow:hidden;">
+<tr>
+
+<td valign="top" width="100%" align="center"
+    style="border-right:2px solid #00AEEF;">
+  
 > A collection of Android, cybersecurity, automation and experimental projects.
 
 > [!NOTE]
@@ -162,6 +170,10 @@ I build tools that interact directly with Android and Linux systems, exploring e
 > | **🧪 3Dscience** |
 > | :--- |
 > | **Android · Science · 3D**<br>Experimental scientific visualization and 3D exploration tools.<br><br>`Kotlin` `3D` `Science`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/3Dscience) |
+
+</td>
+</tr>
+</table>
 
 ---
 
