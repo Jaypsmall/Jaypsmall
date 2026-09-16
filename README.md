@@ -121,15 +121,16 @@ I build tools that interact directly with Android and Linux systems, exploring e
 
 # 🚀 Project Lab
 
-
 <table align="center" width="100%" solid="#00AEEF" cellpadding="14" cellspacing="0"
        style="border:2px solid #00AEEF; border-collapse:separate; border-radius:12px; overflow:hidden;">
 <tr>
 
-<td valign="top" width="100%" align="center"
-    style="border-right:2px solid #00AEEF;">
-  
 > A collection of Android, cybersecurity, automation and experimental projects.
+
+<td valign="top" width="50%" align="center"
+    style="border-right:2px solid #00AEEF;">
+
+<br><br>
 
 > [!NOTE]
 > | **😈 DemoniTalk** |
@@ -150,6 +151,14 @@ I build tools that interact directly with Android and Linux systems, exploring e
 > | **🔧 HexRootFuzz** |
 > | :--- |
 > | **Android · Pentesting · Fuzzing**<br>Security testing and fuzzing utilities for Android environments.<br><br>`Kotlin` `Security` `Fuzzing` `Root`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/HexRootFuzz) |
+
+<br>
+
+</td>
+
+<td valign="top" width="50%" align="center">
+
+<br><br>
 
 > [!NOTE]
 > | **🔓 HexRootScan** |
