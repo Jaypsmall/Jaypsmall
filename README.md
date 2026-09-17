@@ -11,14 +11,13 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="99%">
+  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/stack3azul.png" alt="Mi Stack" width="100%">
 </p>
 
 ---
 
-<table align="center" width="100%" solid="#00AEEF" cellpadding="14" cellspacing="0"
-       style="border:2px solid #00AEEF; border-collapse:separate; border-radius:12px; overflow:hidden;">
+<table align="center" width="100%" solid="#00AEEF" cellpadding="14">
 <tr>
 
 <td valign="top" width="50%" align="center"
@@ -132,15 +131,15 @@ I build tools that interact directly with Android and Linux systems, exploring e
 <td valign="top" width="50%" align="center"
     style="border-right:2px solid #00AEEF;">
 
-> [!NOTE]
+> [
 > | **😈 DemoniTalk** |
 > | :--- |
 > | **Android · Automation · Accessibility**<br>Voice commands, macros and floating automation controls.<br><br>`Kotlin` `Accessibility` `Overlay`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/DemoniTalk) |
-> [!NOTE]
+> [
 > | **🎨 DemoniDraw** |
 > | :--- |
 > | **Android · Gestures · Automation**<br>Gesture recognition and programmable automation.<br><br>`Kotlin` `Gestures` `Macros`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/DemoniDraw) |
-> [!NOTE]
+> [
 > | **🎨 HexColor** |
 > | :--- |
 > | **Android · Camera · Color Science**<br>Real-time color detection and visual analysis using the camera.<br><br>`Kotlin` `Camera` `Color`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/HexColor) |
@@ -154,19 +153,19 @@ I build tools that interact directly with Android and Linux systems, exploring e
 <td valign="top" width="50%" align="center"
     style="border-right:2px solid #00AEEF;">
   
-> [!NOTE]
+> [
 > | **🔓 HexRootScan** |
 > | :--- |
 > | **Android · Pentesting · Network**<br>Network reconnaissance and mobile security toolkit.<br><br>`Kotlin` `Nmap` `DNS` `Whois`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/HexRootScan) |
-> [!NOTE]
+> [
 > | **👁️ DaltonicAssist** |
 > | :--- |
 > | **Android · Accessibility · Vision**<br>Accessibility-oriented visual assistance and color perception tools.<br><br>`Kotlin` `Accessibility` `Vision`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/DaltonicAssist) |
-> [!NOTE]
+> [
 > | **🌡️ CpuTemp** |
 > | :--- |
 > | **Android · Root · Performance**<br>CPU governor control, thermal monitoring and performance profiles.<br><br>`Kotlin` `Magisk` `KernelSU`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/CpuTemp) |
-> [!NOTE]
+> [
 > | **🧪 3Dscience** |
 > | :--- |
 > | **Android · Science · 3D**<br>Experimental scientific visualization and 3D exploration tools.<br><br>`Kotlin` `3D` `Science`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/3Dscience) |
