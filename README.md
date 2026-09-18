@@ -17,7 +17,7 @@
 
 ---
 
-<table align="center" width="100%" solid="#00AEEF" cellpadding="14">
+<table valign="top" width="100%" align="center">
 <tr>
 <td valign="top" width="100%" align="center">
 
@@ -37,7 +37,6 @@
 <a href="https://github.com/Jaypsmall/HexRootScan">
 <img src="https://github.com/user-attachments/assets/568500c5-b275-4a6f-b093-64393ac42241" width="100">
 </a>
-<br>
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
 <img src="https://github.com/user-attachments/assets/c94de779-39c7-42eb-8fd1-ba91a167a966" width="100">
 </a>
@@ -56,7 +55,7 @@
 </table>
 
 
-<table align="center" width="100%" solid="#00AEEF" cellpadding="14">
+<table valign="top" width="100%" align="center">
 <tr>
 <td valign="top" width="100%" align="center">
 
@@ -76,7 +75,6 @@
 <a href="https://github.com/Jaypsmall/DaltonicAssist">
 <img src="https://github.com/user-attachments/assets/250cd394-dc8a-4822-a81d-de03199ba262" width="100">
 </a>
-<br>
 <a href="https://github.com/Jaypsmall/3Dscience">
 <img src="https://github.com/user-attachments/assets/a69b71ca-a59e-4f2c-a6a2-0061d5730e13" width="100">
 </a>
