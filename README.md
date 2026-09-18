@@ -113,7 +113,7 @@ I build tools that interact directly with Android and Linux systems, exploring e
 
 
 <table valign="top" width="100%" align="center">
-<tr>
+
 <td valign="top" width="50%" align="center">
  
 | **😈 DemoniTalk** |
@@ -134,8 +134,6 @@ I build tools that interact directly with Android and Linux systems, exploring e
 | **🔧 HexRootFuzz** |
 | :--- |
 | **Android · Pentesting · Fuzzing**<br>Security testing and fuzzing utilities for Android environments.<br><br>`Kotlin` `Security` `Fuzzing` `Root`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/HexRootFuzz) |
-
-</td>
 
 <td valign="top" width="50%" align="center">
  
@@ -159,7 +157,6 @@ I build tools that interact directly with Android and Linux systems, exploring e
 | **Android · Science · 3D**<br>Experimental scientific visualization molecula and 3D exploration tools.<br><br>`Kotlin` `3D` `Science`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/3Dscience) |
 
 </td>
-</tr>
 </table>
 
 ---
