@@ -265,7 +265,7 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 <table>
 <tr>
-<td style="background:#030B12; border:1px solid #35C713; padding:1px;">
+<td style="background:#030B12; border:1px solid #6840B8; padding:1px;">
 
 <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg"
      width="100%"
@@ -276,13 +276,13 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&hide_border=false" width="100%" height="200" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=8860C8&text_color=FFFFFF&icon_color=8860C8&border_color=6840B8&hide_border=false" width="100%" height="200" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14&border_color=35C713&layout=compact&hide_border=false" width="100%" height="200" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=8860C8&text_color=FFFFFF&icon_color=8860C8&border_color=6840B8&layout=compact&hide_border=false" width="100%" height="200" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=35C713&stroke=35C713&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false" width="100%" height="200" />
+  <img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=6840B8&stroke=6840B8&ring=8860C8&fire=8860C8&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false" width="100%" height="200" />
 </p>
 
 ### 📡 CONNECT & SYSTEM INFO
