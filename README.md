@@ -296,7 +296,7 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 **"Building Android tools that push the limits of the platform."**
 
-Made with 💚 for the Android & Cybersecurity community.
+Made with 💜 for the Android & Cybersecurity community.
 
 </div>
 
