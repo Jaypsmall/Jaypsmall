@@ -146,7 +146,7 @@ I build tools that interact directly with Android and Linux systems, exploring e
 | :--- |
 | **Android · Root · Performance**<br>CPU governor control, thermal monitoring and performance profiles.<br><br>`Kotlin` `Magisk` `KernelSU`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/CpuTemp) |
  
-| **🧪 3Dscience** |
+| **🔬 3Dscience** |
 | :--- |
 | **Android · Science · 3D**<br>Experimental scientific visualization molecula and 3D exploration tools.<br><br>`Kotlin` `3D` `Science`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/3Dscience) |
 
