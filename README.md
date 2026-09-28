@@ -213,7 +213,7 @@
 <table width="100%">
 <tr>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### 😈 DemoniTalk
 
@@ -228,7 +228,7 @@ Voice commands, macros and floating automation controls.<br><br>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### 😈 DemoniDraw
 
@@ -243,7 +243,7 @@ Gesture commands, recognition and programmable automation.<br><br>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### 🎨 HexColor
 
@@ -262,7 +262,7 @@ Real-time color detection and visual analysis using the camera.<br><br>
 
 <tr>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### 🔓 HexRootScan
 
@@ -277,7 +277,7 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### 🔧 HexRootFuzz
 
@@ -292,7 +292,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### 📡 DemoniWifi
 
@@ -311,7 +311,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 
 <tr>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### 👁️ DaltonicAssist
 
@@ -326,7 +326,7 @@ Accessibility-oriented visual assistance color perception tools.<br><br>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### 🌡️ CpuTemp
 
@@ -341,7 +341,7 @@ CPU governor control, thermal monitoring and performance profiles.<br><br>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### ⚛️ 3Dscience
 
@@ -360,7 +360,7 @@ Experimental scientific visualization, molecular and 3D exploration tools.<br><b
 
 <tr>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### 🔊 Resonantia
 
@@ -375,7 +375,7 @@ Experimental audio, voice and sound processing tools for Android.<br><br>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### 🎯 Sniper
 
@@ -390,7 +390,7 @@ Experimental precision targeting and programmable interaction tools.<br><br>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="30%" valign="top" align="center">
 
 ### 🎙️ ProVoiceChanger
 
