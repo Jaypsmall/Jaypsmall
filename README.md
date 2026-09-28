@@ -17,9 +17,18 @@
 
 ---
 
-<table width="100%" align="center">
+<!-- ====================================================== -->
+<!--                    APP SHOWCASE                        -->
+<!-- ====================================================== -->
+
+<table width="100%" align="center" cellspacing="10" cellpadding="0">
 <tr>
-<td align="center">
+
+<!-- ====================================================== -->
+<!--                     DARK TOOLS                         -->
+<!-- ====================================================== -->
+
+<td width="50%" valign="top" align="center">
 
 <h2>😈 Dark Tools</h2>
 
@@ -27,50 +36,90 @@
 
 <br>
 
-<p align="center">
+<table align="center" cellspacing="6" cellpadding="0">
 
+<tr>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
 <a href="https://github.com/Jaypsmall/CpuTemp">
-<img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/DemoniWifi">
-<img src="https://github.com/user-attachments/assets/1a94e993-335b-4936-9f9b-bb73ad110eeb" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/DemoniDraw">
-<img src="https://github.com/user-attachments/assets/9f968006-ca8a-4b38-a14c-6e0f83648873" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/HexRootScan">
-<img src="https://github.com/user-attachments/assets/568500c5-b275-4a6f-b093-64393ac42241" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/HexRootFuzz">
-<img src="https://github.com/user-attachments/assets/c94de779-39c7-42eb-8fd1-ba91a167a966" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/Dimetu">
-<img src="https://github.com/user-attachments/assets/5e21897e-a29b-4009-a95e-535245b3765f" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/DemoniTalk">
-<img src="https://github.com/user-attachments/assets/07ccac91-4721-437f-9f5f-ae2df7afe724" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/ProVoiceChanger">
-<img src="https://github.com/user-attachments/assets/c61b7d28-b62e-4a05-9dc7-06ae67ff053a" width="90">
+<img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2"
+     width="82">
 </a>
-
-</p>
-
 </td>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/DemoniWifi">
+<img src="https://github.com/user-attachments/assets/1a94e993-335b-4936-9f9b-bb73ad110eeb"
+     width="82">
+</a>
+</td>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/DemoniDraw">
+<img src="https://github.com/user-attachments/assets/9f968006-ca8a-4b38-a14c-6e0f83648873"
+     width="82">
+</a>
+</td>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/HexRootScan">
+<img src="https://github.com/user-attachments/assets/568500c5-b275-4a6f-b093-64393ac42241"
+     width="82">
+</a>
+</td>
+
 </tr>
+
+<tr>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/HexRootFuzz">
+<img src="https://github.com/user-attachments/assets/c94de779-39c7-42eb-8fd1-ba91a167a966"
+     width="82">
+</a>
+</td>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/Dimetu">
+<img src="https://github.com/user-attachments/assets/5e21897e-a29b-4009-a95e-535245b3765f"
+     width="82">
+</a>
+</td>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/DemoniTalk">
+<img src="https://github.com/user-attachments/assets/07ccac91-4721-437f-9f5f-ae2df7afe724"
+     width="82">
+</a>
+</td>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/ProVoiceChanger">
+<img src="https://github.com/user-attachments/assets/c61b7d28-b62e-4a05-9dc7-06ae67ff053a"
+     width="82">
+</a>
+</td>
+
+</tr>
+
 </table>
 
+</td>
 
-<table width="100%" align="center">
-<tr>
-<td align="center">
+
+<!-- ====================================================== -->
+<!--                    GENERAL APPS                        -->
+<!-- ====================================================== -->
+
+<td width="50%" valign="top" align="center">
 
 <h2>📱 General Apps</h2>
 
@@ -78,39 +127,80 @@
 
 <br>
 
-<p align="center">
+<table align="center" cellspacing="6" cellpadding="0">
 
+<tr>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
 <a href="https://github.com/Jaypsmall/HexColor">
-<img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/HexColor">
-<img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/Jaypsmall">
-<img src="https://github.com/user-attachments/assets/4cc7e435-f27e-4a75-b926-af307f279453" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/DaltonicAssist">
-<img src="https://github.com/user-attachments/assets/250cd394-dc8a-4822-a81d-de03199ba262" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/3Dscience">
-<img src="https://github.com/user-attachments/assets/a69b71ca-a59e-4f2c-a6a2-0061d5730e13" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/Sniper">
-<img src="https://github.com/user-attachments/assets/850398c4-8f5c-468f-9def-4ae00152a953" width="90">
-</a>&nbsp;
-
-<a href="https://github.com/Jaypsmall/Resonantia">
-<img src="https://github.com/user-attachments/assets/713df46d-e48d-431e-b4d5-3bce9cbd1583" width="90">
+<img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462"
+     width="82">
 </a>
+</td>
 
-</p>
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/HexColor">
+<img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24"
+     width="82">
+</a>
+</td>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/Jaypsmall">
+<img src="https://github.com/user-attachments/assets/4cc7e435-f27e-4a75-b926-af307f279453"
+     width="82">
+</a>
+</td>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/DaltonicAssist">
+<img src="https://github.com/user-attachments/assets/250cd394-dc8a-4822-a81d-de03199ba262"
+     width="82">
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/3Dscience">
+<img src="https://github.com/user-attachments/assets/a69b71ca-a59e-4f2c-a6a2-0061d5730e13"
+     width="82">
+</a>
+</td>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/Sniper">
+<img src="https://github.com/user-attachments/assets/850398c4-8f5c-468f-9def-4ae00152a953"
+     width="82">
+</a>
+</td>
+
+<td align="center"
+    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+<a href="https://github.com/Jaypsmall/Resonantia">
+<img src="https://github.com/user-attachments/assets/713df46d-e48d-431e-b4d5-3bce9cbd1583"
+     width="82">
+</a>
+</td>
+
+<td align="center">
+&nbsp;
+</td>
+
+</tr>
+
+</table>
 
 </td>
+
 </tr>
 </table>
 
