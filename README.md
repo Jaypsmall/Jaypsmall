@@ -410,9 +410,9 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 
 ### 👾 CONTRIBUTION_GRID
 
-<table>
+<table width="100%">
 <tr>
-<td style="background:#030B12; border:1px solid #6840B8; padding:1px;">
+<td align="center" style="background:#030B12; border:1px solid #6840B8; padding:4px;">
 
 <img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg"
      width="100%"
@@ -422,16 +422,30 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 </tr>
 </table>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=8860C8&text_color=FFFFFF&icon_color=8860C8&border_color=6840B8&hide_border=false" width="100%" height="200" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=8860C8&text_color=FFFFFF&icon_color=8860C8&border_color=6840B8&layout=compact&hide_border=false" width="100%" height="200" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=6840B8&stroke=6840B8&ring=8860C8&fire=8860C8&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false" width="100%" height="200" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=8860C8&text_color=FFFFFF&icon_color=8860C8&border_color=6840B8&hide_border=false"
+width="100%"
+alt="GitHub Statistics">
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=8860C8&text_color=FFFFFF&icon_color=8860C8&border_color=6840B8&layout=compact&hide_border=false"
+width="100%"
+alt="Top Languages">
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=6840B8&stroke=6840B8&ring=8860C8&fire=8860C8&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B8A99&hide_border=false"
+width="100%"
+alt="GitHub Contribution Streak">
+</p>
+
+</div>
+
+<div align="center">
+  
 ### 📡 CONNECT & SYSTEM INFO
 
 [![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=for-the-badge&logo=github&logoColor=6840B8&labelColor=030B12)](https://github.com/Jaypsmall)
