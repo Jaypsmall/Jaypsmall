@@ -108,62 +108,202 @@ I build tools that interact directly with Android and Linux systems, exploring e
 
 > A collection of Android, cybersecurity, automation and experimental projects.
 
+<table width="100%">
+<tr>
 
-<table valign="top" width="100%" align="center">
+<td width="33%" valign="top" align="center">
 
-<td valign="top" width="50%" align="center">
- 
-| **😈 DemoniTalk** |
-| :--- |
-| **Android · Automation · Accessibility**<br>Voice commands, macros and floating automation controls.<br><br>`Kotlin` `Accessibility` `Overlay`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/DemoniTalk) |
- 
-| **😈 DemoniDraw** |
-| :--- |
-| **Android · Automation · Accessibility**<br>Gesture commands, recognition and programmable automation.<br><br>`Kotlin` `Gestures` `Macros` `Overlay`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/DemoniDraw) |
- 
-| **🔓 HexRootScan** |
-| :--- |
-| **Android · Pentesting · Network**<br>Network reconnaissance and security toolkit for Android mobiles.<br><br>`Kotlin` `Nmap` `DNS` `Whois`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/HexRootScan) |
- 
-| **🔧 HexRootFuzz** |
-| :--- |
-| **Android · Pentesting · Fuzzing**<br>Security testing and fuzzing utilities for Android environments.<br><br>`Kotlin` `Security` `Fuzzing` `Root`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/HexRootFuzz) |
+### 😈 DemoniTalk
 
-| **📡 DemoniWifi** |
-| :--- |
-| **Android · Network · WiFi**<br>WiFi network analysis and wireless network utilities for Android.<br><br>`Kotlin` `WiFi` `Network` `Security`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/DemoniWifi) |
+<b>Android · Automation · Accessibility</b><br>
+Voice commands, macros and floating automation controls.<br><br>
 
-| **🎙️ ProVoiceChanger** |
-| :--- |
-| **Android · Voice · Audio**<br>Voice transformation and audio processing tools for Android.<br><br>`Kotlin` `Voice` `Audio` `TTS`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/ProVoiceChanger) |
+<code>Kotlin</code> <code>Accessibility</code> <code>Overlay</code><br><br>
 
-<td valign="top" width="50%" align="center">
- 
-| **🎨 HexColor** |
-| :--- |
-| **Android · Camera · Color Science**<br>Real-time color detection and visual analysis using the camera.<br><br>`Kotlin` `Camera` `Color`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/HexColor) |
- 
-| **👁️ DaltonicAssist** |
-| :--- |
-| **Android · Accessibility · Vision**<br>Accessibility-oriented visual assistance color perception tools.<br><br>`Kotlin` `Accessibility` `Vision`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/DaltonicAssist) |
- 
-| **🌡️ CpuTemp** |
-| :--- |
-| **Android · Root · Performance**<br>CPU governor control, thermal monitoring and performance profiles.<br><br>`Kotlin` `Magisk` `KernelSU`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/CpuTemp) |
- 
-| **⚛️ 3Dscience** |
-| :--- |
-| **Android · Science · 3D**<br>Experimental scientific visualization molecula and 3D exploration tools.<br><br>`Kotlin` `3D` `Science`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/3Dscience) |
-
-| **🔊 Resonantia** |
-| :--- |
-| **Android · Audio · AI**<br>Experimental audio, voice and sound processing tools for Android.<br><br>`Kotlin` `Audio` `AI` `Voice`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/Resonantia) |
-
-| **🎯 Sniper** |
-| :--- |
-| **Android · Automation · Precision**<br>Experimental precision targeting and programmable interaction tools.<br><br>`Kotlin` `Automation` `Overlay` `Touch`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/Sniper) |
+<a href="https://github.com/Jaypsmall/DemoniTalk">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
+
+<td width="33%" valign="top" align="center">
+
+### 😈 DemoniDraw
+
+<b>Android · Automation · Accessibility</b><br>
+Gesture commands, recognition and programmable automation.<br><br>
+
+<code>Kotlin</code> <code>Gestures</code> <code>Macros</code> <code>Overlay</code><br><br>
+
+<a href="https://github.com/Jaypsmall/DemoniDraw">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🎨 HexColor
+
+<b>Android · Camera · Color Science</b><br>
+Real-time color detection and visual analysis using the camera.<br><br>
+
+<code>Kotlin</code> <code>Camera</code> <code>Color</code><br><br>
+
+<a href="https://github.com/Jaypsmall/HexColor">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+### 🔓 HexRootScan
+
+<b>Android · Pentesting · Network</b><br>
+Network reconnaissance and security toolkit for Android mobiles.<br><br>
+
+<code>Kotlin</code> <code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
+
+<a href="https://github.com/Jaypsmall/HexRootScan">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🔧 HexRootFuzz
+
+<b>Android · Pentesting · Fuzzing</b><br>
+Security testing and fuzzing utilities for Android environments.<br><br>
+
+<code>Kotlin</code> <code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
+
+<a href="https://github.com/Jaypsmall/HexRootFuzz">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 📡 DemoniWifi
+
+<b>Android · Network · WiFi</b><br>
+WiFi network analysis and wireless network utilities for Android.<br><br>
+
+<code>Kotlin</code> <code>WiFi</code> <code>Network</code> <code>Security</code><br><br>
+
+<a href="https://github.com/Jaypsmall/DemoniWifi">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+### 👁️ DaltonicAssist
+
+<b>Android · Accessibility · Vision</b><br>
+Accessibility-oriented visual assistance color perception tools.<br><br>
+
+<code>Kotlin</code> <code>Accessibility</code> <code>Vision</code><br><br>
+
+<a href="https://github.com/Jaypsmall/DaltonicAssist">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🌡️ CpuTemp
+
+<b>Android · Root · Performance</b><br>
+CPU governor control, thermal monitoring and performance profiles.<br><br>
+
+<code>Kotlin</code> <code>Magisk</code> <code>KernelSU</code><br><br>
+
+<a href="https://github.com/Jaypsmall/CpuTemp">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### ⚛️ 3Dscience
+
+<b>Android · Science · 3D</b><br>
+Experimental scientific visualization, molecular and 3D exploration tools.<br><br>
+
+<code>Kotlin</code> <code>3D</code> <code>Science</code><br><br>
+
+<a href="https://github.com/Jaypsmall/3Dscience">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+### 🔊 Resonantia
+
+<b>Android · Audio · AI</b><br>
+Experimental audio, voice and sound processing tools for Android.<br><br>
+
+<code>Kotlin</code> <code>Audio</code> <code>AI</code> <code>Voice</code><br><br>
+
+<a href="https://github.com/Jaypsmall/Resonantia">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🎯 Sniper
+
+<b>Android · Automation · Precision</b><br>
+Experimental precision targeting and programmable interaction tools.<br><br>
+
+<code>Kotlin</code> <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
+
+<a href="https://github.com/Jaypsmall/Sniper">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🎙️ ProVoiceChanger
+
+<b>Android · Voice · Audio</b><br>
+Voice transformation and audio processing tools for Android.<br><br>
+
+<code>Kotlin</code> <code>Voice</code> <code>Audio</code> <code>TTS</code><br><br>
+
+<a href="https://github.com/Jaypsmall/ProVoiceChanger">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
 </table>
 
 ---
