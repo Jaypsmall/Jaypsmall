@@ -129,6 +129,14 @@ I build tools that interact directly with Android and Linux systems, exploring e
 | :--- |
 | **Android · Pentesting · Fuzzing**<br>Security testing and fuzzing utilities for Android environments.<br><br>`Kotlin` `Security` `Fuzzing` `Root`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/HexRootFuzz) |
 
+| **📡 DemoniWifi** |
+| :--- |
+| **Android · Network · WiFi**<br>WiFi network analysis and wireless network utilities for Android.<br><br>`Kotlin` `WiFi` `Network` `Security`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/DemoniWifi) |
+
+| **🎙️ ProVoiceChanger** |
+| :--- |
+| **Android · Voice · Audio**<br>Voice transformation and audio processing tools for Android.<br><br>`Kotlin` `Voice` `Audio` `TTS`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/ProVoiceChanger) |
+
 <td valign="top" width="50%" align="center">
  
 | **🎨 HexColor** |
@@ -146,6 +154,14 @@ I build tools that interact directly with Android and Linux systems, exploring e
 | **⚛️ 3Dscience** |
 | :--- |
 | **Android · Science · 3D**<br>Experimental scientific visualization molecula and 3D exploration tools.<br><br>`Kotlin` `3D` `Science`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/3Dscience) |
+
+| **🔊 Resonantia** |
+| :--- |
+| **Android · Audio · AI**<br>Experimental audio, voice and sound processing tools for Android.<br><br>`Kotlin` `Audio` `AI` `Voice`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/Resonantia) |
+
+| **🎯 Sniper** |
+| :--- |
+| **Android · Automation · Precision**<br>Experimental precision targeting and programmable interaction tools.<br><br>`Kotlin` `Automation` `Overlay` `Touch`<br><br>[![](https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaypsmall/Sniper) |
 
 </td>
 </table>
