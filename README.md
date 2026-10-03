@@ -400,7 +400,7 @@ Voice transformation and audio processing tools for Android.<br><br>
 <code>Kotlin</code> <code>Voice</code> <code>Audio</code> <code>TTS</code><br><br>
 
 <a href="https://github.com/Jaypsmall/ProVoiceChanger">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=6840B8">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-8860C8?style=flat&logo=github&logoColor=030B12">
 </a>
 
 </td>
