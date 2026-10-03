@@ -223,7 +223,7 @@ Voice commands, macros and floating automation controls.<br><br>
 <code>Kotlin</code> <code>Accessibility</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniTalk">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=flag&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
@@ -238,7 +238,7 @@ Gesture commands, recognition and programmable automation.<br><br>
 <code>Kotlin</code> <code>Gestures</code> <code>Macros</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniDraw">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=flag&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
@@ -253,7 +253,7 @@ Real-time color detection and visual analysis using the camera.<br><br>
 <code>Kotlin</code> <code>Camera</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexColor">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=flag&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
@@ -272,7 +272,7 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 <code>Kotlin</code> <code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexRootScan">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=flag&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
@@ -287,7 +287,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 <code>Kotlin</code> <code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=flag&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
@@ -302,7 +302,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 <code>Kotlin</code> <code>WiFi</code> <code>Network</code> <code>Security</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniWifi">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=flag&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
@@ -321,7 +321,7 @@ Accessibility-oriented visual assistance color perception tools.<br><br>
 <code>Kotlin</code> <code>Accessibility</code> <code>Vision</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DaltonicAssist">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=flag&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
@@ -336,7 +336,7 @@ CPU governor control, thermal monitoring and performance profiles.<br><br>
 <code>Kotlin</code> <code>Magisk</code> <code>KernelSU</code><br><br>
 
 <a href="https://github.com/Jaypsmall/CpuTemp">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=flag&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
@@ -351,7 +351,7 @@ Experimental scientific visualization, molecular and 3D exploration tools.<br><b
 <code>Kotlin</code> <code>3D</code> <code>Science</code><br><br>
 
 <a href="https://github.com/Jaypsmall/3Dscience">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=flag&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
@@ -370,7 +370,7 @@ Experimental audio, voice and sound processing tools for Android.<br><br>
 <code>Kotlin</code> <code>Audio</code> <code>AI</code> <code>Voice</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Resonantia">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=flag&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
@@ -385,7 +385,7 @@ Experimental precision targeting and programmable interaction tools.<br><br>
 <code>Kotlin</code> <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Sniper">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6840B8?style=flag&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
