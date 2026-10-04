@@ -41,7 +41,7 @@
 <tr>
 
 <td align="center"
-    style="border:1px solid #6840B8; background:#030B12; padding:5px;">
+    style="border:1px solid:#6840B8; background:#030B12; padding:5px;">
 <a href="https://github.com/Jaypsmall/CpuTemp">
 <img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2"
      width="82">
@@ -543,19 +543,19 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=93BFD6&text_color=FFFFFF&icon_color=6840B8&border_color=6840B8&hide_border=false"
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=93BFD6&text_color=E1E3E2&icon_color=6840B8&border_color=6840B8&hide_border=false"
 width="100%"
 alt="GitHub Statistics">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=93BFD6&text_color=FFFFFF&icon_color=8860C8&border_color=6840B8&layout=compact&hide_border=false"
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=93BFD6&text_color=E1E3E2&icon_color=8860C8&border_color=6840B8&layout=compact&hide_border=false"
 width="100%"
 alt="Top Languages">
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=6840B8&stroke=6840B8&ring=D93831&fire=FF8B3D&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=93BFD6&hide_border=false"
+<img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=6840B8&stroke=6840B8&ring=D93831&fire=FF8B3D&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=E1E3E2&sideNums=E1E3E2&dates=93BFD6&hide_border=false"
 width="100%"
 alt="GitHub Contribution Streak">
 </p>
