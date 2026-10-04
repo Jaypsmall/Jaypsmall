@@ -543,7 +543,7 @@ https://github.com/Jaypsmall/theory-of-asymmetric-flow
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=8860C8&text_color=FFFFFF&icon_color=8860C8&border_color=6840B8&hide_border=false"
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=8860C8&text_color=FFFFFF&icon_color=yellow&border_color=6840B8&hide_border=false"
 width="100%"
 alt="GitHub Statistics">
 </p>
