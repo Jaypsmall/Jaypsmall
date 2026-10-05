@@ -569,7 +569,7 @@ alt="GitHub Contribution Streak">
 [![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flag&logo=github&logoColor=6840B8&labelColor=030B12)](https://github.com/Jaypsmall)
 [![Email](https://img.shields.io/badge/EMAIL-030B12?style=flag&logo=gmail&logoColor=6840B8&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS&color=6840B8&labelColor=030B12)
+![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS&color=FF8B3D&labelColor=030B12)
 
 ### ⭐ Open Source Android Developer
 
