@@ -321,7 +321,7 @@ Accessibility-oriented visual assistance color perception tools.<br><br>
 <code>Kotlin</code> <code>Accessibility</code> <code>Vision</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DaltonicAssist">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=green">
 </a>
 
 </td>
@@ -351,7 +351,7 @@ Experimental scientific visualization, molecular and 3D exploration tools.<br><b
 <code>Kotlin</code> <code>3D</code> <code>Science</code><br><br>
 
 <a href="https://github.com/Jaypsmall/3Dscience">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
@@ -400,7 +400,7 @@ Voice transformation and audio processing tools for Android.<br><br>
 <code>Kotlin</code> <code>Voice</code> <code>Audio</code> <code>TTS</code><br><br>
 
 <a href="https://github.com/Jaypsmall/ProVoiceChanger">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=red">
 </a>
 
 </td>
