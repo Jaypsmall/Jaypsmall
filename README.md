@@ -336,7 +336,7 @@ CPU governor control, thermal monitoring and performance profiles.<br><br>
 <code>Kotlin</code> <code>Magisk</code> <code>KernelSU</code><br><br>
 
 <a href="https://github.com/Jaypsmall/CpuTemp">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=38B8D8">
 </a>
 
 </td>
@@ -385,7 +385,7 @@ Experimental precision targeting and programmable interaction tools.<br><br>
 <code>Kotlin</code> <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Sniper">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=yellow">
 </a>
 
 </td>
