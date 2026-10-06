@@ -362,7 +362,7 @@ Experimental scientific visualization, molecular and 3D exploration tools.<br><b
 
 <td width="30%" valign="top" align="center">
 
-### 🔊 Resonantia
+### 🌌 Resonantia
 
 <b>Android · Audio · AI</b><br>
 Experimental audio, voice and sound processing tools for Android.<br><br>
@@ -370,7 +370,7 @@ Experimental audio, voice and sound processing tools for Android.<br><br>
 <code>Kotlin</code> <code>Audio</code> <code>AI</code> <code>Voice</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Resonantia">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
 </a>
 
 </td>
