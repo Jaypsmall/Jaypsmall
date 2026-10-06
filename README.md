@@ -253,7 +253,7 @@ Real-time color detection and visual analysis using the camera.<br><br>
 <code>Kotlin</code> <code>Camera</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexColor">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=yellow">
 </a>
 
 </td>
@@ -272,7 +272,7 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 <code>Kotlin</code> <code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexRootScan">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=3868D8">
 </a>
 
 </td>
@@ -287,7 +287,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 <code>Kotlin</code> <code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=3868D8">
 </a>
 
 </td>
