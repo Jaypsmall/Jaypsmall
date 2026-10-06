@@ -555,9 +555,7 @@ alt="Top Languages">
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=FF8B3D&stroke=6840B8&ring=D93831&fire=FF8B3D&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=E1E3E2&sideNums=E1E3E2&dates=93BFD6&hide_border=false"
-width="100%"
-alt="GitHub Contribution Streak">
+<img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=FF8B3D&stroke=6840B8&ring=D93831&fire=FF8B3D&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=E1E3E2&sideNums=E1E3E2&dates=93BFD6&hide_border=false" width="100%" alt="GitHub Contribution Streak">
 </p>
 
 </div>
@@ -566,10 +564,10 @@ alt="GitHub Contribution Streak">
   
 ### 📡 CONNECT & SYSTEM INFO
 
-[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flag&logo=github&logoColor=6840B8&labelColor=030B12)](https://github.com/Jaypsmall)
-[![Email](https://img.shields.io/badge/EMAIL-030B12?style=flag&logo=gmail&logoColor=6840B8&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flag&logo=github&logoColor=FF8B3D&labelColor=030B12)](https://github.com/Jaypsmall)
+[![Email](https://img.shields.io/badge/EMAIL-030B12?style=flag&logo=gmail&logoColor=FF8B3D&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS&color=FF8B3D&labelColor=030B12)] 
+![Profile Views](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS&color=FF8B3D&labelColor=030B12
 
 ### ⭐ Open Source Android Developer
 
