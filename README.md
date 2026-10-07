@@ -370,7 +370,7 @@ Experimental audio, voice and sound processing tools for Android.<br><br>
 <code>Kotlin</code> <code>Audio</code> <code>AI</code> <code>Voice</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Resonantia">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=6840B8">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=38B8D8">
 </a>
 
 </td>
