@@ -149,7 +149,7 @@
 
 <td align="center"
     style="border:1px solid #6840B8; background:#030B12; padding:5px;">
-<a href="https://github.com/Jaypsmall/Jaypsmall">
+<a href="https://github.com/Jaypsmall/CyberVarilla">
 <img src="https://github.com/user-attachments/assets/4cc7e435-f27e-4a75-b926-af307f279453"
      width="82">
 </a>
