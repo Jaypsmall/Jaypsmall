@@ -406,6 +406,56 @@ Voice transformation and audio processing tools for Android.<br><br>
 </td>
 
 </tr>
+
+<tr>
+
+<td width="30%" valign="top" align="center">
+
+### 👁️ DiMeTu
+
+<b>Android · Automation · WhatsApp</b><br>
+Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
+
+<code>Kotlin</code> <code>Automation</code> <code>WhatsApp</code><br><br>
+
+<a href="https://github.com/Jaypsmall/DimeTu">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=green">
+</a>
+
+</td>
+
+<td width="30%" valign="top" align="center">
+
+### 🧾 CyberVarilla
+
+<b>Android · Automation · Accessibility</b><br>
+Apunta notas de tus cuentas de forma sencilla.<br><br>
+
+<code>Kotlin</code> <code>VoiceNotes</code> <code>Overlay</code><br><br>
+
+<a href="https://github.com/Jaypsmall/CyberVarilla">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=FF8B3D">
+</a>
+
+</td>
+
+<td width="30%" valign="top" align="center">
+
+### 🎨 HexCollage
+
+<b>Android · Collage · Color Science</b><br>
+Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
+
+<code>Kotlin</code> <code>Collage</code> <code>Color</code><br><br>
+
+<a href="https://github.com/Jaypsmall/HexCollage">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flag&logo=github&logoColor=yellow">
+</a>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
