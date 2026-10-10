@@ -141,7 +141,7 @@
 
 <td align="center"
     style="border:1px solid #6840B8; background:#030B12; padding:5px;">
-<a href="https://github.com/Jaypsmall/HexCollagePro">
+<a href="https://github.com/Jaypsmall/HexCollage">
 <img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24"
      width="82">
 </a>
