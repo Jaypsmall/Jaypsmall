@@ -619,7 +619,7 @@ alt="Top Languages">
 [![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=FF8B3D&labelColor=030B12)](https://github.com/Jaypsmall)
 [![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=FF8B3D&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
 
-![ProfileViews](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS&color=8860C8&labelColor=030B12) 
+![ProfileViews](https://komarev.com/ghpvc/?username=Jaypsmall&style=flat&label=PROFILE+VIEWS&color=8860C8&labelColor=red) 
 
 ### ⭐ Open Source Android Developer
 
