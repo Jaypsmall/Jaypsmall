@@ -426,7 +426,7 @@ Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 🧾 CyberVarilla
+### 🛴 CyberVarilla
 
 <b>Android · Automation · Accessibility</b><br>
 Apunta notas de tus cuentas de forma sencilla.<br><br>
@@ -468,7 +468,7 @@ I'm an **Android Developer** focused on:
 - 🛡️ **Cybersecurity & Pentesting**
 - 🤖 **Automation & Accessibility**
 - ⚙️ **System Performance & Optimization**
-- 🧪 **Experimental Software & Research**
+- 🎓 **Experimental Software & Research**
 
 I build tools that interact directly with Android and Linux systems, exploring everything from CPU governors and thermal control to automation, audio processing, security research and experimental algorithms.
 
@@ -476,7 +476,7 @@ I build tools that interact directly with Android and Linux systems, exploring e
 
 ---
 
-# 🧪 More Experiments
+# 🚀 More Experiments
 
 <details>
 <summary><b>🔐 Cybersecurity</b></summary>
@@ -545,7 +545,7 @@ First computational implementation developed to experimentally study the princip
 - 🔄 Dynamic variable redistribution
 - 📈 Geometric progression modelling
 - 🎲 Monte Carlo experimentation
-- 🧮 Computational analysis
+- 🌀 Computational analysis
 
 **Stack**
 
@@ -574,7 +574,7 @@ Repository:
 
 ---
 
-# 🧪 System & Metric
+# 🛸 System & Metric
 
 <div align="center">
 
