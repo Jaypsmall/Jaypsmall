@@ -595,7 +595,7 @@ Repository:
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=93BFD6&text_color=E1E3E2&icon_color=6840B8&border_color=8860C8&hide_border=false"
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=93BFD6&text_color=E1E1E1&icon_color=6840B8&border_color=8860C8&hide_border=false"
 width="100%"
 alt="GitHub Statistics">
 </p>
