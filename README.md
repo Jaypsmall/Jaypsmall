@@ -601,7 +601,7 @@ alt="GitHub Statistics">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=93BFD6&text_color=E1E3E2&icon_color=8860C8&border_color=8860C8&layout=compact&hide_border=false"
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=93BFD6&text_color=E1E3E2&icon_color=8860C8&border_color=D93831&layout=compact&hide_border=false"
 width="100%"
 alt="Top Languages">
 </p>
