@@ -581,15 +581,21 @@ Repository:
 ### 👾 CONTRIBUTION_GRID
 
 <table width="100%">
-<tr>
-<td align="center" style="background:#030B12; border:1px solid #6840B8; padding:4px;">
 
-<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg"
-     width="100%"
-     alt="Pacman Contribution Graph">
+<tr>
+
+<td align="center" style="background:#030B12; border:2px solid #6840B8; padding:2px;">
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" 
+width="100%" 
+alt="Pacman Contribution Graph">
+</p>
 
 </td>
+
 </tr>
+
 </table>
 
 <p align="center">
