@@ -253,7 +253,7 @@ Real-time color detection and visual analysis using the camera.<br><br>
 <code>Kotlin</code> <code>Camera</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexColor">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=yellow">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
 </a>
 
 </td>
@@ -385,7 +385,7 @@ Experimental precision targeting and programmable interaction tools.<br><br>
 <code>Kotlin</code> <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Sniper">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=yellow">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
 </a>
 
 </td>
@@ -449,7 +449,7 @@ Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 <code>Kotlin</code> <code>Collage</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexCollage">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=yellow">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
 </a>
 
 </td>
@@ -554,7 +554,7 @@ First computational implementation developed to experimentally study the princip
 Repository:
 
 <a href="https://github.com/Jaypsmall/theory-of-asymmetric-flow">
-  <img src="https://img.shields.io/badge/THEORY_OF_ASYMMETRIC_FLOW-181717?style=flat&logo=github&logoColor=yellow" alt="view repository">
+  <img src="https://img.shields.io/badge/THEORY_OF_ASYMMETRIC_FLOW-181717?style=flat&logo=github&logoColor=FFD600" alt="view repository">
 </a>
 
 ---
@@ -620,10 +620,10 @@ alt="Top Languages">
   
 ### 📡 CONNECT & SYSTEM INFO
 
-[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=D93831&labelColor=030B12)](https://github.com/Jaypsmall)
-[![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=D93831&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=FFD600&labelColor=030B12)](https://github.com/Jaypsmall)
+[![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=FFD600&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
 
-![ProfileViews](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS?&color=FFD600&labelColor=FF6000)
+![ProfileViews](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS?&color=D93831&labelColor=FF6000)
 
 ---
 
