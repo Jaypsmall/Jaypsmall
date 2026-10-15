@@ -631,7 +631,7 @@ alt="Top Languages">
 
 **"Building Android tools that push the limits of the platform."**
 
-Made with 💜 for the Android & Cybersecurity community.
+Made with ❤️ for the Android & Cybersecurity community.
 
 </div>
 
