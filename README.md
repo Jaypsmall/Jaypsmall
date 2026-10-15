@@ -629,9 +629,9 @@ alt="Top Languages">
 
 ### ⭐ Desarrollador de Android de código abierto
 
-**"Creando herramientas para Android que superan los límites de la plataforma."**
+***"Creando herramientas para Android que superan los límites de la plataforma."***
 
-Hecho con ❤️ para la comunidad de Android y ciberseguridad.
+*Hecho con 💛 para la comunidad de Android y ciberseguridad.*
 
 </div>
 
