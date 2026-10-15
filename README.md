@@ -627,11 +627,11 @@ alt="Top Languages">
 
 ---
 
-### ⭐ Open Source Android Developer
+### ⭐ Desarrollador de Android de código abierto
 
-**"Building Android tools that push the limits of the platform."**
+**"Creando herramientas para Android que superan los límites de la plataforma."**
 
-Made with ❤️ for the Android & Cybersecurity community.
+Hecho con ❤️ para la comunidad de Android y ciberseguridad.
 
 </div>
 
