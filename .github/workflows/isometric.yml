@@ -1,0 +1,29 @@
+name: GitHub Isometric Contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta todos los días a medianoche
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate isometric contribution grid
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Isometric Contribution Grid
+        uses: yusukebe/github-isometric-contrib@main
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          DEST_IMAGE: dist/github-isometric.png
+
+      - name: Push Image
+        uses: github-actions-x/commit@v29
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Update isometric contribution graph"
+          files: dist/github-isometric.png
+          org_repo: ${{ github.repository }}
+          branch: main
