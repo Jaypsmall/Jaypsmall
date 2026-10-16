@@ -157,7 +157,7 @@
 
 <td align="center"
     style="border:1px solid #6840B8; background:#030B12; padding:5px;">
-<a href="https://github.com/Jaypsmall/DaltonicAssist">
+<a href="https://github.com/Jaypsmall/Daltonic-Assist-Pro">
 <img src="https://github.com/user-attachments/assets/250cd394-dc8a-4822-a81d-de03199ba262"
      width="82">
 </a>
@@ -320,7 +320,7 @@ Accessibility-oriented visual assistance color perception tools.<br><br>
 
 <code>Kotlin</code> <code>Accessibility</code> <code>Vision</code><br><br>
 
-<a href="https://github.com/Jaypsmall/DaltonicAssist">
+<a href="https://github.com/Jaypsmall/Daltonic-Assist-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=green">
 </a>
 
