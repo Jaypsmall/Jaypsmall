@@ -1,0 +1,36 @@
+name: Update Isometric Contribution Art
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta cada día a medianoche
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Generate Isometric Contributions SVG
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          GH_README_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Descarga el script generador o créalo directamente
+          curl -O https://raw.githubusercontent.com/colincode0/github-readme/main/generate_contribs.py
+          mkdir -p output
+          python3 generate_contribs.py --out ./output
+
+      - name: Commit and push generated SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update 3D isometric contribution graph [skip ci]"
+          file_pattern: output/*.svg
