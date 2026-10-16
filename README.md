@@ -592,6 +592,8 @@ width="100%"
 alt="Pacman Contribution Graph">
 </p>
 
+![Gráfico 3D Isométrico](https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/main/output/contribs-dark.svg)
+
 </td>
 
 </tr>
