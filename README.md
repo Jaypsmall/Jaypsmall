@@ -592,14 +592,6 @@ width="100%"
 alt="Pacman Contribution Graph">
 </p>
 
-![Gráfico 3D Isométrico](https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/main/output/contribs-dark.svg)
-
-</td>
-
-</tr>
-
-</table>
-
 <p align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=FFD600&text_color=93BFD6&icon_color=6840B8&border_color=8860C8&ring=D93831&hide_border=false"
 width="100%"
@@ -615,6 +607,18 @@ alt="Top Languages">
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=8860C8&stroke=6840B8&ring=D93831&fire=FF8B3D&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=93BFD6&sideNums=93BFD6&dates=FFD600&hide_border=false" width="100%" alt="GitHub Contribution Streak">
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/main/output/contribs-dark.svg" 
+width="100%" 
+alt="GitHub Contribution 3DStreak">
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
