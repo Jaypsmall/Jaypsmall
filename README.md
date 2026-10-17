@@ -211,6 +211,7 @@
 > A collection of Android, cybersecurity, automation and experimental projects.
 
 <table width="100%">
+
 <tr>
 
 <td width="30%" valign="top" align="center">
@@ -245,6 +246,25 @@ Gesture commands, recognition and programmable automation.<br><br>
 
 <td width="30%" valign="top" align="center">
 
+### 📡 DemoniWifi
+
+<b>Android · Network · WiFi</b><br>
+WiFi network analysis and wireless network utilities for Android.<br><br>
+
+<code>Kotlin</code> <code>WiFi</code> <code>Network</code> <code>Security</code><br><br>
+
+<a href="https://github.com/Jaypsmall/DemoniWifi">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FF8B3D">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="30%" valign="top" align="center">
+
 ### 🎨 HexColor
 
 <b>Android · Camera · Color Science</b><br>
@@ -253,6 +273,36 @@ Real-time color detection and visual analysis using the camera.<br><br>
 <code>Kotlin</code> <code>Camera</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexColor">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
+</a>
+
+</td>
+
+<td width="30%" valign="top" align="center">
+
+### 🎨 HexCollage
+
+<b>Android · Collage · Color Science</b><br>
+Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
+
+<code>Kotlin</code> <code>Collage</code> <code>Color</code><br><br>
+
+<a href="https://github.com/Jaypsmall/HexCollage">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
+</a>
+
+</td>
+
+<td width="30%" valign="top" align="center">
+
+### 🎯 Sniper
+
+<b>Android · Automation · Precision</b><br>
+Experimental precision targeting and programmable interaction tools.<br><br>
+
+<code>Kotlin</code> <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
+
+<a href="https://github.com/Jaypsmall/Sniper">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
 </a>
 
@@ -294,15 +344,15 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 📡 DemoniWifi
+### 🌡️ CpuTemp
 
-<b>Android · Network · WiFi</b><br>
-WiFi network analysis and wireless network utilities for Android.<br><br>
+<b>Android · Root · Performance</b><br>
+CPU governor control, thermal monitoring and performance profiles.<br><br>
 
-<code>Kotlin</code> <code>WiFi</code> <code>Network</code> <code>Security</code><br><br>
+<code>Kotlin</code> <code>Magisk</code> <code>KernelSU</code><br><br>
 
-<a href="https://github.com/Jaypsmall/DemoniWifi">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FF8B3D">
+<a href="https://github.com/Jaypsmall/CpuTemp">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=38B8D8">
 </a>
 
 </td>
@@ -328,14 +378,14 @@ Accessibility-oriented visual assistance color perception tools.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 🌡️ CpuTemp
+### 🌌 Resonantia
 
-<b>Android · Root · Performance</b><br>
-CPU governor control, thermal monitoring and performance profiles.<br><br>
+<b>Android · Bienestar · Resonantia</b><br>
+Busca tu frecuencia y alcanza tus objetivos.<br><br>
 
-<code>Kotlin</code> <code>Magisk</code> <code>KernelSU</code><br><br>
+<code>Kotlin</code> <code>Bienestar</code> <code>Salud</code><br><br>
 
-<a href="https://github.com/Jaypsmall/CpuTemp">
+<a href="https://github.com/Jaypsmall/Resonantia">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=38B8D8">
 </a>
 
@@ -362,52 +412,18 @@ Experimental scientific visualization, molecular and 3D exploration tools.<br><b
 
 <td width="30%" valign="top" align="center">
 
-### 🌌 Resonantia
+### 🛴 CyberVarilla
 
-<b>Android · Bienestar · Resonantia</b><br>
-Busca tu frecuencia y alcanza tus objetivos.<br><br>
+<b>Android · Automation · Accessibility</b><br>
+Apunta notas de tus cuentas de forma sencilla.<br><br>
 
-<code>Kotlin</code> <code>Bienestar</code> <code>Salud</code><br><br>
+<code>Kotlin</code> <code>VoiceNotes</code> <code>Overlay</code><br><br>
 
-<a href="https://github.com/Jaypsmall/Resonantia">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=38B8D8">
+<a href="https://github.com/Jaypsmall/CyberVarilla">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FF8B3D">
 </a>
 
 </td>
-
-<td width="30%" valign="top" align="center">
-
-### 🎯 Sniper
-
-<b>Android · Automation · Precision</b><br>
-Experimental precision targeting and programmable interaction tools.<br><br>
-
-<code>Kotlin</code> <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
-
-<a href="https://github.com/Jaypsmall/Sniper">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
-</a>
-
-</td>
-
-<td width="30%" valign="top" align="center">
-
-### 🎙️ ProVoiceChanger
-
-<b>Android · Voice · Audio</b><br>
-Voice transformation and audio processing tools for Android.<br><br>
-
-<code>Kotlin</code> <code>Voice</code> <code>Audio</code> <code>TTS</code><br><br>
-
-<a href="https://github.com/Jaypsmall/ProVoiceChanger">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=red">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
 
 <td width="30%" valign="top" align="center">
 
@@ -426,30 +442,15 @@ Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 🛴 CyberVarilla
+### 🎙️ ProVoiceChanger
 
-<b>Android · Automation · Accessibility</b><br>
-Apunta notas de tus cuentas de forma sencilla.<br><br>
+<b>Android · Voice · Audio</b><br>
+Voice transformation and audio processing tools for Android.<br><br>
 
-<code>Kotlin</code> <code>VoiceNotes</code> <code>Overlay</code><br><br>
+<code>Kotlin</code> <code>Voice</code> <code>Audio</code> <code>TTS</code><br><br>
 
-<a href="https://github.com/Jaypsmall/CyberVarilla">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FF8B3D">
-</a>
-
-</td>
-
-<td width="30%" valign="top" align="center">
-
-### 🎨 HexCollage
-
-<b>Android · Collage · Color Science</b><br>
-Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
-
-<code>Kotlin</code> <code>Collage</code> <code>Color</code><br><br>
-
-<a href="https://github.com/Jaypsmall/HexCollage">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
+<a href="https://github.com/Jaypsmall/ProVoiceChanger">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=red">
 </a>
 
 </td>
