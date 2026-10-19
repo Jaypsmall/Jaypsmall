@@ -268,7 +268,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 ### 🎨 HexColor
 
 <b>Android · Camera · Color Science</b><br>
-Real-time color detection and visual analysis using the camera.<br><br>
+Detección de color en tiempo real y análisis visual mediante la cámara.<br><br>
 
 <code>Kotlin</code> <code>Camera</code> <code>Color</code><br><br>
 
@@ -298,7 +298,7 @@ Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 ### 🎯 Sniper
 
 <b>Android · Automation · Precision</b><br>
-Experimental precision targeting and programmable interaction tools.<br><br>
+Herramientas experimentales de puntería de precisión e interacción programable.<br><br>
 
 <code>Kotlin</code> <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
 
