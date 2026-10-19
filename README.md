@@ -271,7 +271,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 🎨 HexColor
+<h2>🎨 HexColor</h2>
 
 <b>Android · Camera · Color Science</b><br>
 Detección de color en tiempo real y análisis visual mediante la cámara.<br><br>
@@ -286,7 +286,7 @@ Detección de color en tiempo real y análisis visual mediante la cámara.<br><b
 
 <td width="30%" valign="top" align="center">
 
-### 🎨 HexCollage
+<h2>🎨 HexCollage</h2>
 
 <b>Android · Collage · Color Science</b><br>
 Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
@@ -301,7 +301,7 @@ Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 🎯 Sniper
+<h2>🎯 Sniper</h2>
 
 <b>Android · Automation · Precision</b><br>
 Herramientas experimentales de puntería de precisión e interacción programable.<br><br>
@@ -320,7 +320,7 @@ Herramientas experimentales de puntería de precisión e interacción programabl
 
 <td width="30%" valign="top" align="center">
 
-### 🔓 HexRootScan
+<h2>🔓 HexRootScan</h2>
 
 <b>Android · Pentesting · Network</b><br>
 Network reconnaissance and security toolkit for Android mobiles.<br><br>
@@ -335,7 +335,7 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 🔧 HexRootFuzz
+<h2>🔧 HexRootFuzz</h2>
 
 <b>Android · Pentesting · Fuzzing</b><br>
 Security testing and fuzzing utilities for Android environments.<br><br>
@@ -350,7 +350,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 🌡️ CpuTemp
+<h2>🌡️ CpuTemp</h2>
 
 <b>Android · Root · Performance</b><br>
 CPU governor control, thermal monitoring and performance profiles.<br><br>
@@ -369,7 +369,7 @@ CPU governor control, thermal monitoring and performance profiles.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 👁️ DaltonicAssist
+<h2>👁️ DaltonicAssist</h2>
 
 <b>Android · Accessibility · Vision</b><br>
 Accessibility-oriented visual assistance color perception tools.<br><br>
