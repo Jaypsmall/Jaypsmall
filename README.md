@@ -21,7 +21,7 @@
 <!--                    APP SHOWCASE                        -->
 <!-- ====================================================== -->
 
-<table width="100%" align="center" cellspacing="10" cellpadding="0">
+<table width="100%" align="center" cellspacing="5" cellpadding="0">
 <tr>
 
 <!-- ====================================================== -->
@@ -36,7 +36,7 @@
 
 <br>
 
-<table align="center" cellspacing="6" cellpadding="0">
+<table align="center" cellspacing="4" cellpadding="0">
 
 <tr>
 
@@ -44,7 +44,7 @@
     style="border:2px solid:#6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/CpuTemp">
 <img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2"
-     width="82">
+     width="80">
 </a>
 </td>
 
@@ -52,7 +52,7 @@
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/DemoniWifi">
 <img src="https://github.com/user-attachments/assets/1a94e993-335b-4936-9f9b-bb73ad110eeb"
-     width="82">
+     width="80">
 </a>
 </td>
 
@@ -60,7 +60,7 @@
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/DemoniDraw">
 <img src="https://github.com/user-attachments/assets/9f968006-ca8a-4b38-a14c-6e0f83648873"
-     width="82">
+     width="80">
 </a>
 </td>
 
@@ -68,7 +68,7 @@
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/HexRootScan">
 <img src="https://github.com/user-attachments/assets/568500c5-b275-4a6f-b093-64393ac42241"
-     width="82">
+     width="80">
 </a>
 </td>
 
@@ -80,7 +80,7 @@
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
 <img src="https://github.com/user-attachments/assets/c94de779-39c7-42eb-8fd1-ba91a167a966"
-     width="82">
+     width="80">
 </a>
 </td>
 
@@ -88,7 +88,7 @@
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/Dimetu">
 <img src="https://github.com/user-attachments/assets/5e21897e-a29b-4009-a95e-535245b3765f"
-     width="82">
+     width="80">
 </a>
 </td>
 
@@ -96,7 +96,7 @@
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/DemoniTalk">
 <img src="https://github.com/user-attachments/assets/07ccac91-4721-437f-9f5f-ae2df7afe724"
-     width="82">
+     width="80">
 </a>
 </td>
 
@@ -104,7 +104,7 @@
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/ProVoiceChanger">
 <img src="https://github.com/user-attachments/assets/c61b7d28-b62e-4a05-9dc7-06ae67ff053a"
-     width="82">
+     width="80">
 </a>
 </td>
 
@@ -118,7 +118,7 @@
 <!--                    APP SHOWCASE                        -->
 <!-- ====================================================== -->
 
-<table width="100%" align="center" cellspacing="10" cellpadding="0">
+<table width="100%" align="center" cellspacing="5" cellpadding="0">
 <tr>
 
 <!-- ====================================================== -->
@@ -133,7 +133,7 @@
 
 <br>
 
-<table align="center" cellspacing="6" cellpadding="0">
+<table align="center" cellspacing="4" cellpadding="0">
 
 <tr>
 
@@ -291,7 +291,7 @@ Detección de color en tiempo real y análisis visual mediante la cámara.<br><b
 <b>Android · Collage · Color Science</b><br>
 Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 
-<code>Kotlin</code> <code>Collage</code> <code>Color</code><br><br>
+<code>Kotlin</code> <code>Flutter</code> <code>Collage</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexCollage">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
@@ -374,7 +374,7 @@ CPU governor control, thermal monitoring and performance profiles.<br><br>
 <b>Android · Accessibility · Vision</b><br>
 Accessibility-oriented visual assistance color perception tools.<br><br>
 
-<code>Kotlin</code> <code>Accessibility</code> <code>Vision</code><br><br>
+<code>Kotlin</code> <code>Flutter</code> <code>Accessibility</code> <code>Vision</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Daltonic-Assist-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=green">
@@ -640,7 +640,7 @@ alt="GitHub Contribution 3DStreak">
 
 ---
 
-### ⭐ Desarrollador de Android de código abierto
+### ⭐ Desarrollador de Android de código abierto ⭐
 
 ***"Creando herramientas para Android que superan los límites de la plataforma."***
 
