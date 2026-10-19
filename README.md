@@ -225,6 +225,7 @@
 <h2>😈 DemoniTalk</h2>
 
 <b>Android · Automation · Accessibility</b><br>
+
 Voice commands, macros and floating automation controls.<br><br>
 
 <code>Kotlin</code> <code>Accessibility</code> <code>Overlay</code><br><br>
@@ -240,6 +241,7 @@ Voice commands, macros and floating automation controls.<br><br>
 <h2>😈 DemoniDraw</h2>
 
 <b>Android · Automation · Accessibility</b><br>
+
 Gesture commands, recognition and programmable automation.<br><br>
 
 <code>Kotlin</code> <code>Gestures</code> <code>Macros</code> <code>Overlay</code><br><br>
@@ -255,6 +257,7 @@ Gesture commands, recognition and programmable automation.<br><br>
 <h2>📡 DemoniWifi</h2>
 
 <b>Android · Network · WiFi</b><br>
+
 WiFi network analysis and wireless network utilities for Android.<br><br>
 
 <code>Kotlin</code> <code>WiFi</code> <code>Network</code> <code>Security</code><br><br>
@@ -274,6 +277,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 <h2>🎨 HexColor</h2>
 
 <b>Android · Camera · Color Science</b><br>
+
 Detección de color en tiempo real y análisis visual mediante la cámara.<br><br>
 
 <code>Kotlin</code> <code>Flutter</code> <code>Camera</code> <code>Color</code><br><br>
@@ -289,6 +293,7 @@ Detección de color en tiempo real y análisis visual mediante la cámara.<br><b
 <h2>🎨 HexCollage</h2>
 
 <b>Android · Collage · Color Science</b><br>
+
 Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 
 <code>Kotlin</code> <code>Flutter</code> <code>Collage</code> <code>Color</code><br><br>
@@ -304,6 +309,7 @@ Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 <h2>🎯 Sniper</h2>
 
 <b>Android · Automation · Precision</b><br>
+
 Herramientas experimentales de puntería de precisión e interacción programable.<br><br>
 
 <code>Kotlin</code> <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
@@ -323,6 +329,7 @@ Herramientas experimentales de puntería de precisión e interacción programabl
 <h2>🔓 HexRootScan</h2>
 
 <b>Android · Pentesting · Network</b><br>
+
 Network reconnaissance and security toolkit for Android mobiles.<br><br>
 
 <code>Kotlin</code> <code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
@@ -338,6 +345,7 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 <h2>🔧 HexRootFuzz</h2>
 
 <b>Android · Pentesting · Fuzzing</b><br>
+
 Security testing and fuzzing utilities for Android environments.<br><br>
 
 <code>Kotlin</code> <code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
@@ -353,6 +361,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 <h2>🌡️ CpuTemp</h2>
 
 <b>Android · Root · Performance</b><br>
+
 CPU governor control, thermal monitoring and performance profiles.<br><br>
 
 <code>Kotlin</code> <code>Magisk</code> <code>KernelSU</code><br><br>
@@ -372,6 +381,7 @@ CPU governor control, thermal monitoring and performance profiles.<br><br>
 <h2>👁️ DaltonicAssist</h2>
 
 <b>Android · Accessibility · Vision</b><br>
+
 Accessibility-oriented visual assistance color perception tools.<br><br>
 
 <code>Kotlin</code> <code>Flutter</code> <code>Accessibility</code> <code>Vision</code><br><br>
@@ -384,9 +394,10 @@ Accessibility-oriented visual assistance color perception tools.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 🌌 Resonantia
+<h2>🌌 Resonantia</h2>
 
 <b>Android · Bienestar · Resonantia</b><br>
+
 Busca tu frecuencia y alcanza tus objetivos.<br><br>
 
 <code>Kotlin</code> <code>Bienestar</code> <code>Salud</code><br><br>
@@ -399,9 +410,10 @@ Busca tu frecuencia y alcanza tus objetivos.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### ⚛️ 3Dscience
+<h2>⚛️ 3Dscience</h2>
 
 <b>Android · Science · 3D</b><br>
+
 Experimental scientific visualization, molecular and 3D exploration tools.<br><br>
 
 <code>Kotlin</code> <code>3D</code> <code>Science</code><br><br>
@@ -418,9 +430,10 @@ Experimental scientific visualization, molecular and 3D exploration tools.<br><b
 
 <td width="30%" valign="top" align="center">
 
-### 🛴 CyberVarilla
+<h2>🛴 CyberVarilla</h2>
 
 <b>Android · Automation · Accessibility</b><br>
+
 Apunta notas de tus cuentas de forma sencilla.<br><br>
 
 <code>Kotlin</code> <code>VoiceNotes</code> <code>Overlay</code><br><br>
@@ -433,9 +446,10 @@ Apunta notas de tus cuentas de forma sencilla.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 👁️ DiMeTu
+<h2>👁️ DiMeTu</h2>
 
 <b>Android · Automation · WhatsApp</b><br>
+
 Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
 
 <code>Kotlin</code> <code>Automation</code> <code>WhatsApp</code><br><br>
@@ -448,9 +462,10 @@ Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 🎙️ ProVoiceChanger
+<h2>🎙️ ProVoiceChanger</h2>
 
 <b>Android · Voice · Audio</b><br>
+
 Voice transformation and audio processing tools for Android.<br><br>
 
 <code>Kotlin</code> <code>Voice</code> <code>Audio</code> <code>TTS</code><br><br>
