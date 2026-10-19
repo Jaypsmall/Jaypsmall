@@ -222,7 +222,7 @@
 
 <td width="30%" valign="top" align="center">
 
-### 😈 DemoniTalk
+<h2>😈 DemoniTalk</h2>
 
 <b>Android · Automation · Accessibility</b><br>
 Voice commands, macros and floating automation controls.<br><br>
@@ -237,7 +237,7 @@ Voice commands, macros and floating automation controls.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 😈 DemoniDraw
+<h2>😈 DemoniDraw</h2>
 
 <b>Android · Automation · Accessibility</b><br>
 Gesture commands, recognition and programmable automation.<br><br>
@@ -252,7 +252,7 @@ Gesture commands, recognition and programmable automation.<br><br>
 
 <td width="30%" valign="top" align="center">
 
-### 📡 DemoniWifi
+<h2>📡 DemoniWifi</h2>
 
 <b>Android · Network · WiFi</b><br>
 WiFi network analysis and wireless network utilities for Android.<br><br>
