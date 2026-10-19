@@ -220,7 +220,7 @@
 
 <tr>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>😈 DemoniTalk</h2>
 
@@ -236,7 +236,7 @@ Voice commands, macros and floating automation controls.<br><br>
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>😈 DemoniDraw</h2>
 
@@ -252,7 +252,7 @@ Gesture commands, recognition and programmable automation.<br><br>
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>📡 DemoniWifi</h2>
 
@@ -272,7 +272,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 
 <tr>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>🎨 HexColor</h2>
 
@@ -288,7 +288,7 @@ Detección de color en tiempo real y análisis visual mediante la cámara.<br><b
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>🎨 HexCollage</h2>
 
@@ -304,7 +304,7 @@ Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>🎯 Sniper</h2>
 
@@ -324,7 +324,7 @@ Herramientas experimentales de puntería de precisión e interacción programabl
 
 <tr>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>🔓 HexRootScan</h2>
 
@@ -340,7 +340,7 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>🔧 HexRootFuzz</h2>
 
@@ -356,7 +356,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>🌡️ CpuTemp</h2>
 
@@ -376,7 +376,7 @@ CPU governor control, thermal monitoring and performance profiles.<br><br>
 
 <tr>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>👁️ DaltonicAssist</h2>
 
@@ -392,7 +392,7 @@ Accessibility-oriented visual assistance color perception tools.<br><br>
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>🌌 Resonantia</h2>
 
@@ -408,7 +408,7 @@ Busca tu frecuencia y alcanza tus objetivos.<br><br>
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>⚛️ 3Dscience</h2>
 
@@ -428,7 +428,7 @@ Experimental scientific visualization, molecular and 3D exploration tools.<br><b
 
 <tr>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>🛴 CyberVarilla</h2>
 
@@ -444,7 +444,7 @@ Apunta notas de tus cuentas de forma sencilla.<br><br>
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>👁️ DiMeTu</h2>
 
@@ -460,7 +460,7 @@ Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
 
 </td>
 
-<td width="30%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 <h2>🎙️ ProVoiceChanger</h2>
 
