@@ -224,7 +224,7 @@ Voice commands, macros and floating automation controls.<br><br>
 <code>Kotlin</code> <code>Accessibility</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniTalk">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
 </a>
 
 </td>
@@ -239,7 +239,7 @@ Gesture commands, recognition and programmable automation.<br><br>
 <code>Kotlin</code> <code>Gestures</code> <code>Macros</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniDraw">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
 </a>
 
 </td>
@@ -254,7 +254,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 <code>Kotlin</code> <code>WiFi</code> <code>Network</code> <code>Security</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniWifi">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
 </a>
 
 </td>
@@ -322,7 +322,7 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 <code>Kotlin</code> <code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexRootScan">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=3868D8">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=3868D8">
 </a>
 
 </td>
@@ -337,7 +337,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 <code>Kotlin</code> <code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=3868D8">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=3868D8">
 </a>
 
 </td>
@@ -352,7 +352,7 @@ CPU governor control, thermal monitoring and performance profiles.<br><br>
 <code>Kotlin</code> <code>Magisk</code> <code>KernelSU</code><br><br>
 
 <a href="https://github.com/Jaypsmall/CpuTemp">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=38B8D8">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=38B8D8">
 </a>
 
 </td>
@@ -420,7 +420,7 @@ Apunta notas de tus cuentas de forma sencilla.<br><br>
 <code>Kotlin</code> <code>VoiceNotes</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/CyberVarilla">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FF8B3D">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
 </a>
 
 </td>
@@ -435,7 +435,7 @@ Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
 <code>Kotlin</code> <code>Automation</code> <code>WhatsApp</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DimeTu">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=green">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=green">
 </a>
 
 </td>
@@ -450,7 +450,7 @@ Voice transformation and audio processing tools for Android.<br><br>
 <code>Kotlin</code> <code>Voice</code> <code>Audio</code> <code>TTS</code><br><br>
 
 <a href="https://github.com/Jaypsmall/ProVoiceChanger">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=red">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=red">
 </a>
 
 </td>
