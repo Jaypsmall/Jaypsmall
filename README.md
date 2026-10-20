@@ -283,7 +283,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 
 <b>Android · Camera · Color Science</b><br>
 
-Detección de color en tiempo real y análisis visual mediante la cámara.<br><br>
+Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
 <code>Kotlin</code> <code>Flutter</code> <code>Camera</code> <code>Color</code><br><br>
 
