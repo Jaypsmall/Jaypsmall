@@ -1,11 +1,16 @@
 <div align="center">
 
+<td width="100%" valign="top" align="center">
+
 # 📱 Android Developer & 😈 Cybersecurity    
 
 **🎯 Root Automation | Pentest Tools | System Optimization**
 
 **Building custom security solutions for Android & Linux**
 <br>
+
+</td>
+
 </div>
 
 ---
