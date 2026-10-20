@@ -497,7 +497,7 @@ I'm an **Android Developer** focused on:
 - ⚙️ **System Performance & Optimization**
 - 🎓 **Experimental Software & Research**
 
-I build tools that interact directly with Android and Linux systems, exploring everything from CPU governors and thermal control to automation, audio processing, security research and experimental algorithms.
+Desarrollo herramientas que interactúan directamente con sistemas Android y Linux, explorando desde la gestión de la CPU y el control térmico hasta la automatización, el procesamiento de audio, la investigación en seguridad y los algoritmos experimentales.
 
 > **Build → Test → Break → Understand → Improve**
 
@@ -521,6 +521,7 @@ I build tools that interact directly with Android and Linux systems, exploring e
 
 - CpuTemp
 - HexColor
+- HexCollage
 - DaltonicAssist
 - 3Dscience
 - ProVoiceChanger
@@ -540,6 +541,7 @@ I build tools that interact directly with Android and Linux systems, exploring e
 <summary><b>🎲 Experimental</b></summary>
 
 - RuletaDemoniaca
+- Resonantia
 - Theory of Asymmetric Flow
 - Other experiments
 
@@ -563,7 +565,7 @@ The project explores how interacting variables evolve through asymmetric transit
 
 **Asymmetric Flow & Geometric Absorption Algorithm**
 
-First computational implementation developed to experimentally study the principles of the Theory of Asymmetric Flow.
+Primera implementación computacional desarrollada para estudiar experimentalmente los principios de la Teoría del Flujo Asimétrico. 
 
 **Features**
 
