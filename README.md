@@ -1,19 +1,31 @@
-<div align="center"><table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🛡_SECURITY%20LAB-0D1117?style=for-the-badge&labelColor=12345A" />📱 ANDROID ENGINEERING
+<div align="center">
+
+<table><tr><td align="center">
+
+<img src="https://img.shields.io/badge/🛡_SECURITY%20LAB-0D1117?style=for-the-badge&labelColor=12345A" />
+
+# 📱 ANDROID ENGINEERING
 
 <span style="color:#58A6FF">Security Research & Automation</span>
 
-Independent Developer · Android & Linux
+**Independent Developer · Android & Linux**
 
 Building custom security tools, root utilities and advanced automation solutions.
 
-<br><img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
-<img src="https://img.shields.io/badge/SECURITY-58A6FF?style=for-the-badge&logo=kalilinux&logoColor=black" /><br><img src="https://img.shields.io/badge/ROOT_AUTOMATION-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<br>
+
+<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
+<img src="https://img.shields.io/badge/SECURITY-58A6FF?style=for-the-badge&logo=kalilinux&logoColor=black" />
+
+<br>
+
+<img src="https://img.shields.io/badge/ROOT_AUTOMATION-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/PENTEST_TOOLS-BC8CFF?style=flat-square&logo=hackthebox&logoColor=black" />
-<img src="https://img.shields.io/badge/SYSTEM_TOOLS-58A6FF?style=flat-square&logo=github&logoColor=black" /></td>
-</tr>
-</table></div>
+<img src="https://img.shields.io/badge/SYSTEM_TOOLS-58A6FF?style=flat-square&logo=github&logoColor=black" />
+
+</td</tr></table>
+
+</div>
 
 ---
 
