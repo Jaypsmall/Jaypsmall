@@ -6,7 +6,7 @@
 
 # 📱 ANDROID ENGINEERING
 
-<span style="color:#58A6FF">
+<span style="color:#0D1117">
 Security Research & Automation
 </span>
 
