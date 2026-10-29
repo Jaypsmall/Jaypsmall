@@ -10,9 +10,9 @@
 Security Research & Automation
 </span>
 
-**Independent Developer · Android & Linux**
+## **Independent Developer · Android & Linux**
 
-Building custom security tools, root utilities and advanced automation solutions.
+### Building custom security tools, root utilities and advanced automation solutions.
 
 <br>
 
@@ -28,9 +28,9 @@ Building custom security tools, root utilities and advanced automation solutions
 
 <img src="https://img.shields.io/badge/SYSTEM_TOOLS-58A6FF?style=flat-square&logo=github&logoColor=black" />
 
-</td></tr>
+</td></tr></table>
 
-</table>
+</div>
 
 ---
 
