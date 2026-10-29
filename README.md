@@ -1,6 +1,14 @@
-<div align="center"><table>
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="600"><img src="https://img.shields.io/badge/🛡️-ANDROID%20SECURITY-15263B?style=for-the-badge&labelColor=15263B" />Android Engineering
+
+<td align="center" width="600">
+
+<img src="https://img.shields.io/badge/🛡️-ANDROID%20SECURITY-15263B?style=for-the-badge&labelColor=15263B" />
+>
+
+Android Engineering
 
 <span style="color:#58A6FF">Security Research & Automation</span>
 
@@ -8,11 +16,19 @@ Independent Developer · Android & Linux
 
 Building custom Android tools, security utilities and system automation solutions.
 
-<br><img src="https://img.shields.io/badge/ANDROID-DEVELOPMENT-172B3D?style=flat-square&logo=android&logoColor=3DDC84" />
-<img src="https://img.shields.io/badge/SECURITY-RESEARCH-172B3D?style=flat-square&logo=kalilinux&logoColor=58A6FF" /><img src="https://img.shields.io/badge/ROOT-AUTOMATION-172B3D?style=flat-square&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/SYSTEM-TOOLS-172B3D?style=flat-square&logo=github&logoColor=BC8CFF" /></td>
+<br>
+<img src="https://img.shields.io/badge/ANDROID-DEVELOPMENT-172B3D?style=flat-square&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/SECURITY-RESEARCH-172B3D?style=flat-square&logo=kalilinux&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/ROOT-AUTOMATION-172B3D?style=flat-square&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/SYSTEM-TOOLS-172B3D?style=flat-square&logo=github&logoColor=BC8CFF" />
+
+</td>
+
 </tr>
-</table></div>
+
+</table>
+
+</div>
 
 ---
 
