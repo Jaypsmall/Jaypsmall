@@ -1,12 +1,13 @@
 <div align="center">
 
 <table>
+
 <tr>
 
 <td align="center" width="600">
 
 <img src="https://img.shields.io/badge/🛡️-ANDROID%20SECURITY-15263B?style=for-the-badge&labelColor=15263B" />
->
+
 
 Android Engineering
 
