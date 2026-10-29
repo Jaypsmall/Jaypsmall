@@ -1,17 +1,18 @@
-<div align="center">
+<div align="center"><table>
+<tr>
+<td align="center" width="600"><img src="https://img.shields.io/badge/🛡️-ANDROID%20SECURITY-15263B?style=for-the-badge&labelColor=15263B" />Android Engineering
 
-<td width="100%" valign="top" align="center">
+<span style="color:#58A6FF">Security Research & Automation</span>
 
-# 📱 Android Developer & 😈 Cybersecurity    
+Independent Developer · Android & Linux
 
-**🎯 Root Automation | Pentest Tools | System Optimization**
+Building custom Android tools, security utilities and system automation solutions.
 
-**Building custom security solutions for Android & Linux**
-<br>
-
-</td>
-
-</div>
+<br><img src="https://img.shields.io/badge/ANDROID-DEVELOPMENT-172B3D?style=flat-square&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/SECURITY-RESEARCH-172B3D?style=flat-square&logo=kalilinux&logoColor=58A6FF" /><img src="https://img.shields.io/badge/ROOT-AUTOMATION-172B3D?style=flat-square&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/SYSTEM-TOOLS-172B3D?style=flat-square&logo=github&logoColor=BC8CFF" /></td>
+</tr>
+</table></div>
 
 ---
 
