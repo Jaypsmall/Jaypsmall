@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/IMG-20261030-WA0001.jpg" alt="Mi Stack" width="100%">
+  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
+</p>
+  
+---
+
 <div align="center">
 
 <table><tr><td align="center">
@@ -17,27 +24,17 @@ Security Research & Automation
 <br>
 
 <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
-
 <img src="https://img.shields.io/badge/SECURITY-58A6FF?style=for-the-badge&logo=kalilinux&logoColor=black" />
 
 <br>
 
 <img src="https://img.shields.io/badge/ROOT_AUTOMATION-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
 <img src="https://img.shields.io/badge/PENTEST_TOOLS-BC8CFF?style=flat-square&logo=hackthebox&logoColor=black" />
-
 <img src="https://img.shields.io/badge/SYSTEM_TOOLS-58A6FF?style=flat-square&logo=github&logoColor=black" />
 
 </td></tr></table>
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
-  <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/stack3azul.png" alt="Mi Stack" width="100%">
-</p>
 
 ---
 
