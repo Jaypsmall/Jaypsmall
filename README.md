@@ -2,8 +2,6 @@
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/IMG-20261030-WA0001.jpg" alt="Mi Stack" width="100%">
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
 </p>
-  
----
 
 <!-- ====================================================== -->
 <!--                    APP SHOWCASE                        -->
@@ -628,10 +626,6 @@ alt="GitHub Contribution 3DStreak">
 
 </td>
 
-</tr>
-
-</table>
-
 </div>
 
 <div align="center">
@@ -642,6 +636,10 @@ alt="GitHub Contribution 3DStreak">
 [![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=FFD600&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS&color=D93831&labelColor=FF6000)
+
+</tr>
+
+</table>
 
 ---
 
