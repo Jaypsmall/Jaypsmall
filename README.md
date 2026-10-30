@@ -626,8 +626,6 @@ alt="GitHub Contribution 3DStreak">
 
 </td>
 
-</div>
-
 <div align="center">
   
 ### 📡 CONNECT & SYSTEM INFO
@@ -640,6 +638,8 @@ alt="GitHub Contribution 3DStreak">
 </tr>
 
 </table>
+
+</div>
 
 ---
 
