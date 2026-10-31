@@ -1,10 +1,10 @@
 import json
 import os
 
-# CONFIGURACIÓN DE ESTILOS PERSONALIZADOS
-# Aquí puedes poner el color de borde y de fondo que te dé la gana (ej. amarillo: "#FFD700")
-BORDER_COLOR = "#FFD700"  # Cambia esto al color que quieras (ej: Amarillo)
-BG_COLOR = "#030B12"  # Color de fondo de la celda
+# Color del borde que quieras (por ejemplo, amarillo brillante)
+BORDER_COLOR = "#FFD600"
+BORDER_WIDTH = "2px"
+BORDER_STYLE = "solid"
 
 def generate_table(apps, cols=4):
     rows = []
@@ -12,10 +12,10 @@ def generate_table(apps, cols=4):
         chunk = apps[i:i + cols]
         cells = []
         for app in chunk:
-            # Usamos atributos HTML seguros que GitHub no descarta tan fácilmente
-            cells.append(f'''<td align="center" bgcolor="{BG_COLOR}" style="border: 2px solid {BORDER_COLOR}; background-color: {BG_COLOR}; padding: 2px;">
+            # Aplicamos el borde DIRECTAMENTE a la etiqueta <img> para que GitHub no lo ignore
+            cells.append(f'''<td align="center" style="padding: 4px;">
 <a href="{app['url']}">
-<img src="{app['img']}" width="80" alt="{app['name']}">
+<img src="{app['img']}" width="80" alt="{app['name']}" style="border: {BORDER_WIDTH} {BORDER_STYLE} {BORDER_COLOR}; background-color: #030B12; padding: 2px; border-radius: 6px;">
 </a>
 </td>''')
         while len(cells) < cols:
