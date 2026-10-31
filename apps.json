@@ -1,0 +1,21 @@
+{
+  "dark_tools": [
+    {"name": "CpuTemp", "url": "https://github.com/Jaypsmall/CpuTemp", "img": "https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2"},
+    {"name": "DemoniWifi", "url": "https://github.com/Jaypsmall/DemoniWifi", "img": "https://github.com/user-attachments/assets/1a94e993-335b-4936-9f9b-bb73ad110eeb"},
+    {"name": "DemoniDraw", "url": "https://github.com/Jaypsmall/DemoniDraw", "img": "https://github.com/user-attachments/assets/9f968006-ca8a-4b38-a14c-6e0f83648873"},
+    {"name": "HexRootScan", "url": "https://github.com/Jaypsmall/HexRootScan", "img": "https://github.com/user-attachments/assets/568500c5-b275-4a6f-b093-64393ac42241"},
+    {"name": "HexRootFuzz", "url": "https://github.com/Jaypsmall/HexRootFuzz", "img": "https://github.com/user-attachments/assets/c94de779-39c7-42eb-8fd1-ba91a167a966"},
+    {"name": "Dimetu", "url": "https://github.com/Jaypsmall/Dimetu", "img": "https://github.com/user-attachments/assets/5e21897e-a29b-4009-a95e-535245b3765f"},
+    {"name": "DemoniTalk", "url": "https://github.com/Jaypsmall/DemoniTalk", "img": "https://github.com/user-attachments/assets/07ccac91-4721-437f-9f5f-ae2df7afe724"},
+    {"name": "ProVoiceChanger", "url": "https://github.com/Jaypsmall/ProVoiceChanger", "img": "https://github.com/user-attachments/assets/c61b7d28-b62e-4a05-9dc7-06ae67ff053a"}
+  ],
+  "general_apps": [
+    {"name": "HexColor", "url": "https://github.com/Jaypsmall/HexColor", "img": "https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462"},
+    {"name": "HexCollage", "url": "https://github.com/Jaypsmall/HexCollage", "img": "https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24"},
+    {"name": "CyberVarilla", "url": "https://github.com/Jaypsmall/CyberVarilla", "img": "https://github.com/user-attachments/assets/4cc7e435-f27e-4a75-b926-af307f279453"},
+    {"name": "Daltonic-Assist-Pro", "url": "https://github.com/Jaypsmall/Daltonic-Assist-Pro", "img": "https://github.com/user-attachments/assets/250cd394-dc8a-4822-a81d-de03199ba262"},
+    {"name": "3Dscience", "url": "https://github.com/Jaypsmall/3Dscience", "img": "https://github.com/user-attachments/assets/a69b71ca-a59e-4f2c-a6a2-0061d5730e13"},
+    {"name": "Sniper", "url": "https://github.com/Jaypsmall/Sniper", "img": "https://github.com/user-attachments/assets/850398c4-8f5c-468f-9def-4ae00152a953"},
+    {"name": "Resonantia", "url": "https://github.com/Jaypsmall/Resonantia", "img": "https://github.com/user-attachments/assets/713df46d-e48d-431e-b4d5-3bce9cbd1583"}
+  ]
+}
