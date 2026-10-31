@@ -3,6 +3,9 @@
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
 </p>
 
+<!-- APP_SHOWCASE_START -->
+<!-- APP_SHOWCASE_END -->
+
 <!-- ====================================================== -->
 <!--                    APP SHOWCASE                        -->
 <!-- ====================================================== -->
