@@ -1,10 +1,8 @@
 import json
 import os
 
-# Color del borde que quieras (por ejemplo, amarillo brillante)
-BORDER_COLOR = "#FFD600"
-BORDER_WIDTH = "2px"
-BORDER_STYLE = "solid"
+BORDER_COLOR = "#FFD600" # Cambia aquí al color que quieras (ej: morado, amarillo, etc.)
+BG_COLOR = "#030B12"     # Fondo oscuro idéntico a tus tarjetas de estadísticas
 
 def generate_table(apps, cols=4):
     rows = []
@@ -12,10 +10,9 @@ def generate_table(apps, cols=4):
         chunk = apps[i:i + cols]
         cells = []
         for app in chunk:
-            # Aplicamos el borde DIRECTAMENTE a la etiqueta <img> para que GitHub no lo ignore
-            cells.append(f'''<td align="center" style="padding: 4px;">
+            cells.append(f'''<td align="center" style="border: 2px solid {BORDER_COLOR}; background-color: {BG_COLOR}; padding: 6px; border-radius: 8px;">
 <a href="{app['url']}">
-<img src="{app['img']}" width="80" alt="{app['name']}" style="border: {BORDER_WIDTH} {BORDER_STYLE} {BORDER_COLOR}; background-color: #030B12; padding: 2px; border-radius: 6px;">
+<img src="{app['img']}" width="80" alt="{app['name']}">
 </a>
 </td>''')
         while len(cells) < cols:
