@@ -124,7 +124,7 @@
 <tr>
 
 <td align="center"
-    style="solid:#FFD600; background:#FFD600; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/HexColor">
 <img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462"
      width="80">
