@@ -448,15 +448,15 @@
 <polygon points="578.85,211.84 590.13,215.94 578.85,220.05 567.57,215.94" fill="#0e4429"/>
 <polygon points="567.57,233.94 567.57,215.94 578.85,220.05 578.85,238.05" fill="#0c3b24"/>
 <polygon points="578.85,238.05 578.85,220.05 590.13,215.94 590.13,233.94" fill="#0a321e"/>
-<polygon points="605.16,211.84 616.44,215.94 605.16,220.05 593.89,215.94" fill="#0e4429"/>
-<polygon points="593.89,233.94 593.89,215.94 605.16,220.05 605.16,238.05" fill="#0c3b24"/>
-<polygon points="605.16,238.05 605.16,220.05 616.44,215.94 616.44,233.94" fill="#0a321e"/>
 <polygon points="631.47,211.84 642.75,215.94 631.47,220.05 620.20,215.94" fill="#0e4429"/>
 <polygon points="620.20,233.94 620.20,215.94 631.47,220.05 631.47,238.05" fill="#0c3b24"/>
 <polygon points="631.47,238.05 631.47,220.05 642.75,215.94 642.75,233.94" fill="#0a321e"/>
 <polygon points="499.92,211.84 511.19,215.94 499.92,220.05 488.64,215.94" fill="#006d32"/>
 <polygon points="488.64,233.94 488.64,215.94 499.92,220.05 499.92,238.05" fill="#005f2c"/>
 <polygon points="499.92,238.05 499.92,220.05 511.19,215.94 511.19,233.94" fill="#005025"/>
+<polygon points="605.16,211.84 616.44,215.94 605.16,220.05 593.89,215.94" fill="#006d32"/>
+<polygon points="593.89,233.94 593.89,215.94 605.16,220.05 605.16,238.05" fill="#005f2c"/>
+<polygon points="605.16,238.05 605.16,220.05 616.44,215.94 616.44,233.94" fill="#005025"/>
 <polygon points="592.01,234.63 603.28,238.73 592.01,242.83 580.73,238.73" fill="#161b22"/>
 <polygon points="486.76,216.63 498.04,220.73 486.76,224.83 475.48,220.73" fill="#0e4429"/>
 <polygon points="475.48,238.73 475.48,220.73 486.76,224.83 486.76,242.83" fill="#0c3b24"/>
@@ -512,18 +512,18 @@
 <polygon points="644.63,226.20 655.91,230.31 644.63,234.41 633.35,230.31" fill="#0e4429"/>
 <polygon points="633.35,248.31 633.35,230.31 644.63,234.41 644.63,252.41" fill="#0c3b24"/>
 <polygon points="644.63,252.41 644.63,234.41 655.91,230.31 655.91,248.31" fill="#0a321e"/>
-<polygon points="670.94,233.20 682.22,237.31 670.94,241.41 659.66,237.31" fill="#0e4429"/>
-<polygon points="659.66,248.31 659.66,237.31 670.94,241.41 670.94,252.41" fill="#0c3b24"/>
-<polygon points="670.94,252.41 670.94,241.41 682.22,237.31 682.22,248.31" fill="#0a321e"/>
+<polygon points="670.94,228.20 682.22,232.31 670.94,236.41 659.66,232.31" fill="#0e4429"/>
+<polygon points="659.66,248.31 659.66,232.31 670.94,236.41 670.94,252.41" fill="#0c3b24"/>
+<polygon points="670.94,252.41 670.94,236.41 682.22,232.31 682.22,248.31" fill="#0a321e"/>
 <polygon points="592.01,226.20 603.28,230.31 592.01,234.41 580.73,230.31" fill="#006d32"/>
 <polygon points="580.73,248.31 580.73,230.31 592.01,234.41 592.01,252.41" fill="#005f2c"/>
 <polygon points="592.01,252.41 592.01,234.41 603.28,230.31 603.28,248.31" fill="#005025"/>
 <polygon points="526.23,230.99 537.50,235.09 526.23,239.20 514.95,235.09" fill="#0e4429"/>
 <polygon points="514.95,253.09 514.95,235.09 526.23,239.20 526.23,257.20" fill="#0c3b24"/>
 <polygon points="526.23,257.20 526.23,239.20 537.50,235.09 537.50,253.09" fill="#0a321e"/>
-<polygon points="552.54,234.99 563.82,239.09 552.54,243.20 541.26,239.09" fill="#0e4429"/>
-<polygon points="541.26,253.09 541.26,239.09 552.54,243.20 552.54,257.20" fill="#0c3b24"/>
-<polygon points="552.54,257.20 552.54,243.20 563.82,239.09 563.82,253.09" fill="#0a321e"/>
+<polygon points="552.54,232.99 563.82,237.09 552.54,241.20 541.26,237.09" fill="#0e4429"/>
+<polygon points="541.26,253.09 541.26,237.09 552.54,241.20 552.54,257.20" fill="#0c3b24"/>
+<polygon points="552.54,257.20 552.54,241.20 563.82,237.09 563.82,253.09" fill="#0a321e"/>
 <polygon points="578.85,232.99 590.13,237.09 578.85,241.20 567.57,237.09" fill="#0e4429"/>
 <polygon points="567.57,253.09 567.57,237.09 578.85,241.20 578.85,257.20" fill="#0c3b24"/>
 <polygon points="578.85,257.20 578.85,241.20 590.13,237.09 590.13,253.09" fill="#0a321e"/>
@@ -551,9 +551,9 @@
 <polygon points="618.32,238.78 629.59,242.88 618.32,246.99 607.04,242.88" fill="#0e4429"/>
 <polygon points="607.04,257.88 607.04,242.88 618.32,246.99 618.32,261.99" fill="#0c3b24"/>
 <polygon points="618.32,261.99 618.32,246.99 629.59,242.88 629.59,257.88" fill="#0a321e"/>
-<polygon points="644.63,240.78 655.91,244.88 644.63,248.99 633.35,244.88" fill="#0e4429"/>
-<polygon points="633.35,257.88 633.35,244.88 644.63,248.99 644.63,261.99" fill="#0c3b24"/>
-<polygon points="644.63,261.99 644.63,248.99 655.91,244.88 655.91,257.88" fill="#0a321e"/>
+<polygon points="644.63,237.78 655.91,241.88 644.63,245.99 633.35,241.88" fill="#0e4429"/>
+<polygon points="633.35,257.88 633.35,241.88 644.63,245.99 644.63,261.99" fill="#0c3b24"/>
+<polygon points="644.63,261.99 644.63,245.99 655.91,241.88 655.91,257.88" fill="#0a321e"/>
 <polygon points="670.94,235.78 682.22,239.88 670.94,243.99 659.66,239.88" fill="#006d32"/>
 <polygon points="659.66,257.88 659.66,239.88 670.94,243.99 670.94,261.99" fill="#005f2c"/>
 <polygon points="670.94,261.99 670.94,243.99 682.22,239.88 682.22,257.88" fill="#005025"/>
@@ -569,9 +569,9 @@
 <polygon points="578.85,240.57 590.13,244.67 578.85,248.78 567.57,244.67" fill="#006d32"/>
 <polygon points="567.57,262.67 567.57,244.67 578.85,248.78 578.85,266.78" fill="#005f2c"/>
 <polygon points="578.85,266.78 578.85,248.78 590.13,244.67 590.13,262.67" fill="#005025"/>
-<polygon points="605.16,240.57 616.44,244.67 605.16,248.78 593.89,244.67" fill="#006d32"/>
-<polygon points="593.89,262.67 593.89,244.67 605.16,248.78 605.16,266.78" fill="#005f2c"/>
-<polygon points="605.16,266.78 605.16,248.78 616.44,244.67 616.44,262.67" fill="#005025"/>
+<polygon points="605.16,240.57 616.44,244.67 605.16,248.78 593.89,244.67" fill="#26a641"/>
+<polygon points="593.89,262.67 593.89,244.67 605.16,248.78 605.16,266.78" fill="#219239"/>
+<polygon points="605.16,266.78 605.16,248.78 616.44,244.67 616.44,262.67" fill="#1c7a30"/>
 <polygon points="565.69,248.36 576.97,252.46 565.69,256.56 554.42,252.46" fill="#0e4429"/>
 <polygon points="554.42,267.46 554.42,252.46 565.69,256.56 565.69,271.56" fill="#0c3b24"/>
 <polygon points="565.69,271.56 565.69,256.56 576.97,252.46 576.97,267.46" fill="#0a321e"/>
@@ -593,27 +593,30 @@
 <polygon points="605.16,250.14 616.44,254.25 605.16,258.35 593.89,254.25" fill="#006d32"/>
 <polygon points="593.89,272.25 593.89,254.25 605.16,258.35 605.16,276.35" fill="#005f2c"/>
 <polygon points="605.16,276.35 605.16,258.35 616.44,254.25 616.44,272.25" fill="#005025"/>
-<polygon points="618.32,264.93 629.59,269.04 618.32,273.14 607.04,269.04" fill="#0e4429"/>
-<polygon points="607.04,277.04 607.04,269.04 618.32,273.14 618.32,281.14" fill="#0c3b24"/>
-<polygon points="618.32,281.14 618.32,273.14 629.59,269.04 629.59,277.04" fill="#0a321e"/>
 <polygon points="592.01,254.93 603.28,259.04 592.01,263.14 580.73,259.04" fill="#006d32"/>
 <polygon points="580.73,277.04 580.73,259.04 592.01,263.14 592.01,281.14" fill="#005f2c"/>
 <polygon points="592.01,281.14 592.01,263.14 603.28,259.04 603.28,277.04" fill="#005025"/>
-<text x="697.25" y="14.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="34" font-weight="700" fill="#39d353">1,472</text>
+<polygon points="618.32,254.93 629.59,259.04 618.32,263.14 607.04,259.04" fill="#26a641"/>
+<polygon points="607.04,277.04 607.04,259.04 618.32,263.14 618.32,281.14" fill="#219239"/>
+<polygon points="618.32,281.14 618.32,263.14 629.59,259.04 629.59,277.04" fill="#1c7a30"/>
+<polygon points="605.16,263.72 616.44,267.82 605.16,271.93 593.89,267.82" fill="#0e4429"/>
+<polygon points="593.89,281.82 593.89,267.82 605.16,271.93 605.16,285.93" fill="#0c3b24"/>
+<polygon points="605.16,285.93 605.16,271.93 616.44,267.82 616.44,281.82" fill="#0a321e"/>
+<text x="697.25" y="14.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="34" font-weight="700" fill="#39d353">1,570</text>
 <text x="697.25" y="26.00" text-anchor="end" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="10" fill="#7d8590" letter-spacing="0.8">TOTAL CONTRIBUTIONS</text>
 <rect x="-92.09" y="185.30" width="12" height="54.00" rx="1" fill="#39d353"/>
 <text x="-86.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">S</text>
-<rect x="-76.09" y="202.76" width="12" height="36.54" rx="1" fill="#006d32"/>
+<rect x="-76.09" y="202.10" width="12" height="37.20" rx="1" fill="#006d32"/>
 <text x="-70.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">M</text>
-<rect x="-60.09" y="192.00" width="12" height="47.30" rx="1" fill="#006d32"/>
+<rect x="-60.09" y="191.70" width="12" height="47.60" rx="1" fill="#006d32"/>
 <text x="-54.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">T</text>
-<rect x="-44.09" y="201.94" width="12" height="37.35" rx="1" fill="#006d32"/>
+<rect x="-44.09" y="202.10" width="12" height="37.20" rx="1" fill="#006d32"/>
 <text x="-38.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">W</text>
-<rect x="-28.09" y="195.45" width="12" height="43.85" rx="1" fill="#006d32"/>
+<rect x="-28.09" y="189.50" width="12" height="49.80" rx="1" fill="#006d32"/>
 <text x="-22.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">T</text>
-<rect x="-12.09" y="193.42" width="12" height="45.88" rx="1" fill="#006d32"/>
+<rect x="-12.09" y="185.50" width="12" height="53.80" rx="1" fill="#006d32"/>
 <text x="-6.09" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">F</text>
-<rect x="3.91" y="205.39" width="12" height="33.90" rx="1" fill="#006d32"/>
+<rect x="3.91" y="204.90" width="12" height="34.40" rx="1" fill="#006d32"/>
 <text x="9.91" y="257.30" text-anchor="middle" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="11" fill="#7d8590">S</text>
 <text x="-92.09" y="277.30" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" fill="#7d8590" letter-spacing="0.3">Most active days</text>
 <text x="-92.09" y="293.30" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="9" fill="#7d8590">Data pulled daily from GitHub.</text>
