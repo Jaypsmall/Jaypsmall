@@ -373,7 +373,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 
 Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" /><code>Camera</code> <code>Color</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" /> <code>Camera</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexColor">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
