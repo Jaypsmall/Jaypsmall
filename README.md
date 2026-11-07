@@ -321,7 +321,7 @@
 
 Voice commands, macros and floating automation controls.<br><br>
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" /></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" /> </code> <code><img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="20" alt="Rust" /> </code> <code>Accessibility</code> <code>Overlay</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" /><img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="20" alt="Rust" /> </code> <code>Accessibility</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniTalk-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
