@@ -19,7 +19,6 @@
     --card: rgba(8, 13, 18, 0.90);
 }
 
-
 /* =========================================
    RESET
    ========================================= */
@@ -30,11 +29,9 @@
     box-sizing: border-box;
 }
 
-
 html {
     scroll-behavior: smooth;
 }
-
 
 body {
     background: var(--background);
@@ -47,10 +44,8 @@ body {
         sans-serif;
 
     min-height: 100vh;
-
     overflow-x: hidden;
 }
-
 
 /* =========================================
    BACKGROUND GRID
@@ -58,7 +53,6 @@ body {
 
 .background-grid {
     position: fixed;
-
     inset: 0;
 
     pointer-events: none;
@@ -88,14 +82,12 @@ body {
     z-index: -1;
 }
 
-
 /* =========================================
    HERO
    ========================================= */
 
 .hero {
     max-width: 1200px;
-
     margin: auto;
 
     padding:
@@ -105,10 +97,8 @@ body {
     text-align: center;
 }
 
-
 .status-line {
     display: inline-flex;
-
     align-items: center;
 
     gap: 8px;
@@ -118,10 +108,8 @@ body {
     color: var(--muted);
 
     font-size: 11px;
-
     letter-spacing: 3px;
 }
-
 
 .status-dot {
     width: 7px;
@@ -135,22 +123,18 @@ body {
         0 0 12px #35c713;
 }
 
-
 .hero h1 {
     font-size: clamp(42px, 8vw, 82px);
-
     font-weight: 900;
 
     letter-spacing: -3px;
 
-    line-height: 0.95;
+    line-height: .95;
 }
-
 
 .hero h1 span {
     color: var(--blue);
 }
-
 
 .hero-title {
     margin-top: 18px;
@@ -158,12 +142,10 @@ body {
     color: var(--blue);
 
     font-size: 13px;
-
     font-weight: 700;
 
     letter-spacing: 6px;
 }
-
 
 .hero-description {
     margin-top: 18px;
@@ -173,27 +155,23 @@ body {
     font-size: 14px;
 }
 
-
 /* =========================================
-   MAIN CONTAINER
+   MAIN
    ========================================= */
 
 .container {
     width: min(1200px, calc(100% - 40px));
-
     margin: auto;
 }
 
-
 /* =========================================
-   PROJECT SECTION
+   SECTIONS
    ========================================= */
 
 .project-section {
     position: relative;
 
     margin-bottom: 80px;
-
     padding: 28px;
 
     border: 1px solid var(--border);
@@ -205,7 +183,6 @@ body {
             rgba(0, 0, 0, 0)
         );
 }
-
 
 .project-section::before {
     content: "";
@@ -221,67 +198,42 @@ body {
     background: var(--blue);
 }
 
-
 /* =========================================
    SECTION HEADER
    ========================================= */
 
 .section-header {
     display: flex;
-
-    align-items: flex-start;
-
     justify-content: space-between;
+    align-items: flex-start;
 
     gap: 20px;
 
     margin-bottom: 30px;
 }
 
-
 .section-index {
     color: var(--blue);
 
     font-size: 10px;
-
     letter-spacing: 3px;
 
     margin-bottom: 8px;
 }
 
-
 .section-header h2 {
     font-size: clamp(28px, 5vw, 42px);
-
     font-weight: 900;
 
     letter-spacing: -1px;
 }
 
-
-.section-header h2 span {
-    color: var(--blue);
-}
-
-
-.section-header h2 .red {
-    color: var(--red);
-}
-
-
-.section-header h2 .yellow {
-    color: var(--yellow);
-}
-
-
 .section-header p {
     margin-top: 7px;
 
     color: var(--muted);
-
     font-size: 13px;
 }
-
 
 .section-tag {
     border: 1px solid var(--border);
@@ -291,118 +243,87 @@ body {
     color: var(--blue);
 
     font-size: 9px;
-
     letter-spacing: 2px;
 
     white-space: nowrap;
 }
 
-
 /* =========================================
-   PROJECT CARDS GRID
+   GRIDS
    ========================================= */
 
 .cards {
     display: grid;
-
-    grid-template-columns:
-        repeat(3, 1fr);
-
-    gap: 18px;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 24px;
 }
-
 
 .cards-two {
-    grid-template-columns:
-        repeat(2, 1fr);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
 }
 
-
 /* =========================================
-   PROJECT CARD
+   CARDS
    ========================================= */
 
 .project-card {
     display: flex;
-
     flex-direction: column;
 
-    min-width: 0;
-
     text-decoration: none;
-
     color: inherit;
 
     background: var(--card);
 
-    border: 1px solid rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255,255,255,.08);
+    border-radius: 18px;
 
     overflow: hidden;
 
     transition:
-        transform 0.25s ease,
-        border-color 0.25s ease,
-        box-shadow 0.25s ease;
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
 }
 
-
 .project-card:hover {
-    transform: translateY(-6px);
+    transform: translateY(-8px);
 
     border-color: var(--blue);
 
     box-shadow:
-        0 15px 40px rgba(0, 174, 239, 0.12);
+        0 25px 60px rgba(0,174,239,.18);
 }
 
-
 /* =========================================
-   CARD IMAGE AREA
+   IMAGE AREA
    ========================================= */
 
 .image-wrapper {
-    display: flex;
+    width: 100%;
 
-    align-items: center;
+    overflow: hidden;
 
-    justify-content: center;
-
-    height: 230px;
-
-    padding: 18px;
-
-    background:
-        radial-gradient(
-            circle,
-            rgba(0, 174, 239, 0.10),
-            transparent 72%
-        );
+    background: #05070a;
 
     border-bottom:
-        1px solid rgba(255, 255, 255, 0.07);
+        1px solid rgba(255,255,255,.07);
 }
-
 
 .image-wrapper img {
-    width: 220px;
+    width: 100%;
+    height: auto;
 
-    height: 180px;
+    display: block;
 
-    object-fit: contain;
-
-    border-radius: 26px;
-
-    transition:
-        transform 0.25s ease,
-        filter 0.25s ease;
+    transition: transform .35s ease;
 }
 
-
-.project-card:hover
-.image-wrapper img {
-    transform: scale(1.06);
+.project-card:hover .image-wrapper img {
+    transform: scale(1.03);
 }
-
 
 /* =========================================
    CARD CONTENT
@@ -412,24 +333,19 @@ body {
     padding: 22px;
 }
 
-
 .card-number {
     color: var(--blue);
 
     font-size: 10px;
-
     letter-spacing: 2px;
 
     margin-bottom: 10px;
 }
 
-
 .card-content h3 {
-    font-size: 17px;
-
-    letter-spacing: 0.5px;
+    font-size: 18px;
+    font-weight: 800;
 }
-
 
 .card-content p {
     margin-top: 8px;
@@ -437,142 +353,111 @@ body {
     color: var(--muted);
 
     font-size: 12px;
-
     line-height: 1.6;
 }
-
 
 .open-link {
     display: inline-block;
 
-    margin-top: 20px;
+    margin-top: 18px;
 
     color: var(--blue);
 
     font-size: 10px;
-
     font-weight: 800;
 
     letter-spacing: 1.5px;
 }
 
-
 /* =========================================
-   HEXCOLOR FEATURED PROJECT
+   FEATURED
    ========================================= */
 
 .featured-project {
     display: grid;
-
     grid-template-columns: 300px 1fr;
 
     text-decoration: none;
-
     color: inherit;
 
     background: var(--card);
 
-    border:
-        1px solid rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255,255,255,.08);
+    border-radius: 18px;
 
     overflow: hidden;
 
     transition:
-        transform 0.25s ease,
-        border-color 0.25s ease,
-        box-shadow 0.25s ease;
+        transform .25s ease,
+        border-color .25s ease,
+        box-shadow .25s ease;
 }
 
-
 .featured-project:hover {
-    transform: translateY(-6px);
+    transform: translateY(-8px);
 
     border-color: var(--blue);
 
     box-shadow:
-        0 15px 40px rgba(0, 174, 239, 0.12);
+        0 25px 60px rgba(0,174,239,.18);
 }
-
-
-.featured-image {
-    min-height: 300px;
-
-    display: flex;
-
-    align-items: center;
-
-    justify-content: center;
-
-    padding: 25px;
-
-    background:
-        radial-gradient(
-            circle,
-            rgba(0, 174, 239, 0.10),
-            transparent 72%
-        );
-}
-
 
 .featured-image img {
-    width: 300px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 
-    height: 260px;
-
-    object-fit: contain;
-
-    border-radius: 35px;
-
-    transition:
-        transform 0.25s ease;
+    display: block;
 }
-
-
-.featured-project:hover
-.featured-image img {
-    transform: scale(1.06);
-}
-
 
 .featured-content {
     display: flex;
-
     flex-direction: column;
-
     justify-content: center;
 
     padding: 40px;
 }
 
-
 .featured-number {
     color: var(--blue);
 
     font-size: 10px;
-
     letter-spacing: 2px;
 
     margin-bottom: 12px;
 }
 
-
 .featured-content h3 {
     font-size: 30px;
-
-    letter-spacing: 1px;
 }
 
-
 .featured-content p {
-    color: var(--muted);
-
     margin-top: 10px;
 
-    font-size: 13px;
+    color: var(--muted);
 
     line-height: 1.6;
 }
 
+/* =========================================
+   COLORS
+   ========================================= */
+
+.red {
+    color: var(--red);
+}
+
+.yellow {
+    color: var(--yellow);
+}
+
+.white {
+    color: var(--white);
+}
+
+.blue {
+    color: var(--blue);
+}
 
 /* =========================================
    FOOTER
@@ -582,16 +467,14 @@ footer {
     width: min(1200px, calc(100% - 40px));
 
     margin:
-        20px auto
+        30px auto
         50px;
 
     text-align: center;
 }
 
-
 .footer-line {
     width: 100%;
-
     height: 1px;
 
     margin-bottom: 25px;
@@ -603,47 +486,28 @@ footer {
             var(--blue),
             transparent
         );
-
-    opacity: 0.5;
 }
-
 
 footer p {
     color: var(--muted);
 
     font-size: 10px;
-
     letter-spacing: 3px;
 }
 
-
-footer p span {
-    color: var(--blue);
-
-    margin: 0 8px;
-}
-
-
-footer .footer-small {
+.footer-small {
     margin-top: 10px;
 
     color: #4d5961;
 
     font-size: 9px;
-
-    letter-spacing: 1px;
 }
-
 
 /* =========================================
    TABLET
    ========================================= */
 
-@media (max-width: 750px) {
-
-    .cards {
-        grid-template-columns: 1fr;
-    }
+@media (max-width: 900px) {
 
     .cards-two {
         grid-template-columns: 1fr;
@@ -653,104 +517,33 @@ footer .footer-small {
         grid-template-columns: 1fr;
     }
 
-    .featured-image {
-        min-height: 300px;
-    }
 }
-
 
 /* =========================================
    MOBILE
    ========================================= */
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
 
     .hero {
-        padding:
-            70px 20px
-            55px;
+        padding: 70px 20px 55px;
     }
-
 
     .container {
-        width:
-            calc(100% - 24px);
+        width: calc(100% - 24px);
     }
-
 
     .project-section {
         padding: 18px;
-
         margin-bottom: 45px;
     }
-
 
     .section-header {
         flex-direction: column;
     }
 
-
     .section-tag {
         display: none;
     }
 
-
-    .image-wrapper {
-        height: 230px;
-
-        padding: 15px;
-    }
-
-
-    .image-wrapper img {
-        width: 300px;
-
-        height: 250px;
-    }
-
-
-    .card-content {
-        padding: 20px;
-    }
-
-
-    .featured-image {
-        min-height: 320px;
-
-        padding: 20px;
-    }
-
-
-    .featured-image img {
-        width: 300px;
-
-        height: 260px;
-    }
-
-
-    .featured-content {
-        padding: 25px;
-    }
-
-
-    .featured-content h3 {
-        font-size: 25px;
-    }
 }
-
-.red {
-    color: var(--red);
-}
-
-.yellow {
-    color: var(--yellow);
-}
-
-.white {
-    color: #ffffff;
-}
-
-.blue {
-    color: #00aeef;
-}
-
