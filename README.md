@@ -30,14 +30,14 @@
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
 <a href="https://github.com/Jaypsmall/HexRootScan">
-<img src="https://github.com/user-attachments/assets/568500c5-b275-4a6f-b093-64393ac42241" width="80" alt="HexRootScan">
+<img src="https://github.com/user-attachments/assets/8394a0b6-b2cf-4004-a618-5dc9c68616a0" width="80" alt="HexRootScan">
 </a>
 </td>
 </tr>
 <tr>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
-<img src="https://github.com/user-attachments/assets/c94de779-39c7-42eb-8fd1-ba91a167a966" width="80" alt="HexRootFuzz">
+<img src="https://github.com/user-attachments/assets/681bfd3f-f3a9-484b-8706-bdff99c42ca8" width="80" alt="HexRootFuzz">
 </a>
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
@@ -47,7 +47,7 @@
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
 <a href="https://github.com/Jaypsmall/DemoniTalk">
-<img src="https://github.com/user-attachments/assets/07ccac91-4721-437f-9f5f-ae2df7afe724" width="80" alt="DemoniTalk">
+<img src="https://github.com/user-attachments/assets/95ba40b6-9836-4334-8e0d-5f2f5b7e0b10" width="80" alt="DemoniTalk">
 </a>
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
@@ -101,12 +101,17 @@
 <img src="https://github.com/user-attachments/assets/713df46d-e48d-431e-b4d5-3bce9cbd1583" width="80" alt="Resonantia">
 </a>
 </td>
-<td align="center">&nbsp;</td>
+<td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
+<a href="https://github.com/Jaypsmall/HexColor-Pro">
+<img src="https://github.com/user-attachments/assets/1dc0f51f-d076-450c-bf2f-45bfdbd65309" width="80" alt="HexColorPro">
+</a>
+</td>
 </tr>
 </table>
 </td>
 </tr>
 </table>
+
 
 <!-- APP_SHOWCASE_END -->
 
@@ -160,7 +165,7 @@
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/HexRootScan">
-<img src="https://github.com/user-attachments/assets/568500c5-b275-4a6f-b093-64393ac42241"
+<img src="https://github.com/user-attachments/assets/8394a0b6-b2cf-4004-a618-5dc9c68616a0"
      width="80">
 </a>
 </td>
@@ -172,7 +177,7 @@
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
-<img src="https://github.com/user-attachments/assets/c94de779-39c7-42eb-8fd1-ba91a167a966"
+<img src="https://github.com/user-attachments/assets/681bfd3f-f3a9-484b-8706-bdff99c42ca8"
      width="80">
 </a>
 </td>
@@ -188,7 +193,7 @@
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/DemoniTalk">
-<img src="https://github.com/user-attachments/assets/07ccac91-4721-437f-9f5f-ae2df7afe724"
+<img src="https://github.com/user-attachments/assets/95ba40b6-9836-4334-8e0d-5f2f5b7e0b10"
      width="80">
 </a>
 </td>
@@ -290,8 +295,11 @@
 </a>
 </td>
 
-<td align="center">
-&nbsp;
+<td align="center" 
+    style="border: 2px solid #FFD600; background-color: #030B12; padding: 2px;">
+<a href="https://github.com/Jaypsmall/HexColor-Pro">
+<img src="https://github.com/user-attachments/assets/1dc0f51f-d076-450c-bf2f-45bfdbd65309" 
+    width="80" >
 </td>
 
 </tr>
@@ -321,7 +329,7 @@
 
 Voice commands, macros and floating automation controls.<br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" /><img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="20" alt="Rust" /> </code> <code>Accessibility</code> <code>Overlay</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="20" alt="Rust" /> </code> <code>Accessibility</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniTalk-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
@@ -373,7 +381,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 
 Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" /> 
 <code>Camera</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexColor">
