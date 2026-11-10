@@ -20,7 +20,7 @@
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
 <a href="https://github.com/Jaypsmall/DemoniWifi">
-<img src="https://github.com/user-attachments/assets/1a94e993-335b-4936-9f9b-bb73ad110eeb" width="80" alt="DemoniWifi">
+<img src="https://github.com/user-attachments/assets/9ad55d19-f202-4565-b7d3-d928fe8c0735" width="80" alt="DemoniWifi">
 </a>
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
@@ -149,7 +149,7 @@
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://github.com/Jaypsmall/DemoniWifi">
-<img src="https://github.com/user-attachments/assets/1a94e993-335b-4936-9f9b-bb73ad110eeb"
+<img src="https://github.com/user-attachments/assets/9ad55d19-f202-4565-b7d3-d928fe8c0735"
      width="80">
 </a>
 </td>
@@ -381,7 +381,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 
 Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; 
 <code>Camera</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexColor">
