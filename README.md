@@ -70,7 +70,7 @@
 </a>
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
-<a href="https://github.com/Jaypsmall/HexCollage">
+<a href="https://github.com/Jaypsmall/HexCollagePro">
 <img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24" width="80" alt="HexCollage">
 </a>
 </td>
@@ -245,7 +245,7 @@
 
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
-<a href="https://github.com/Jaypsmall/HexCollage">
+<a href="https://github.com/Jaypsmall/HexCollagePro">
 <img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24"
      width="80">
 </a>
@@ -375,7 +375,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 
 <td width="25%" valign="top" align="center">
 
-<h2>🎨 HexColor</h2>
+<h2>🎨 HexColor Pro</h2>
 
 <b>Android · Camera · Color Science</b><br>
 
@@ -384,7 +384,7 @@ Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; 
 <code>Camera</code> <code>Color</code><br><br>
 
-<a href="https://github.com/Jaypsmall/HexColor">
+<a href="https://github.com/Jaypsmall/HexColor-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
 </a>
 
@@ -392,15 +392,15 @@ Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
 <td width="25%" valign="top" align="center">
 
-<h2>🎨 HexCollage</h2>
+<h2>🎨 HexCollage Pro</h2>
 
 <b>Android · Collage · Color Science</b><br>
 
 Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 
-<code>Kotlin</code> <code>Flutter</code> <code>Collage</code> <code>Color</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp;  <code>Collage</code> <code>Color</code><br><br>
 
-<a href="https://github.com/Jaypsmall/HexCollage">
+<a href="https://github.com/Jaypsmall/HexCollagePro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
 </a>
 
