@@ -103,7 +103,7 @@
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
 <a href="https://github.com/Jaypsmall/HexColor-Pro">
-<img src="https://github.com/user-attachments/assets/1dc0f51f-d076-450c-bf2f-45bfdbd65309" width="80" alt="HexColorPro">
+<img src="https://github.com/user-attachments/assets/bf2cdfb2-9dcb-4763-97bd-9606d5a428e5" width="80" alt="HexColorPro">
 </a>
 </td>
 </tr>
@@ -298,7 +298,7 @@
 <td align="center" 
     style="border: 2px solid #FFD600; background-color: #030B12; padding: 2px;">
 <a href="https://github.com/Jaypsmall/HexColor-Pro">
-<img src="https://github.com/user-attachments/assets/1dc0f51f-d076-450c-bf2f-45bfdbd65309" 
+<img src="https://github.com/user-attachments/assets/bf2cdfb2-9dcb-4763-97bd-9606d5a428e5" 
     width="80" >
 </td>
 
