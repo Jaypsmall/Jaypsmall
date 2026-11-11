@@ -345,7 +345,7 @@ Voice commands, macros and floating automation controls.<br><br>
 
 Gesture commands, recognition and programmable automation.<br><br>
 
-<code>Kotlin</code> <code>Gestures</code> <code>Macros</code> <code>Overlay</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Gestures</code> <code>Macros</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniDraw">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
@@ -361,7 +361,7 @@ Gesture commands, recognition and programmable automation.<br><br>
 
 WiFi network analysis and wireless network utilities for Android.<br><br>
 
-<code>Kotlin</code> <code>WiFi</code> <code>Network</code> <code>Security</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>WiFi</code> <code>Network</code> <code>Security</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniWifi">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
@@ -414,7 +414,7 @@ Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 
 Herramientas experimentales de puntería de precisión e interacción programable.<br><br>
 
-<code>Kotlin</code> <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Sniper">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
@@ -434,7 +434,7 @@ Herramientas experimentales de puntería de precisión e interacción programabl
 
 Network reconnaissance and security toolkit for Android mobiles.<br><br>
 
-<code>Kotlin</code> <code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexRootScan">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=3868D8">
@@ -450,7 +450,7 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 
 Security testing and fuzzing utilities for Android environments.<br><br>
 
-<code>Kotlin</code> <code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=3868D8">
@@ -466,7 +466,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 
 CPU governor control, thermal monitoring and performance profiles.<br><br>
 
-<code>Kotlin</code> <code>Magisk</code> <code>KernelSU</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Magisk</code> <code>KernelSU</code><br><br>
 
 <a href="https://github.com/Jaypsmall/CpuTemp">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=38B8D8">
@@ -480,13 +480,13 @@ CPU governor control, thermal monitoring and performance profiles.<br><br>
 
 <td width="25%" valign="top" align="center">
 
-<h2>👁️ DaltonicAssist</h2>
+<h2>👁️ DaltonicAssist Pro</h2>
 
 <b>Android · Accessibility · Vision</b><br>
 
 Accessibility-oriented visual assistance color perception tools.<br><br>
 
-<code>Kotlin</code> <code>Flutter</code> <code>Accessibility</code> <code>Vision</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Accessibility</code> <code>Vision</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Daltonic-Assist-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=green">
@@ -502,7 +502,7 @@ Accessibility-oriented visual assistance color perception tools.<br><br>
 
 Busca tu frecuencia y alcanza tus objetivos.<br><br>
 
-<code>Kotlin</code> <code>Bienestar</code> <code>Salud</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Bienestar</code> <code>Salud</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Resonantia">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=38B8D8">
@@ -518,7 +518,7 @@ Busca tu frecuencia y alcanza tus objetivos.<br><br>
 
 Experimental scientific visualization, molecular and 3D exploration tools.<br><br>
 
-<code>Kotlin</code> <code>3D</code> <code>Science</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>3D</code> <code>Science</code><br><br>
 
 <a href="https://github.com/Jaypsmall/3Dscience">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=6840B8">
@@ -538,7 +538,7 @@ Experimental scientific visualization, molecular and 3D exploration tools.<br><b
 
 Apunta notas de tus cuentas de forma sencilla.<br><br>
 
-<code>Kotlin</code> <code>VoiceNotes</code> <code>Overlay</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>VoiceNotes</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/CyberVarilla">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
@@ -554,7 +554,7 @@ Apunta notas de tus cuentas de forma sencilla.<br><br>
 
 Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
 
-<code>Kotlin</code> <code>Automation</code> <code>WhatsApp</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Automation</code> <code>WhatsApp</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DimeTu">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=green">
@@ -570,7 +570,7 @@ Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
 
 Voice transformation and audio processing tools for Android.<br><br>
 
-<code>Kotlin</code> <code>Voice</code> <code>Audio</code> <code>TTS</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="20" alt="Java" />&nbsp;<code>Voice</code> <code>Audio</code> <code>TTS</code><br><br>
 
 <a href="https://github.com/Jaypsmall/ProVoiceChanger">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=red">
