@@ -460,7 +460,7 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 <a href="https://jaypsmall.github.io/HexRootScan">
 <img src="https://github.com/user-attachments/assets/8394a0b6-b2cf-4004-a618-5dc9c68616a0"
      width="70">
-</a>
+</a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
 
@@ -481,7 +481,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 <a href="https://jaypsmall.github.io/HexRootFuzz">
 <img src="https://github.com/user-attachments/assets/681bfd3f-f3a9-484b-8706-bdff99c42ca8"
      width="70">
-</a>
+</a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
 
