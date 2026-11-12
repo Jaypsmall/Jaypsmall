@@ -329,10 +329,13 @@
 
 Voice commands, macros and floating automation controls.<br><br>
 
+<a href="https://github.com/Jaypsmall/DemoniTalk">
 <img src="https://github.com/user-attachments/assets/95ba40b6-9836-4334-8e0d-5f2f5b7e0b10"
      width="60">
+</a><br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="20" alt="Rust" /> </code> <code>Accessibility</code> <code>Overlay</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="20" alt="Rust" /> <br><br>
+</code> <code>Accessibility</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniTalk-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
@@ -387,11 +390,11 @@ Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 <a href="https://github.com/Jaypsmall/HexColor">
 <img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462"
      width="60" />&nbsp; 
-</a>
+</a>&nbsp; 
 <img src="https://github.com/user-attachments/assets/bf2cdfb2-9dcb-4763-97bd-9606d5a428e5" 
     width="60" ><br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp;<br><br>
 <code>Camera</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexColor-Pro">
@@ -408,10 +411,13 @@ Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
 Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 
+<a href="https://github.com/Jaypsmall/HexCollage">
 <img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24"
      width="60">
+</a><br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp;  <code>Collage</code> <code>Color</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp;<br><br>  
+<code>Collage</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexCollagePro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
@@ -427,10 +433,13 @@ Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 
 Herramientas experimentales de puntería de precisión e interacción programable.<br><br>
 
+<a href="https://github.com/Jaypsmall/Sniper">
 <img src="https://github.com/user-attachments/assets/850398c4-8f5c-468f-9def-4ae00152a953"
      width="60">
+</a><br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <br><br>
+<code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Sniper">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
