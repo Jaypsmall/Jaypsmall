@@ -386,10 +386,10 @@ Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
 <a href="https://github.com/Jaypsmall/HexColor">
 <img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462"
-     width="60" />
+     width="60" />&nbsp; 
 </a>
 <img src="https://github.com/user-attachments/assets/bf2cdfb2-9dcb-4763-97bd-9606d5a428e5" 
-    width="60" >
+    width="60" ><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; 
 <code>Camera</code> <code>Color</code><br><br>
