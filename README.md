@@ -799,6 +799,3 @@ alt="GitHub Contribution 3DStreak">
 *Hecho con 💛 para la comunidad de Android y ciberseguridad.*
 
 </div>
-
----
-
