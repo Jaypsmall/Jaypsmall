@@ -329,6 +329,9 @@
 
 Voice commands, macros and floating automation controls.<br><br>
 
+<img src="https://github.com/user-attachments/assets/95ba40b6-9836-4334-8e0d-5f2f5b7e0b10"
+     width="60">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="20" alt="Rust" /> </code> <code>Accessibility</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniTalk-Pro">
@@ -381,6 +384,9 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 
 Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
+<img src="https://github.com/user-attachments/assets/bf2cdfb2-9dcb-4763-97bd-9606d5a428e5" 
+    width="60" >
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; 
 <code>Camera</code> <code>Color</code><br><br>
 
@@ -398,6 +404,9 @@ Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
 Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 
+<img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24"
+     width="60">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="20" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp;  <code>Collage</code> <code>Color</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexCollagePro">
@@ -413,6 +422,9 @@ Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 <b>Android · Automation · Precision</b><br>
 
 Herramientas experimentales de puntería de precisión e interacción programable.<br><br>
+
+<img src="https://github.com/user-attachments/assets/850398c4-8f5c-468f-9def-4ae00152a953"
+     width="60">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
 
@@ -434,6 +446,9 @@ Herramientas experimentales de puntería de precisión e interacción programabl
 
 Network reconnaissance and security toolkit for Android mobiles.<br><br>
 
+<img src="https://github.com/user-attachments/assets/8394a0b6-b2cf-4004-a618-5dc9c68616a0"
+     width="60">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
 
 <a href="https://github.com/Jaypsmall/HexRootScan">
@@ -449,6 +464,9 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 <b>Android · Pentesting · Fuzzing</b><br>
 
 Security testing and fuzzing utilities for Android environments.<br><br>
+
+<img src="https://github.com/user-attachments/assets/681bfd3f-f3a9-484b-8706-bdff99c42ca8"
+     width="60">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="20" alt="Kotlin" />&nbsp; <code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
 
