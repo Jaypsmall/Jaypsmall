@@ -384,6 +384,10 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 
 Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
+<a href="https://github.com/Jaypsmall/HexColor">
+<img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462"
+     width="60" />
+</a>
 <img src="https://github.com/user-attachments/assets/bf2cdfb2-9dcb-4763-97bd-9606d5a428e5" 
     width="60" >
 
