@@ -29,8 +29,8 @@
 </a>
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
-<a href="https://github.com/Jaypsmall/HexRootScan">
-<img src="https://github.com/user-attachments/assets/8394a0b6-b2cf-4004-a618-5dc9c68616a0" width="80" alt="HexRootScan">
+<a href="https://github.com/Jaypsmall/Dimetu">
+<img src="https://github.com/user-attachments/assets/5e21897e-a29b-4009-a95e-535245b3765f" width="80" alt="Dimetu">
 </a>
 </td>
 </tr>
@@ -41,8 +41,8 @@
 </a>
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
-<a href="https://github.com/Jaypsmall/Dimetu">
-<img src="https://github.com/user-attachments/assets/5e21897e-a29b-4009-a95e-535245b3765f" width="80" alt="Dimetu">
+<a href="https://github.com/Jaypsmall/HexRootScan">
+<img src="https://github.com/user-attachments/assets/8394a0b6-b2cf-4004-a618-5dc9c68616a0" width="80" alt="HexRootScan">
 </a>
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
