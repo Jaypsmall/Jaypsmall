@@ -327,7 +327,7 @@
 
 <b>Android · Automation · Accessibility</b><br>
 
-Voice commands, macros and floating automation controls.<br><br>
+Comandos de voz, macros y controles de automatización flotantes.<br><br>
 
 <a href="https://jaypsmall.github.io/DemoniTalk">
 <img src="https://github.com/user-attachments/assets/95ba40b6-9836-4334-8e0d-5f2f5b7e0b10"
