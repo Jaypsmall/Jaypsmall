@@ -194,7 +194,7 @@
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://jaypsmall.github.io/DemoniTalk-Pro">
 <img src="https://github.com/Jaypsmall/DemoniTalk-Pro/blob/master_v2.0.6_IA/docs%2Fassets%2Fdemoni-talk-pro.png"
-     width="80%">
+     width="100">
 </a>
 </td>
 
