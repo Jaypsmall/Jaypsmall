@@ -119,7 +119,7 @@
 <!--                    APP SHOWCASE                        -->
 <!-- ====================================================== -->
 
-<table width="100%" align="center" cellspacing="5" cellpadding="0">
+<table width="100%" align="center" cellspacing="1" cellpadding="0">
 <tr>
 
 <!-- ====================================================== -->
@@ -134,7 +134,7 @@
 
 <br>
 
-<table align="center" cellspacing="4" cellpadding="0">
+<table align="center" cellspacing="1" cellpadding="0">
 
 <tr>
 
@@ -216,7 +216,7 @@
 <!--                    APP SHOWCASE                        -->
 <!-- ====================================================== -->
 
-<table width="100%" align="center" cellspacing="5" cellpadding="0">
+<table width="100%" align="center" cellspacing="1" cellpadding="0">
 <tr>
 
 <!-- ====================================================== -->
@@ -231,39 +231,39 @@
 
 <br>
 
-<table align="center" cellspacing="4" cellpadding="0">
+<table align="center" cellspacing="1" cellpadding="0">
 
 <tr>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://jaypsmall.github.io/HexColor">
 <img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462"
-     width="80">
+     width="120">
 </a>
 </td>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://github.com/Jaypsmall/HexCollagePro">
 <img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24"
-     width="80">
+     width="120">
 </a>
 </td>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://github.com/Jaypsmall/CyberVarilla">
 <img src="https://github.com/user-attachments/assets/4cc7e435-f27e-4a75-b926-af307f279453"
-     width="80">
+     width="120">
 </a>
 </td>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://jaypsmall.github.io/Daltonic-Assist-Pro">
 <img src="https://github.com/user-attachments/assets/250cd394-dc8a-4822-a81d-de03199ba262"
-     width="80">
+     width="120">
 </a>
 </td>
 
@@ -272,34 +272,34 @@
 <tr>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://github.com/Jaypsmall/3Dscience">
 <img src="https://github.com/user-attachments/assets/a69b71ca-a59e-4f2c-a6a2-0061d5730e13"
-     width="80">
+     width="120">
 </a>
 </td>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://github.com/Jaypsmall/Sniper">
 <img src="https://github.com/user-attachments/assets/850398c4-8f5c-468f-9def-4ae00152a953"
-     width="80">
+     width="120">
 </a>
 </td>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://jaypsmall.github.io/Resonantia">
 <img src="https://github.com/user-attachments/assets/713df46d-e48d-431e-b4d5-3bce9cbd1583"
-     width="80">
+     width="120">
 </a>
 </td>
 
 <td align="center" 
-    style="border: 2px solid #FFD600; background-color: #030B12; padding: 2px;">
+    style="border:2px solid #FFD600; background-color:#030B12; padding:0px;">
 <a href="https://jaypsmall.github.io/HexColor-Pro">
 <img src="https://github.com/user-attachments/assets/bf2cdfb2-9dcb-4763-97bd-9606d5a428e5" 
-    width="80" >
+    width="120">
 </td>
 
 </tr>
