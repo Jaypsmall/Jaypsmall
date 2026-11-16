@@ -139,34 +139,34 @@
 <tr>
 
 <td align="center"
-    style="border:2px solid:#6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid:#6840B8; background:#030B12; padding:0px;">
 <a href="https://github.com/Jaypsmall/CpuTemp">
 <img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2"
-     width="80">
+     width="120">
 </a>
 </td>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://github.com/Jaypsmall/ProVoiceChanger">
 <img src="https://github.com/user-attachments/assets/c61b7d28-b62e-4a05-9dc7-06ae67ff053a"
-     width="80">
+     width="120">
 </a>
 </td>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://github.com/Jaypsmall/DemoniDraw">
 <img src="https://github.com/user-attachments/assets/9f968006-ca8a-4b38-a14c-6e0f83648873"
-     width="80">
+     width="120">
 </a>
 </td>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://github.com/Jaypsmall/Dimetu">
 <img src="https://github.com/user-attachments/assets/5e21897e-a29b-4009-a95e-535245b3765f"
-     width="80">
+     width="120">
 </a>
 </td>
 
@@ -175,34 +175,34 @@
 <tr>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://jaypsmall.github.io/HexRootFuzz">
 <img src="https://github.com/user-attachments/assets/681bfd3f-f3a9-484b-8706-bdff99c42ca8"
-     width="80">
+     width="120">
 </a>
 </td>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://jaypsmall.github.io/HexRootScan">
 <img src="https://github.com/user-attachments/assets/8394a0b6-b2cf-4004-a618-5dc9c68616a0"
-     width="80">
+     width="120">
 </a>
 </td>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://jaypsmall.github.io/DemoniTalk-Pro">
-<img src="https://github.com/Jaypsmall/DemoniTalk-Pro/blob/master_v2.0.6_IA/docs%2Fassets%2Fdemoni-talk-pro.png"
-     width="100">
+<img src="https://github.com/user-attachments/assets/95ba40b6-9836-4334-8e0d-5f2f5b7e0b10"
+     width="120">
 </a>
 </td>
 
 <td align="center"
-    style="border:2px solid #6840B8; background:#030B12; padding:2px;">
+    style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://jaypsmall.github.io/DemoniWifi">
 <img src="https://github.com/user-attachments/assets/9ad55d19-f202-4565-b7d3-d928fe8c0735"
-     width="80">
+     width="120">
 </a>
 </td>
 
