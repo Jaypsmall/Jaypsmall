@@ -176,7 +176,7 @@
 
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
-<a href="https://github.com/Jaypsmall/HexRootFuzz">
+<a href="https://jaypsmall.github.io/HexRootFuzz">
 <img src="https://github.com/user-attachments/assets/681bfd3f-f3a9-484b-8706-bdff99c42ca8"
      width="80">
 </a>
@@ -184,7 +184,7 @@
 
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
-<a href="https://github.com/Jaypsmall/HexRootScan">
+<a href="https://jaypsmall.github.io/HexRootScan">
 <img src="https://github.com/user-attachments/assets/8394a0b6-b2cf-4004-a618-5dc9c68616a0"
      width="80">
 </a>
@@ -192,7 +192,7 @@
 
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
-<a href="https://github.com/Jaypsmall/DemoniTalk">
+<a href="https://jaypsmall.github.io/DemoniTalk">
 <img src="https://github.com/user-attachments/assets/95ba40b6-9836-4334-8e0d-5f2f5b7e0b10"
      width="80">
 </a>
@@ -200,7 +200,7 @@
 
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
-<a href="https://github.com/Jaypsmall/DemoniWifi">
+<a href="https://jaypsmall.github.io/DemoniWifi">
 <img src="https://github.com/user-attachments/assets/9ad55d19-f202-4565-b7d3-d928fe8c0735"
      width="80">
 </a>
@@ -237,7 +237,7 @@
 
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
-<a href="https://github.com/Jaypsmall/HexColor">
+<a href="https://jaypsmall.github.io/HexColor">
 <img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462"
      width="80">
 </a>
@@ -261,7 +261,7 @@
 
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
-<a href="https://github.com/Jaypsmall/Daltonic-Assist-Pro">
+<a href="https://jaypsmall.github.io/Daltonic-Assist-Pro">
 <img src="https://github.com/user-attachments/assets/250cd394-dc8a-4822-a81d-de03199ba262"
      width="80">
 </a>
@@ -297,7 +297,7 @@
 
 <td align="center" 
     style="border: 2px solid #FFD600; background-color: #030B12; padding: 2px;">
-<a href="https://github.com/Jaypsmall/HexColor-Pro">
+<a href="https://jaypsmall.github.io/HexColor-Pro">
 <img src="https://github.com/user-attachments/assets/bf2cdfb2-9dcb-4763-97bd-9606d5a428e5" 
     width="80" >
 </td>
@@ -390,7 +390,7 @@ Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 <img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462"
      width="70" />&nbsp; 
 </a>&nbsp; 
-<a href="https://github.com/Jaypsmall/HexColor">
+<a href="https://jaypsmall.github.io/HexColor-Pro">
   <img src="https://github.com/user-attachments/assets/bf2cdfb2-9dcb-4763-97bd-9606d5a428e5" 
     width="70" />
 </a><br><br>
