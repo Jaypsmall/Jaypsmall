@@ -192,7 +192,7 @@
 
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
-<a href="https://jaypsmall.github.io/DemoniTalk">
+<a href="https://jaypsmall.github.io/DemoniTalk-Pro">
 <img src="https://github.com/user-attachments/assets/95ba40b6-9836-4334-8e0d-5f2f5b7e0b10"
      width="80">
 </a>
@@ -289,7 +289,7 @@
 
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
-<a href="https://github.com/Jaypsmall/Resonantia">
+<a href="https://jaypsmall.github.io/Resonantia">
 <img src="https://github.com/user-attachments/assets/713df46d-e48d-431e-b4d5-3bce9cbd1583"
      width="80">
 </a>
