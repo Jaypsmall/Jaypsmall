@@ -193,7 +193,7 @@
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:2px;">
 <a href="https://jaypsmall.github.io/DemoniTalk-Pro">
-<img src="https://github.com/user-attachments/assets/95ba40b6-9836-4334-8e0d-5f2f5b7e0b10"
+<img src="https://github.com/Jaypsmall/DemoniTalk-Pro/blob/master_v2.0.6_IA/docs%2Fassets%2Fdemoni-talk-pro.png"
      width="80">
 </a>
 </td>
