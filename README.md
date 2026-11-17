@@ -202,6 +202,63 @@
 
 ---
 
+# 🛸 System & Metric
+
+<div align="center">
+
+### 👾 CONTRIBUTION_GRID
+
+<table width="100%">
+
+<tr>
+
+<td align="center" style="background:#030B12; border:2px solid #6840B8; padding:2px;">
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" 
+width="100%" 
+alt="Pacman Contribution Graph">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=FFD600&text_color=93BFD6&icon_color=6840B8&border_color=70B9EC&ring=D93831&hide_border=false"
+width="100%"
+alt="GitHub Statistics">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=FFD600&text_color=93BFD6&icon_color=8860C8&border_color=70B9EC&layout=compact&hide_border=false"
+width="100%"
+alt="Top Languages">
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=70B9EC&stroke=6840B8&ring=D93831&fire=FF8B3D&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=93BFD6&sideNums=93BFD6&dates=FFD600&hide_border=false" width="100%" alt="GitHub Contribution Streak">
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/main/output/contribs-dark.svg" 
+width="100%" 
+alt="GitHub Contribution 3DStreak">
+</p>
+
+### 📡 CONNECT & SYSTEM INFO
+
+[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=FFD600&labelColor=030B12)](https://github.com/Jaypsmall)
+[![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=FFD600&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
+
+![ProfileViews](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS&color=D93831&labelColor=FF6000)
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
 # 🚀 Project Lab 
 
 > A collection of Android, cybersecurity, automation and experimental projects.
@@ -619,63 +676,6 @@ Repository:
 - 💜 Kotlin Development
 - 🐧 Linux
 - 🌐 Open Source
-
----
-
-# 🛸 System & Metric
-
-<div align="center">
-
-### 👾 CONTRIBUTION_GRID
-
-<table width="100%">
-
-<tr>
-
-<td align="center" style="background:#030B12; border:2px solid #6840B8; padding:2px;">
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/output/pacman-contribution-graph-dark.svg" 
-width="100%" 
-alt="Pacman Contribution Graph">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=FFD600&text_color=93BFD6&icon_color=6840B8&border_color=70B9EC&ring=D93831&hide_border=false"
-width="100%"
-alt="GitHub Statistics">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaypsmall&theme=dark&bg_color=030B12&title_color=FFD600&text_color=93BFD6&icon_color=8860C8&border_color=70B9EC&layout=compact&hide_border=false"
-width="100%"
-alt="Top Languages">
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Jaypsmall&theme=dark&background=030B12&border=70B9EC&stroke=6840B8&ring=D93831&fire=FF8B3D&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=93BFD6&sideNums=93BFD6&dates=FFD600&hide_border=false" width="100%" alt="GitHub Contribution Streak">
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Jaypsmall/Jaypsmall/main/output/contribs-dark.svg" 
-width="100%" 
-alt="GitHub Contribution 3DStreak">
-</p>
-
-### 📡 CONNECT & SYSTEM INFO
-
-[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=FFD600&labelColor=030B12)](https://github.com/Jaypsmall)
-[![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=FFD600&labelColor=030B12)](mailto:pekipekistani22@gmail.com)
-
-![ProfileViews](https://komarev.com/ghpvc/?username=Jaypsmall&style=flag&label=PROFILE+VIEWS&color=D93831&labelColor=FF6000)
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
 
 ---
 
