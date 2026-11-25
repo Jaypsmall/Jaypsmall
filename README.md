@@ -242,6 +242,17 @@ width="100%"
 alt="GitHub Contribution 3DStreak">
 </p>
 
+
+<p align="center" bgcolor="#030B12" style="border: 1px solid #FFD600; background-color: #030B12; padding: 2px;" cellspacing="5" cellpadding="0">
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="60" alt="Kotlin" /></a> &nbsp;&nbsp;
+  <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="60" alt="Flutter" /></a> &nbsp;&nbsp;
+  <a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="60" alt="Dart" /></a> &nbsp;&nbsp;
+  <a href="https://www.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="60" alt="Android" /></a> &nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" alt="Python" /></a> &nbsp;&nbsp;
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="60" alt="Rust" /></a> &nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" alt="Git" /></a>
+</p>
+
 ### 📡 CONNECT & SYSTEM INFO
 
 [![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=FFD600&labelColor=030B12)](https://github.com/Jaypsmall)
