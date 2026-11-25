@@ -286,9 +286,9 @@ alt="GitHub Contribution 3DStreak">
 
 Comandos de voz, macros y controles de automatización flotantes.<br><br>
 
-<a href="https://jaypsmall.github.io/DemoniTalk">
-<img src="https://github.com/user-attachments/assets/95ba40b6-9836-4334-8e0d-5f2f5b7e0b10"
-     width="70">
+<a href="https://jaypsmall.github.io/DemoniTalk-Pro">
+<img src="https://github.com/Jaypsmall/DemoniTalk-Pro/blob/0daaef85f6f85f04af5b7b0b21ef008ead1f4622/assets/icon/BackgroundEraser_20261125_161213932.png"
+     width="100">
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="30" alt="Rust" /><br><br></code> <code>Accessibility</code> <code>Overlay</code><br><br>
@@ -345,11 +345,11 @@ Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
 
 <a href="https://jaypsmall.github.io/HexColor">
 <img src="https://github.com/user-attachments/assets/159fccf4-54e9-4161-8b7b-1419ee5f1462"
-     width="70" />&nbsp; 
+     width="100" />&nbsp; 
 </a>&nbsp; 
 <a href="https://jaypsmall.github.io/HexColor-Pro">
   <img src="https://github.com/user-attachments/assets/bf2cdfb2-9dcb-4763-97bd-9606d5a428e5" 
-    width="70" />
+    width="100" />
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="30" alt="Rust" /><br><br><code>Camera</code> <code>Color</code><br><br>
@@ -370,7 +370,7 @@ Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 
 <a href="https://github.com/Jaypsmall/HexCollage">
 <img src="https://github.com/user-attachments/assets/554fd31f-b793-427f-91e3-25f299ff0e24"
-     width="70">
+     width="100">
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Collage</code> <code>Color</code><br><br>
@@ -391,7 +391,7 @@ Herramientas experimentales de puntería de precisión e interacción programabl
 
 <a href="https://github.com/Jaypsmall/Sniper">
 <img src="https://github.com/user-attachments/assets/850398c4-8f5c-468f-9def-4ae00152a953"
-     width="70">
+     width="100">
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
@@ -416,7 +416,7 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 
 <a href="https://jaypsmall.github.io/HexRootScan">
 <img src="https://github.com/user-attachments/assets/8394a0b6-b2cf-4004-a618-5dc9c68616a0"
-     width="70">
+     width="100">
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
@@ -437,7 +437,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 
 <a href="https://jaypsmall.github.io/HexRootFuzz">
 <img src="https://github.com/user-attachments/assets/681bfd3f-f3a9-484b-8706-bdff99c42ca8"
-     width="70">
+     width="100">
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
