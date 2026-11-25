@@ -46,7 +46,7 @@
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://github.com/Jaypsmall/DemoniDraw">
-<img src="https://github.com/user-attachments/assets/9f968006-ca8a-4b38-a14c-6e0f83648873"
+<img src="https://github.com/Jaypsmall/DemoniDraw/blob/2c1faeae33cdc6f58fd3192cc8ab75a093bc5b39/docs/assets/icon_demonidraw.png"
      width="120">
 </a>
 </td>
@@ -83,14 +83,14 @@
     style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://jaypsmall.github.io/DemoniTalk-Pro">
 <img src="https://github.com/Jaypsmall/DemoniTalk-Pro/blob/0daaef85f6f85f04af5b7b0b21ef008ead1f4622/assets/icon/BackgroundEraser_20261125_161213932.png"
-     width="125">
+     width="120">
 </a>
 </td>
 
 <td align="center"
     style="border:2px solid #6840B8; background:#030B12; padding:0px;">
 <a href="https://jaypsmall.github.io/DemoniWifi">
-<img src="https://github.com/user-attachments/assets/9ad55d19-f202-4565-b7d3-d928fe8c0735"
+<img src="https://github.com/Jaypsmall/DemoniWifi/blob/5df619791a180fe461511613aae71aea05e7ac86/assets/icon_demoniwifi.png"
      width="120">
 </a>
 </td>
@@ -307,6 +307,11 @@ Comandos de voz, macros y controles de automatización flotantes.<br><br>
 
 Gesture commands, recognition and programmable automation.<br><br>
 
+<a href="https://jaypsmall.github.io/DemoniDraw">
+<img src="https://github.com/Jaypsmall/DemoniDraw/blob/2c1faeae33cdc6f58fd3192cc8ab75a093bc5b39/docs/assets/icon_demonidraw.png"
+     width="100">
+</a><br><br>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Gestures</code> <code>Macros</code> <code>Overlay</code><br><br>
 
 <a href="https://github.com/Jaypsmall/DemoniDraw">
@@ -322,6 +327,11 @@ Gesture commands, recognition and programmable automation.<br><br>
 <b>Android · Network · WiFi</b><br>
 
 WiFi network analysis and wireless network utilities for Android.<br><br>
+
+<a href="https://jaypsmall.github.io/DemoniWifi">
+<img src="https://github.com/Jaypsmall/DemoniWifi/blob/5df619791a180fe461511613aae71aea05e7ac86/assets/icon_demoniwifi.png"
+     width="100">
+</a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>WiFi</code> <code>Network</code> <code>Security</code><br><br>
 
