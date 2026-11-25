@@ -476,6 +476,11 @@ CPU governor control, thermal monitoring and performance profiles.<br><br>
 
 Accessibility-oriented visual assistance color perception tools.<br><br>
 
+<a href="https://jaypsmall.github.io/Daltonic-Assist-Pro">
+<img src="https://github.com/Jaypsmall/Daltonic-Assist-Pro/blob/b56fb6515f4702a7e53bac9f0d16fee8aa6a20e2/assets/images/BackgroundEraser_20261125_163420999.png"
+     width="100">
+</a><br><br>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Accessibility</code> <code>Vision</code><br><br>
 
 <a href="https://github.com/Jaypsmall/Daltonic-Assist-Pro">
