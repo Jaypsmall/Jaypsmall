@@ -1,19 +1,15 @@
 
 <div align="center">
-
 <table width="100%">
-
 <tr>
 
 <td align="center" width="100%" style="background:#030B12; border:2px solid #6840B8; padding:0px;">
-
-<p align="center" width="100%">
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/d3ad85cba85a930b21b69a38225d8530effb15db/assets/android_engine1.jpg" alt="Mi Stack" width="100%">
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
-</p>
-
-</
-
+    </td>
+</tr>
+</table>
+</div>
 <!-- ===================================================== -->
 <!--                    APP SHOWCASE                        -->
 <!-- ===================================================== -->
