@@ -531,7 +531,7 @@ Busca tu frecuencia y alcanza tus objetivos.<br><br>
 
 <b>Android · Science · 3D</b><br>
 
-Experimental scientific visualization, molecular and 3D exploration tools.<br><br>
+Herramientas de visualización científica experimental, exploración molecular y 3D.<br><br>
 
 <a href="https://github.com/Jaypsmall/3Dscience">
 <img src="https://github.com/user-attachments/assets/a69b71ca-a59e-4f2c-a6a2-0061d5730e13"
@@ -588,7 +588,7 @@ Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
 
 <b>Android · Voice · Audio</b><br>
 
-Voice transformation and audio processing tools for Android.<br><br>
+Herramientas de transformación de voz y procesamiento de audio para Android.<br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java" />&nbsp; <br><br><code>Voice</code> <code>Audio</code> <code>TTS</code><br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
@@ -606,13 +606,13 @@ Voice transformation and audio processing tools for Android.<br><br>
 
 # 👨‍💻 About Me
 
-I'm an **Android Developer** focused on:
+Soy un **desarrollador Android** centrado en: 
 
-- 🔓 **Root & Android Internals**
-- 🛡️ **Cybersecurity & Pentesting**
-- 🤖 **Automation & Accessibility**
-- ⚙️ **System Performance & Optimization**
-- 🎓 **Experimental Software & Research**
+- 🔓 **Root e internos de Android** 
+- 🛡️ **Ciberseguridad y Pentesting** 
+- 🤖 **Automatización y Accesibilidad** 
+- ⚙️ **Rendimiento y optimización del sistema** 
+- 🎓 **Software experimental e investigación**
 
 Desarrollo herramientas que interactúan directamente con sistemas Android y Linux, explorando desde la gestión de la CPU y el control térmico hasta la automatización, el procesamiento de audio, la investigación en seguridad y los algoritmos experimentales.
 
@@ -672,9 +672,9 @@ Desarrollo herramientas que interactúan directamente con sistemas Android y Lin
 
 **Asymmetric Flow & Geometric Absorption Framework**
 
-Experimental mathematical framework focused on studying dynamic redistribution processes in multi-variable systems through computational simulation.
+Marco matemático experimental centrado en el estudio de procesos de redistribución dinámica en sistemas multivariables mediante simulación computacional. 
 
-The project explores how interacting variables evolve through asymmetric transitions, geometric progression, and state redistribution.
+El proyecto explora cómo evolucionan las variables interactuantes mediante transiciones asimétricas, progresión geométrica y redistribución de estados.
 
 ## Reference Implementation
 
@@ -684,14 +684,14 @@ The project explores how interacting variables evolve through asymmetric transit
 
 Primera implementación computacional desarrollada para estudiar experimentalmente los principios de la Teoría del Flujo Asimétrico. 
 
-**Features**
+**Características**   
 
-- 📊 Mathematical state simulation
-- 🔬 Statistical analysis
-- 🔄 Dynamic variable redistribution
-- 📈 Geometric progression modelling
-- 🎲 Monte Carlo experimentation
-- 🌀 Computational analysis
+- 📊 Simulación de estados matemáticos
+- 🔬 Análisis estadístico
+- 🔄 Redistribución dinámica de variables
+- 📈 Modelado de progresión geométrica
+- 🎲 Experimentación con Montecarlo
+- 🌀 Análisis computacional 
 
 **Stack**
 
