@@ -297,7 +297,7 @@ Comandos de voz, macros y controles de automatización flotantes.<br><br>
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="30" alt="Rust" /><br><br></code> <code>Accessibility</code> <code>Overlay</code><br><br>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
 <a href="https://github.com/Jaypsmall/DemoniTalk-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
 </a>
