@@ -512,6 +512,11 @@ Accessibility-oriented visual assistance color perception tools.<br><br>
 
 Busca tu frecuencia y alcanza tus objetivos.<br><br>
 
+<a href="https://jaypsmall.github.io/Resonantia">
+<img src="https://github.com/user-attachments/assets/713df46d-e48d-431e-b4d5-3bce9cbd1583"
+     width="100">
+</a><br><br>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Bienestar</code> <code>Salud</code><br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
 <a href="https://github.com/Jaypsmall/Resonantia">
