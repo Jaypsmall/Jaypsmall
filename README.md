@@ -472,7 +472,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 CPU governor control, thermal monitoring and performance profiles.<br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Magisk</code> <code>KernelSU</code><br><br>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
 <a href="https://github.com/Jaypsmall/CpuTemp">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=38B8D8">
 </a>
@@ -581,7 +581,7 @@ Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
 Voice transformation and audio processing tools for Android.<br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java" />&nbsp; <br><br><code>Voice</code> <code>Audio</code> <code>TTS</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/ProVoiceChanger">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=red">
 </a>
