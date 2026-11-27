@@ -339,7 +339,7 @@ WiFi network analysis and wireless network utilities for Android.<br><br>
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>WiFi</code> <code>Network</code> <code>Security</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/DemoniWifi">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
 </a>
@@ -410,7 +410,7 @@ Herramientas experimentales de puntería de precisión e interacción programabl
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Automation</code> <code>Overlay</code> <code>Touch</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/Sniper">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
 </a>
@@ -472,7 +472,7 @@ Security testing and fuzzing utilities for Android environments.<br><br>
 CPU governor control, thermal monitoring and performance profiles.<br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Magisk</code> <code>KernelSU</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/CpuTemp">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=38B8D8">
 </a>
@@ -529,7 +529,7 @@ Busca tu frecuencia y alcanza tus objetivos.<br><br>
 Experimental scientific visualization, molecular and 3D exploration tools.<br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>3D</code> <code>Science</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/3Dscience">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=6840B8">
 </a>
