@@ -1,6 +1,6 @@
 
 <div align="center">
-<table width="100%">
+
 <tr>
 
 <td align="center" width="100%" style="background:#030B12; border:2px solid #6840B8; padding:0px;">
@@ -8,7 +8,6 @@
   <img src="https://github.com/Jaypsmall/Jaypsmall/blob/main/assets/ezgif.com-gif-maker.gif" alt="Mi Banner Animado" width="100%">
     </td>
 </tr>
-</table>
 </div>
 
 ---
