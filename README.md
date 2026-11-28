@@ -296,8 +296,9 @@ Comandos de voz, macros y controles de automatización flotantes.<br><br>
      width="100">
 </a><br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="30" alt="Rust" /><br><br></code> <code>Accessibility</code> <code>Overlay</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="30" alt="Rust" /><br><br> 
+<code>Accessibility</code> <code>Overlay</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/DemoniTalk-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
 </a>
@@ -318,7 +319,7 @@ Gesture commands, recognition and programmable automation.<br><br>
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Gestures</code> <code>Macros</code> <code>Overlay</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/DemoniDraw">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
 </a>
@@ -367,8 +368,9 @@ Paleta, Rueda HSL, captura de cámara, armonías.<br><br>
     width="100" />
 </a><br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="30" alt="Rust" /><br><br><code>Camera</code> <code>Color</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" height="30" alt="Rust" /><br><br> 
+<code>Camera</code> <code>Color</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/HexColor-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
 </a>
@@ -389,7 +391,7 @@ Puedes crear tu propio Collage con tus fotos, te encantará.<br><br>
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Collage</code> <code>Color</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/HexCollagePro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=FFD600">
 </a>
@@ -423,7 +425,7 @@ Herramientas experimentales de puntería de precisión e interacción programabl
 
 <td width="25%" valign="top" align="center">
 
-<h2>🔓 HexRootScan</h2>
+<h2> HexRootScan <img src="https://github.com/Jaypsmall/Jaypsmall/blob/e41fbcc471bda80eca5903650c7c3911fd84d981/assets/icon_labA512.png" height="30" alt="Lab" /></h2>
 
 <b>Android · Pentesting · Network</b><br>
 
@@ -434,8 +436,9 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
      width="100">
 </a><br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <img src="https://github.com/Jaypsmall/Jaypsmall/blob/e41fbcc471bda80eca5903650c7c3911fd84d981/assets/icon_labA512.png" height="30" alt="Lab" />&nbsp; <br><br>
+<code>Nmap</code> <code>DNS</code> <code>Whois</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/HexRootScan">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=3868D8">
 </a>
@@ -444,7 +447,7 @@ Network reconnaissance and security toolkit for Android mobiles.<br><br>
 
 <td width="25%" valign="top" align="center">
 
-<h2>🔧 HexRootFuzz</h2>
+<h2> HexRootFuzz <img src="https://github.com/Jaypsmall/Jaypsmall/blob/e41fbcc471bda80eca5903650c7c3911fd84d981/assets/icon_labR512.png" height="30" alt="Lab" /></h2>
 
 <b>Android · Pentesting · Fuzzing</b><br>
 
@@ -455,8 +458,8 @@ Security testing and fuzzing utilities for Android environments.<br><br>
      width="100">
 </a><br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <img src="https://github.com/Jaypsmall/Jaypsmall/blob/e41fbcc471bda80eca5903650c7c3911fd84d981/assets/icon_labR512.png" height="30" alt="Lab" />&nbsp; <br><br><code>Security</code> <code>Fuzzing</code> <code>Root</code><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=3868D8">
 </a>
@@ -497,7 +500,7 @@ Accessibility-oriented visual assistance color perception tools.<br><br>
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Accessibility</code> <code>Vision</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/Daltonic-Assist-Pro">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=green">
 </a>
@@ -518,7 +521,7 @@ Busca tu frecuencia y alcanza tus objetivos.<br><br>
 </a><br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Bienestar</code> <code>Salud</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/Resonantia">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-030B12?style=flat&logo=github&logoColor=38B8D8">
 </a>
@@ -559,7 +562,7 @@ Herramientas de visualización científica experimental, exploración molecular 
 Apunta notas de tus cuentas de forma sencilla.<br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>VoiceNotes</code> <code>Overlay</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/CyberVarilla">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=FF8B3D">
 </a>
@@ -575,7 +578,7 @@ Apunta notas de tus cuentas de forma sencilla.<br><br>
 Aplicacion para ver cuando tu amigo recibe el mensaje.<br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />&nbsp; <br><br><code>Automation</code> <code>WhatsApp</code><br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="30" alt="Android" /><br>
 <a href="https://github.com/Jaypsmall/DimeTu">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=green">
 </a>
