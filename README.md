@@ -10,6 +10,8 @@
 </tr>
 </table>
 </div>
+
+---
 <!-- ===================================================== -->
 <!--                    APP SHOWCASE                        -->
 <!-- ===================================================== -->
@@ -19,11 +21,11 @@
 <!--                     DARK TOOLS                         -->
 <!-- ===================================================== -->
 
+# 😈 Dark Tools 😈 
+
 <td width="50%" valign="top" align="center">
-
-<h2>😈 Dark Tools 😈</h2>
-
-<b>Root &nbsp;·&nbsp; Pentesting &nbsp;·&nbsp; Android</b>
+ 
+### <b>Root &nbsp;·&nbsp; Pentesting &nbsp;·&nbsp; Android</b>
 
 <br>
 
@@ -113,11 +115,11 @@
 <!--                    GENERAL APPS                        -->
 <!-- ====================================================== -->
 
+# 📱 General Apps 📱
+
 <td width="50%" valign="top" align="center">
 
-<h2>📱 General Apps 📱</h2>
-
-<b>Utilities &nbsp;·&nbsp; Accessibility &nbsp;·&nbsp; Science</b>
+### <b>Utilities &nbsp;·&nbsp; Accessibility &nbsp;·&nbsp; Science</b>
 
 <br>
 
@@ -196,10 +198,6 @@
 
 </table>
 
-</td>
-
-</tr>
-</table>
 
 ---
 
